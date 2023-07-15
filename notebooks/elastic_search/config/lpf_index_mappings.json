@@ -1,0 +1,77 @@
+{
+   "settings":{
+      "index":{
+         "number_of_shards":1,
+         "number_of_replicas":0
+      },
+      "analysis":{
+         "filter":{
+            "german_decompounder":{
+               "type":"hyphenation_decompounder",
+               "word_list_path":"analysis/de/dictionary-de.txt",
+               "hyphenation_patterns_path":"analysis/de/de_DR.xml",
+               "only_longest_match":true,
+               "min_subword_size":4
+            },
+            "german_stemmer":{
+               "type":"stemmer",
+               "language":"light_german"
+            },
+            "german_stop":{
+               "type":"stop",
+               "stopwords":"_german_"
+            }
+         },
+         "analyzer":{
+            "german_custom":{
+               "type":"custom",
+               "tokenizer":"standard",
+               "filter":[
+                  "lowercase",
+                  "german_decompounder",
+                  "german_normalization",
+                  "german_stemmer",
+                  "german_stop"
+               ]
+            },
+            "my_default_analyzer":{
+               "type": "standard",
+               "filter": [ "stop", "lowercase"
+                ]
+             }
+         }
+      }
+   },
+   "mappings":{
+      "dynamic":"strict",
+      "properties":{
+        "id":    { "type": "keyword" },
+        "label":    { "type": "keyword" },
+        "title":    { "type": "text" },
+        "published_date":    { "type": "date" },
+        "page_url":    { "type": "keyword" },
+         "contents":{
+            "properties":{
+               "language":{
+                  "type":"keyword"
+               },
+               "supported":{
+                  "type":"boolean"
+               },
+               "default":{
+                  "type":"text",
+                  "analyzer":"my_default_analyzer"
+               },
+               "en":{
+                  "type":"text",
+                  "analyzer":"english"
+               },
+               "de":{
+                  "type":"text",
+                  "analyzer":"german_custom"
+               }
+            }
+         }
+      }
+   }
+}

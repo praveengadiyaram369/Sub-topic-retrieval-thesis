@@ -1,0 +1,417 @@
+box,box
+dart,dart
+high-level hand tracking,high level hand tracking
+camera,camera
+MediaPipe and ManoMotion,MediaPipe ManoMotion
+justifiable gesture,justifiable gesture
+Quest hand tracking,Quest hand tracking
+modern world,modern
+potentially ground-breaking technology,ground breaking technology
+Contents Chapter,Contents chapter
+Three Primary Ways,Primary
+sparkles,sparkle
+palm,palm
+Jitter,jitter
+controllers,controller
+application,application
+mixed reality,mixed reality
+Source,source
+virtual darts game,virtual darts game
+your VR app,VR app
+experimental feature,experimental feature
+virtual reality environment,virtual reality environment
+new paradigms,paradigm
+position and shape,position shape
+any obvious jittering,obvious jittere
+scroll,scroll
+issues,issue
+experienced VR users,experienced VR user
+Facebook Reality Labs,Facebook Reality lab
+feedback,feedback
+virtual reality hands,virtual reality hand
+more freedom,freedom
+virtual reality input,virtual reality input
+imagination,imagination
+grip,grip
+essential road,essential road
+modified hand ray,modified hand ray
+constructive criticism,constructive criticism
+ground-breaking ideas,ground breaking idea
+misalignment,misalignment
+Gesture Recognition,Gesture recognition
+movement,movement
+object size,object size
+fully-articulated tracking hardware,fully articulated tracking hardware
+some physical models,physical model
+simple ideas,simple idea
+magnitude,magnitude
+your arms,arm
+deep learning,deep learn
+hands and finger,hands finger
+enterprise,enterprise
+fly,fly
+reach,reach
+pinhead,pinhead
+these three problems,problem
+certain poses,pose
+some haptic feedback,haptic feedback
+testing,testing
+tool,tool
+inherent meaning,inherent
+groundbreaking feature,groundbreaking feature
+good debugging tool,good debugging tool
+impact,impact
+Swipe Keyboard,Swipe Keyboard
+latest developments,latest development
+User Testing,User test
+research project,project
+your testers,tester
+Leap Motion,Leap motion
+Tilt Brush,Tilt Brush
+considerable hype,considerable hype
+some bias,bias
+some persistent issues,persistent issue
+Beauchamp,Beauchamp
+OK sign,sign
+peace symbol,peace symbol
+screenshot,screenshot
+Tracked motion controllers,Tracked motion controller
+bizarre misjudgments,bizarre misjudgment
+improvements,improvement
+distant object,distant object
+objects,object
+windows,window
+your desk,desk
+distance,distance
+ray,ray
+no reason,reason
+size,size
+virtual world,virtual
+other team members,team member
+your real hands,real hand
+hand tracking field,hand tracking field
+Bad lighting,Bad light
+tracking,tracking
+realm of VR,realm VR
+closer look,closer
+company,company
+degree of accuracy,degree accuracy
+Your vision,vision
+virtual space,virtual space
+viable input method,viable input method
+specific poses,specific pose
+huge breakthroughs,huge breakthrough
+beta testing,beta testing
+design teams,design team
+head of VR,head VR
+elements,element
+WOW factor,WOW factor
+presence,presence
+debugging tool,debugging tool
+hands and body,hands body
+inch,inch
+Snapping Finger,Snapping Finger
+your game engine,game engine
+optimization,optimization
+technology,technology
+quality and user,quality user
+potential,potential
+Rift S,Rift
+forefinger,forefing
+user’s fingers,user finger
+close one-to-one mapping,close map
+64GB and 128GB,64GB 128GB
+Finger,Finger
+greater accuracy,greater accuracy
+hands and you,hands
+new design paradigms,design paradigm
+No wires,wire
+regular meetings,regular meeting
+VIDEO,VIDEO
+Touch Controllers,Touch controller
+Quest controller,Quest controller
+items,item
+accuracy,accuracy
+your hands' location,hands location
+flaws,flaw
+fingers and palm,fingers palm
+motion,motion
+hardware,hardware
+screen,screen
+mouse-based environment,mouse based environment
+user's ability,user ability
+design concepts,design concept
+shape,shape
+evolution,evolution
+new Oculus feature,Oculus feature
+your head position,head position
+reality,reality
+square shape,square shape
+fully-articulated hand tracking,fully articulated hand tracking
+Interaction Resolution,Interaction resolution
+designers and app,designers app
+good starting point,good starting point
+project management tools,project management tool
+Grotesque Teleports,Grotesque teleport
+Hand Throwing,Hand throw
+fake hands,fake hand
+arms reach,arms reach
+broader range,broader range
+People,People
+VR/AR,VR
+these errors,error
+software,software
+heightened sense,heightened sense
+last major shift,major shift
+frame,frame
+axis of movement,axis movement
+Unintentional gesticulations,Unintentional gesticulation
+your actual hands,actual hand
+more purposeful project,purposeful project
+accurate degree,accurate degree
+competition,competition
+group,group
+Intentional meaningless gestures,Intentional meaningless gesture
+simple gestures,simple gesture
+HoloLens,HoloLens
+ways of design,ways design
+VR device,VR device
+smartphones and tablets,smartphones tablet
+access,access
+really good name,good
+holograms,hologram
+researcher's mode,researcher mode
+key factors,key factor
+128GB,128GB
+head,head
+polished concept,polished concept
+winning product,winning product
+Range/Size Amplification,Range Size amplification
+most exciting features,exciting feature
+New Paradigms,Paradigms
+fun ideas,fun idea
+doors,door
+natural interactions,natural interaction
+design process,design process
+externally tracked controller,externally tracked controller
+hand tracking application,hand tracking application
+Time,time
+temptation,temptation
+relatively minimal movement,minimal movement
+new possibilities,possibility
+your mind,mind
+many experts,expert
+Valve Knuckles,Valve knuckle
+impact of Oculus,impact oculus
+Quest,quest
+user,user
+app designers,app designer
+fun concept,fun concept
+Intentional operations,Intentional operation
+opposing hand,opposing hand
+Communication,communication
+bit,bit
+capabilities,capability
+virtual experience,virtual experience
+user’s hands,user hand
+actions,action
+challenge,challenge
+external communication,external communication
+Experiment,experiment
+critical aspect,critical aspect
+your space,space
+whole game,game
+Oculus link,Oculus link
+Smartphone SDKs,Smartphone SDKs
+Google,Google
+simple interactions,simple interaction
+Interacting,interact
+floor,floor
+Hand tracking,Hand tracking
+"next ""swipe"" motion",swipe motion
+silly ideas,silly idea
+negative feedback,negative feedback
+your office,office
+alternative,alternative
+people,people
+interactions and concepts,interactions concept
+free-flowing discussion,free flowing discussion
+” approach,approach
+clouds,cloud
+practical advice,practical advice
+real location,real location
+leverage,leverage
+angle,angle
+diverse range,diverse range
+similar pushing movement,pushing movement
+position,position
+VR) industry,VR industry
+set,set
+room,room
+user experience,user experience
+hand tracking techniques,hand tracking technique
+Unity,unity
+content,content
+regard,regard
+completed text,completed text
+common body language,common body language
+open platforms,open platform
+natural gestures,natural gesture
+boundaries,boundary
+tablets,tablet
+software engineer,software engineer
+Recognition Gesture recognition,Recognition Gesture recognition
+ManoMotion,ManoMotion
+only interaction,interaction
+limitations,limitation
+finger joint,finger joint
+degree,degree
+MediaPipe,mediapipe
+leap,leap
+2D vectors,2D vector
+Drift,drift
+VR development,VR development
+user’s actual hands,user actual hand
+outcome,outcome
+virtual environment,virtual environment
+foundational concept,foundational concept
+quality,quality
+mobile-centric reality,mobile centric reality
+3D points,point
+system escape,escape
+64GB,64GB
+machine learning technology,machine learning technology
+2D content aspects,2D content aspect
+both Quest models,Quest model
+unique hardware,unique hardware
+your UX/UI design,UX design
+VR environments,VR environment
+VR/AR community,VR community
+clicking,click
+raw potential,raw potential
+virtual hands,virtual hand
+interface,interface
+debugging issues,debugging issue
+Vectary,vectary
+Oculus Quest,Oculus quest
+rapid visualization tools,rapid visualization tool
+VR design,VR design
+axis,axis
+feature,feature
+device,device
+unexplored technology,unexplored technology
+many cultures,culture
+another distance tool,distance tool
+mixed reality technology,mixed reality technology
+basic building blocks,basic building block
+infancy,infancy
+VRgluv,VRgluv
+control,control
+incredible accuracy,incredible accuracy
+vital aspect,vital aspect
+Oculus,oculus
+New Hardware Demands,Hardware demand
+interface of Oculus,interface oculus
+lot,lot
+feel,feel
+your concepts,concept
+sensors,sensor
+buttons,button
+Shopify,shopify
+rough brainwave,rough brainwave
+paint tools,paint tool
+too much light,light
+potential of hand,potential hand
+user interface,user interface
+article,article
+virtual keyboard,virtual keyboard
+entire scenes,entire scene
+other surfaces,surface
+smartphones,smartphone
+Blocks,block
+virtual touchscreen,virtual touchscreen
+helmet,helmet
+beam,beam
+team,team
+Manus Prime,Manus prime
+immense opportunities,immense opportunity
+innovative new paradigm,innovative paradigm
+Flying Hands,Flying hand
+every finger,finger
+your headset,headset
+testing and optimization,testing optimization
+Performance,performance
+holding,hold
+depth,depth
+developers and users,developers user
+length,length
+HMD,HMD
+hand tracking technology,hand tracking technology
+Oculus Rift,Oculus Rift
+advanced debugging tools,advanced debugging tool
+tasks,task
+flipping switches,flipping switch
+designers,designer
+burden,burden
+whole product,product
+current best practices,current practice
+bad ideas,bad idea
+Quest and HoloLens,Quest HoloLens
+minimum object scale,minimum object scale
+pair,pair
+landscape,landscape
+ingrained meaning,ingrained
+thumbs,thumb
+fast production,production
+drift issues,drift issue
+direct manipulation,direct manipulation
+essential evolution,essential evolution
+Unreal,unreal
+education,education
+lot of room,lot room
+Oculus Store,Oculus store
+many small things,small
+Hand Rays,Hand ray
+ability,ability
+abstract ways,abstract
+desktop computers,desktop
+VR newbies,VR newbie
+realm,realm
+list,list
+response,response
+your shortest-armed user,shortest armed user
+VR app developers,VR app developer
+your iteration time,iteration time
+introduction,introduction
+skills,skill
+touchscreens,touchscreens
+Debug Tools,Debug tool
+early days,early day
+significant constraint,constraint
+body,body
+excellent opportunities,excellent opportunity
+gestures,gesture
+set of hands,set hand
+large-scale manipulation,large scale manipulation
+introduction of Oculus,introduction oculus
+near input model,input model
+high-level coding skills,high level coding skill
+Daniel Beauchamp,Daniel Beauchamp
+eye-pinch gesture,eye pinch gesture
+truth,truth
+subconscious movement,subconscious movement
+your finished models,finished model
+some kinks,kink
+huge objects,huge object
+constant offset,constant offset
+AR platforms,platform
+prominent example,prominent
+finger and thumb,finger thumb
+Chapter,chapter
+silly approach,silly approach
+new ideas,idea
+Oculus Quest technology,Oculus Quest technology
+Future,future
+essential gesture,essential gesture
+some VR experience,VR experience
+app,app

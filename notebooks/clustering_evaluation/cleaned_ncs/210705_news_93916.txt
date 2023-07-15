@@ -1,0 +1,69 @@
+realen Personen,Person
+Bekämpfung,Bekämpfung
+The Current,Current
+Newsrooms,Newsrooms
+Mitarbeiter,Mitarbeiter
+YouTube,YouTube
+Projekt,Projekt
+Forschern und Journalisten,Forschern Journalist
+Enthauptungsvideos,Enthauptungsvideos
+Einfluss,Einfluss
+Gesellschaft,Gesellschaft
+StyleGAN,StyleGAN
+Errungenschaften,Errungenschaft
+Videoportal,Videoportal
+erste Ausgabe,Ausgabe
+CEO,CEO
+sozialen Netzwerkern,Netzwerkern
+Jigsaw,Jigsaw
+einem experimentellen Stadium,Stadium
+Bildmanipulationen,Bildmanipulationen
+Unterschiedliche Detektoren,Unterschiedliche Detektor
+öffentlicher Zugang,Zugang
+Alphabet,Alphabet
+mehrere Detektoren,Detektor
+Manipulationen,Manipulation
+Faktencheckern,Faktencheckern
+Google-Holding Alphabet,Google Holding Alphabet
+Nachrichten,Nachricht
+Falschinformationen,Falschinformationen
+bestimmten Schwerpunkten,Schwerpunkt
+etwa Kopiervorgänge,Kopiervorgänge
+Problemstellungen,Problemstellungen
+Macher,Macher
+Extremismus,Extremismus
+Jared Cohen,Jared Cohen
+Faktencheckern und Journalisten,Faktencheckern Journalist
+Zusammenführung,Zusammenführung
+einem Blogbeitrag,Blogbeitrag
+Journalisten,Journalist
+Forschern,Forscher
+"""Assembler",Assembler
+Deepfakes,Deepfakes
+Deepfakes und Falschinformationen,Deepfakes Falschinformationen
+gezielte Kampagnen,Kampagne
+auch eine Chrome-Erweiterung,Chrome Erweiterung
+Thema Falschinformations-Kampagnen,Thema Falschinformations Kampagnen
+Technologien,Technologie
+Jigsaw-Projekten,Jigsaw Projekten
+bessere Ergebnisse,Ergebnis
+jeweils spezifische Typen,Typus
+Helligkeit,Helligkeit
+Technologien und Problemstellungen,Technologien Problemstellungen
+dumme Kommentare,Kommentar
+einer Tochtergesellschaft,Tochtergesellschaft
+verschiedene Wissenschaftler,Wissenschaftler
+Umleitungsfunktion,Umleitungsfunktion
+Unterschiede,Unterschied
+Plattform,Plattform
+Fälschungen,Fälschungen
+Schutz,Schutz
+Google Reseach,Google Reseach
+Machine Learning Fotos,Machine Learning Foto
+verschiedenen Universitäten,Universität
+Dach,Dach
+Suchanfragen,Suchanfragen
+Informationsfreiheit,Informationsfreiheit
+Aufklärungsvideos,Aufklärungsvideos
+gleichzeitige Anwendung,Anwendung
+einiger Kooperationspartner,Kooperationspartner

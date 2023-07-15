@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  redis_cache:
+    image: redis:6.2-alpine
+    container_name: redis_cache
+    restart: unless-stopped
+    ports:
+      - '6379:6379'
+    volumes: 
+      - cache:/data
+    networks:
+      - public_frontend
+
+volumes:
+  cache:
+    driver: local
+
+networks:
+  public_frontend:
+    driver: bridge
+    external: true

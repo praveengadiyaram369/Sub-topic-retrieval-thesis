@@ -1,0 +1,418 @@
+coronavirus,coronavirus
+recipient’s respiratory mucosae,recipient respiratory mucosa
+equations,equation
+influenza,influenza
+infected turbulent jet,infected turbulent jet
+fomites,fomite
+large rooms,large room
+absence,absence
+social distancing recommendation,social distancing recommendation
+pandemic status,pandemic status
+large drop transmission,large drop transmission
+similar mathematical framework,mathematical framework
+aerosol-borne virions,aerosol borne virion
+d of COVID-19,COVID 19
+ejected droplets,ejected droplet
+source,source
+eyes of t,eyes
+fractions,fraction
+Coughs,cough
+face masks,face mask
+nearest neighbors,nearest neighbor
+initially infected individual,initially infected individual
+infected person,infected person
+Airborne transmission,Airborne transmission
+80%,80
+worst-case close encounter,worst case close encounter
+microdroplets,microdroplet
+self-consistent estimates,consistent estimate
+lungs and r,lungs
+occupants and t,occupants
+validity,validity
+different regions,region
+3%,3
+our study,study
+virions,virion
+larger drops,larger drop
+guideline,guideline
+Wuhan,Wuhan
+magnitude,magnitude
+China,China
+critical distance,critical distance
+extent,extent
+Significance Airborne transmission,Significance Airborne transmission
+s and Drossinos,Drossinos
+carrier droplets,carrier droplet
+Hubei Province,Hubei province
+turbulent diffusivity,turbulent diffusivity
+millimeters,millimeter
+risk assessment,risk assessment
+well-mixed ambient corresponds,mixed ambient correspond
+Other types,type
+less conservative choice,conservative choice
+tools,tool
+number/time,number time
+inhalation,inhalation
+available data,datum
+circulating population,circulating population
+droplets of sputum,droplets sputum
+clusters of t,clusters
+polydisperse suspension,polydisperse suspension
+fact,fact
+airborne pathogen,airborne pathogen
+well mixedness,mixedness
+airborne respiratory diseases,airborne respiratory disease
+commensurate amplification,commensurate amplification
+air,air
+transmission rate,transmission rate
+viral strains,viral strain
+associated infection rate,infection rate
+range,range
+assumption,assumption
+model’s epidemiological parameter,model epidemiological parameter
+rates of v,rates
+well-mixed spaces,mixed space
+global pandemic,global pandemic
+Stilianakis and Drossinos,Stilianakis Drossinos
+distance,distance
+gas flow,gas flow
+viscous drag,viscous drag
+m of size,size
+bound,bind
+Indoor Safety Guideline,Indoor Safety guideline
+” “contact,contact
+room’s ventilation system,room ventilation
+"specifically, number/volume",number volume
+Ordinary air filters,Ordinary air filter
+exposure time,exposure time
+Mechanical ventilation,Mechanical ventilation
+COVID-19 outbreak,COVID 19 outbreak
+gravitational acceleration,gravitational acceleration
+factor of 3%,factor 3
+transmission of COVID-19,transmission COVID 19
+mouth,mouth
+epidemic,epidemic
+premise,premise
+air samples,air sample
+social distancing,social distance
+risk of s,risk
+risk of air,risk air
+respiratory aerosols,respiratory aerosol
+place,place
+infectiousness of COVID-19,infectiousness COVID 19
+infectious pneumonia,infectious pneumonia
+current revival,current revival
+presence of i,presence
+concentration,concentration
+filtration devices,filtration device
+susceptible individual,susceptible individual
+virtual origin,virtual origin
+airborne disease transmission,airborne disease transmission
+bodily fluids,bodily fluid
+submicron,submicron
+three possible routes,route
+indoor occupancy,indoor occupancy
+geometry of t,geometry
+characteristic times,characteristic time
+primary vector,primary vector
+aerosol particles,aerosol particle
+transmission risk,transmission risk
+so-called “superspreading events,called superspreading event
+reproduction number,reproduction number
+simple quantitative assessment,simple quantitative assessment
+jet,jet
+droplets of radius,droplets radius
+peak,peak
+Korean high-rise building,Korean high rise build
+transmission probability,transmission probability
+Prevention,prevention
+drop and air,drop air
+seminal work,seminal work
+susceptible person,susceptible person
+size dependence,size dependence
+air exchange rates,air exchange rate
+appropriate caveats,caveat
+continuum,continuum
+Near-field expressions,field expression
+These models,model
+form of t,form
+Stilianakis and D,Stilianakis
+Compliance,compliance
+person and i,person
+relative transmissibility,relative transmissibility
+Disease Control,Disease control
+evolution,evolution
+ambient air currents,ambient air current
+enclosed space,enclosed space
+radii,radii
+probability,probability
+role,role
+exhaled pathogens,exhaled pathogen
+removal,removal
+Wells–Riley model,Wells Riley model
+“cumulative exposure time,cumulative exposure time
+ventilation outflow,ventilation outflow
+forerunner,forerunner
+typical rooms,typical room
+critical time,critical time
+quiescent ambient,quiescent ambient
+pathogen transport,pathogen transport
+34%,34
+flux,flux
+well-mixed ambient,mixed ambient
+continuum of size,continuum size
+March,March
+precise form,precise form
+balance,balance
+SI Appendix,appendix
+single infected individual,single infected individual
+standard methods,standard method
+MERV) ratings,MERV rating
+risk of infection,risk infection
+spreading of air,spreading air
+discrete puffs,discrete puff
+airborne transmission rate,airborne transmission rate
+susceptible neighbor,susceptible neighbor
+measles,measle
+absence of masks,absence mask
+terms of t,terms
+chemical engineering,chemical engineer
+new virus,virus
+parameter,parameter
+basis,basis
+fate,fate
+Six-Foot Rule,Foot rule
+Drops of radius,Drops radius
+dilution rate,dilution rate
+December,December
+infection,infection
+some time,time
+Further evidence,evidence
+susceptibility,susceptibility
+possibility,possibility
+infected respiratory plume,infected respiratory plume
+exchange,exchange
+suspended droplets,suspended droplet
+hour,hour
+continuous turbulent jet,continuous turbulent jet
+additional risk,additional risk
+number of occupants,number occupant
+outbreaks yields,outbreaks yield
+drop size distribution,drop size distribution
+steady-state concentration,steady concentration
+additional effects,additional
+short-range plume transmission,short range plume transmission
+classrooms,classroom
+Drops of r,Drops
+infected jet concentration,infected jet concentration
+space,space
+consideration of which,consideration
+2-h bus journey,2 bus journey
+range of scale,range scale
+pathogen,pathogen
+respiratory plume,respiratory plume
+floor,floor
+flux of air,flux air
+respiratory droplets,respiratory droplet
+SARS-CoV-2,SARS CoV 2
+pathogen transmission,pathogen transmission
+masks,mask
+people,people
+primary transmission route,primary transmission route
+mean number,number
+density,density
+college campuses,college campus
+nature of t,nature
+ϵ,ϵ
+range of validity,range validity
+well-mixed state,mixed
+analysis,analysis
+ambient,ambient
+face mask directives,face mask directive
+upper bound,upper bind
+correction,correction
+sputum,sputum
+breath,breath
+puff train,puff train
+polydispersity of t,polydispersity
+recipient,recipient
+high-speed visualization,high speed visualization
+room and t,room
+ventilated space,ventilated space
+Riley et al,Riley
+case of m,case
+μ,μ
+electrostatic precipitators,electrostatic precipitator
+aerosol droplets,aerosol droplet
+Our theoretical model,theoretical model
+indoor airborne transmission,indoor airborne transmission
+mucosal linings,mucosal lining
+exposure,exposure
+relatively small droplets,small droplet
+largest eddies,largest eddy
+infectivity,infectivity
+order of magnitude,order magnitude
+majority,majority
+t of path,path
+Copyright ©,Copyright
+rates of ventilation,rates ventilation
+sedimentation dynamics,sedimentation dynamic
+framework,framework
+limitation of i,limitation
+constant rate P,constant rate
+α,α
+Coughs and s,Coughs
+primary driver,primary driver
+PNAS,PNAS
+tuberculosis,tuberculosis
+existing theoretical framework,existing theoretical framework
+air ducts,air duct
+nursing homes,nursing
+protective properties,protective property
+close encounter,close encounter
+dominance,dominance
+well-mixed room,mixed room
+micron,micron
+time-dependent gas-phase flow,time dependent gas phase flow
+5.0 μm,5 0 μm
+volume,volume
+normal breathing,normal breathe
+indoor space,indoor space
+American economy,American economy
+scale of t,scale
+Washington State,Washington
+simple safety guideline,simple safety guideline
+indoors,indoor
+dynamics,dynamic
+micron-scale aerosols,micron scale aerosol
+trend,trend
+infectious dose,infectious dose
+"well-mixed, closed spaces",mixed closed space
+ultimate fate,ultimate fate
+subsequent transfer,subsequent transfer
+some small fraction,small fraction
+dynamics of air,dynamics air
+respiratory tract,respiratory tract
+breathing flow rate,breathing flow rate
+"7,324 early cases",7 324 early case
+little protection,protection
+disease transmission,disease transmission
+physical contact,physical contact
+greater risk,greater risk
+relative risk,relative risk
+best-characterized indoor,characterized indoor
+radius r c,radius
+hospital room,hospital room
+number of spreading,number spread
+emitted droplets,emitted droplet
+turbulent gas flows,turbulent gas flow
+ventilation and air,ventilation air
+overwhelming evidence,overwhelming evidence
+relatively crude estimate,crude estimate
+transmissions,transmission
+order of m,order
+respiratory events,respiratory event
+pathogen concentration,pathogen concentration
+extended periods,extended period
+equivalent amount,equivalent
+static situation,static situation
+two speeds,speed
+Skagit choir room,Skagit choir room
+inhalation of pathogen,inhalation pathogen
+liquid droplets,liquid droplet
+whose apartments,apartment
+droplets of s,droplets
+τ,τ
+nose,nose
+US Centers,center
+article,article
+surfaces,surface
+pathogen-laden droplets,pathogen laden droplet
+reports,report
+models of air,models air
+r of spread,spread
+air changes,air change
+Δ,Δ
+large-drop and air,large drop air
+infectiousness of C,infectiousness
+mask penetration factor,mask penetration factor
+socially distanced environment,socially distanced environment
+Exhalation events,Exhalation event
+drops of r,drops
+our safety guideline,safety guideline
+pathogen bearing,pathogen bear
+depth H,depth
+aforementioned range,aforementioned range
+human-to-human transmission,human human transmission
+different subpopulations,subpopulation
+air of density,air density
+g and quarantining,quarantine
+around 0.5 μm,0 5 μm
+seated locations,seated location
+Stokes,stoke
+infectious SARS-CoV-2 virions,infectious SARS CoV 2 virion
+rate of infection,rate infection
+airflows,airflow
+quiescent air,quiescent air
+product,product
+saliva,saliva
+infected individual,infected individual
+settling speed,settling speed
+s of filtration,filtration
+gravity,gravity
+timescale,timescale
+critical drop,critical drop
+characteristic room dimension,characteristic room dimension
+spreadsheet,spreadsheet
+mean air velocity,air velocity
+"worst-case, close-contact scenario",worst case close contact scenario
+"closed, well-mixed spaces",closed mixed space
+either lockdowns,lockdown
+Implications,implication
+infected patients,infected patient
+droplet-borne pathogen,droplet borne pathogen
+various settings,setting
+public transportation,public transportation
+considerable range,considerable range
+maximum range,maximum range
+area A,area
+latter worst-case scenario,worst case scenario
+airplane,airplane
+enhanced viral shedding,enhanced viral
+Different droplet sizes,droplet size
+rate of inhalation,rate inhalation
+Wells,Wells
+Nicas,nicas
+and dynamic viscosity,dynamic viscosity
+viral deactivation,viral deactivation
+indoor setting,indoor set
+available epidemiological data,epidemiological datum
+concentration of pathogen,concentration pathogen
+residents,resident
+exhaled volume,exhaled volume
+relative magnitudes,relative magnitude
+Ningbo,Ningbo
+events,event
+dominant role,dominant role
+estimate,estimate
+number of transmissions,number transmission
+both influenza virus,influenza virus
+measure,measure
+specific size ranges,specific size range
+H1N1,H1N1
+spread of COVID-19,spread COVID 19
+ambient airflow,ambient airflow
+droplet settling,droplet settle
+refined estimates,refined estimate
+dilution factor,dilution factor
+contact tracing,contact trace
+distinction,distinction
+"largest, millimeter-scale drops",largest millimeter scale drop
+air filtration,air filtration
+0.1 μm,0 1 μm
+ventilation,ventilation
+principle vector,principle vector
+mainland China,mainland China
+Case studies,Case study
+array,array
+online app,app

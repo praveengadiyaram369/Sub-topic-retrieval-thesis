@@ -1,0 +1,151 @@
+große Flexibilität,Flexibilität
+Erkundung und Aufklärung,Erkundung Aufklärung
+hoher Hindernisse,Hindernis
+Auch die Integration,Integration
+UGV-Chassis,UGV Chassis
+eines Kontrollmoduls,Kontrollmoduls
+Aufgaben,Aufgabe
+Treppensteigen,Treppensteigen
+Gehäuse,Gehäuse
+Bedeutung,Bedeutung
+einem Soldaten,Soldat
+RACOMS,RACOMS
+optional montierbare Sensoren,Sensor
+einen Akkuwechsel,Akkuwechsel
+unterschiedlichen Einsatzszenarien,Einsatzszenarien
+unbemannten Luftfahrzeugen,Luftfahrzeugen
+Ort,Ort
+mehrstündige Einsatzdauer,Einsatzdauer
+hohe Geländegängigkeit,Geländegängigkeit
+Gebäuden,Gebäude
+Spezialeinheit,Spezialeinheit
+beidseitige Nutzbarkeit,Nutzbarkeit
+MISSION,MISSION
+Echtzeit,Echtzeit
+Erkundung,Erkundung
+Seine Größe,Größe
+Gewässern,Gewässer
+Einsatz,Einsatz
+Aufklärungs- und Überwachungsfunktionen,Aufklärungs Überwachungsfunktionen
+"leichtes, unbemanntes Micro-Bodenfahrzeug",Micro Bodenfahrzeug
+Aufklärung,Aufklärung
+Zielerfassungssensoren,Zielerfassungssensoren
+optimalem Lagebewusstsein,Lagebewusstsein
+Gefahrenabwehr,Gefahrenabwehr
+Logistik und Aufklärung,Logistik Aufklärung
+allen Geländeformen,Geländeformen
+MTGR,MTGR
+hoher Geschwindigkeit,Geschwindigkeit
+seinen kompakten Maßen,Maß
+Elbit,Elbit
+moderner unbemannter Landfahrzeuge,Landfahrzeuge
+seinem leistungsstarken Greifer,Greifer
+maximale Gewichtsersparnis,Gewichtsersparnis
+Adaption,Adaption
+Tactical Ground Robot,Tactical Ground Robot
+urbanen Szenarien,Szenarium
+unterschiedliche Nutzlasten,Nutzlast
+Katastrophenhilfe,Katastrophenhilfe
+urbane Gefechtsführung,Gefechtsführung
+einen elektrischen 4×4-Radantrieb,Radantrieb
+Prüfung,Prüfung
+hohe Dynamik,Dynamik
+Kompaktheit,Kompaktheit
+Ground Vehicles,Ground Vehicles
+maximales Sichtfeld,Sichtfeld
+schwierigem Terrain,Terrain
+gefährlicher Stoffe,Stoff
+Verwendung,Verwendung
+hohe Widerstandsfähigkeit,Widerstandsfähigkeit
+kontinuierliche Zusammenwirken,Zusammenwirken
+aktueller Konflikte,Konflikt
+ABC-Abwehreinsätze,ABC Abwehreinsätze
+Häusern,Haus
+schnellen Entwicklungsfortschritten,Entwicklungsfortschritten
+Hilfe,Hilfe
+Tag- und Nachtsicht-Kamerasystem,Nachtsicht Kamerasystem
+Gefahrstoffe,Gefahrstoffe
+ABC-Abwehr,ABC Abwehr
+ferngesteuerten Fahrzeuge,Fahrzeug
+„Follow-the-Leader“-Funktion,Follow Leader Funktion
+RACOMS und Elbit,RACOMS Elbit
+Logistik,Logistik
+Montage,Montag
+Mithilfe,Mithilfe
+schwere Objekte,Objekt
+Bombenentschärfung,Bombenentschärfung
+Evakuierung,Evakuierung
+Bodentruppen,Bodentruppen
+wegweisende Fähigkeiten,Fähigkeit
+Algorithmen,Algorithmen
+Spanngurten,Spanngurten
+auch UGVs,UGVs
+alle Aktivitäten,Aktivität
+deutschen Streitkräften,Streitkräften
+Großer Bruder,Bruder
+seiner Landeposition,Landeposition
+IRIS,IRIS
+vorgegebenen GPS-Koordinaten,GPS Koordinaten
+TELEFUNKEN RACOMS,TELEFUNKEN RACOMS
+hohe Festigkeit,Festigkeit
+Logistik- und Sanitätseinheiten,Logistik Sanitätseinheiten
+Aufklärung und Evakuierung,Aufklärung Evakuierung
+unbemannten Systeme IRIS,Systeme IRIS
+bordeigene Kameraeinheit,Kameraeinheit
+engen Einsatzgebieten,Einsatzgebieten
+ABC-Schutz,ABC Schutz
+Aufklärung und Kampfmittelbeseitigung,Aufklärung Kampfmittelbeseitigung
+UAV,UAV
+Überwindung,Überwindung
+MTGR-Systems,MTGR Systems
+Effektivität,Effektivität
+Zahlreiche Haltepunkte,Zahlreiche Haltepunkt
+ihre Interoperabilität,Interoperabilität
+auch das Durchqueren,Durchqueren
+nur einen Operator,Operator
+ferngesteuerten Waffenstationen,Waffenstationen
+Taktische Aufklärung IRIS,Taktische Aufklärung IRIS
+Intelligenz,Intelligenz
+MTGR und PROBOT,MTGR PROBOT
+Umgebung,Umgebung
+seine hohe Manövrierfähigkeit,Manövrierfähigkeit
+"1,95 m Länge",Länge
+Kampfmittelbeseitigung und Gefahrstoffe,Kampfmittelbeseitigung Gefahrstoffe
+einfache Fixierung,Fixierung
+CONNECTING,CONNECTING
+auch Werkzeugen,Werkzeug
+Kampfmittelbeseitigung,Kampfmittelbeseitigung
+Wattiefe,Wattiefe
+Aufgabenspektrum,Aufgabenspektrum
+effiziente Rollenverteilung,Rollenverteilung
+UGV-Systemlösungen,UGV Systemlösungen
+TIGR,TIGR
+Ladegut,Ladegut
+seiner Komponenten,Komponente
+richtungsweisende Technologien,Technologie
+seines modularen Aufbaus,Aufbau
+Observationskameras,Observationskameras
+Gegenstände,Gegenstand
+Unbemannte Landfahrzeuge,Unbemannte Landfahrzeuge
+Krisen,Krise
+Kampfmittelbeseitigung und ABCAbwehr,Kampfmittelbeseitigung ABCAbwehr
+einer Raupenkette,Raupenkette
+"extremen 
+Einsatzbedingungen",Einsatzbedingungen
+Aufklärungsoperationen,Aufklärungsoperationen
+Konvoi-Modus,Konvoi Modus
+Fenster,Fenster
+alternativen Antriebsformen,Antriebsformen
+logistischer Unterstützung,Unterstützung
+einer deutschen Polizei,Polizei
+taktischen Operationen,Operation
+mehrere PROBOTS,PROBOTS
+Aufgabenbereich,Aufgabenbereich
+Rollen,Rolle
+einer Höhe,Höhe
+Untergrundund Kanalinspektionen,Untergrundund Kanalinspektionen
+Röntgen-Scanner,Röntgen Scanner
+Gelände,Gelände
+Manipulator,Manipulator
+Mensch-Maschine-Schnittstellen,Maschine Schnittstellen
+einer Brennstoffzelle,Brennstoffzelle

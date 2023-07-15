@@ -1,0 +1,201 @@
+VFX,VFX
+development,development
+capabilities,capability
+‘placeholder’ proxy input,placeholder proxy input
+interactive systems,interactive
+massively realistic outputs,massively realistic output
+particular domain,domain
+semantic maps,semantic map
+left,leave
+GTA5 input,GTA5 input
+stripped-down game engine,stripped game engine
+essential sources,essential source
+scenery,scenery
+machine systems,machine
+various exterior scenes,exterior scene
+captured dataset,captured dataset
+crude daubs,crude daubs
+image pipeline,image pipeline
+conventional use,conventional
+nature,nature
+promising technology,promising technology
+‘puppet’ proxy inputs,puppet proxy input
+imagination,imagination
+convolutional neural network,convolutional neural network
+fictitious landscapes,fictitious landscape
+‘paints,paint
+analysis,analysis
+creators of yesterday,creators yesterday
+GAN,GAN
+successive frames,successive frame
+VFX Neural,VFX neural
+limited range,limited range
+environmental detail,environmental
+GTA game engine,GTA game engine
+Exterior environments,Exterior environment
+Commenters,commenter
+protrusions,protrusion
+game-generated facets,game generated facet
+neural-rendered characters,neural rendered character
+terms,term
+case,case
+internet,internet
+artificial people,artificial people
+content,content
+material,material
+sketches,sketch
+kind,kind
+resources,resource
+algorithm,algorithm
+type,type
+full-resolution photorealistic output,resolution photorealistic output
+GauGAN schema,GauGAN schema
+yesterday,yesterday
+neural engine,neural engine
+creative input,creative input
+intervenes,intervene
+adoption,adoption
+Intel ISL,Intel ISL
+NVIDIA’s UNIT,NVIDIA UNIT
+target object,target object
+Textures,texture
+real time,real time
+Intel demo,Intel demo
+shading,shade
+two facets,facet
+image transforms,image transform
+image synthesis,image synthesis
+GPU,GPU
+paired dataset transformations,paired dataset transformation
+optimal approach,optimal approach
+real-world imagery,real imagery
+central role,central role
+rendering,render
+current implementation,current implementation
+neural image synthesis,neural image synthesis
+hyper-realistic scenes,hyper realistic scene
+development and adoption,development adoption
+computer vision,vision
+relationships,relationship
+existing pipeline,existing pipeline
+attention,attention
+output,output
+interpretive,interpretive
+extremely crude input,extremely crude input
+photorealistic video,photorealistic video
+neural rendering approach,neural rendering approach
+gaming system,gaming
+night,night
+texturing and lighting,texturing light
+>Image,Image
+Neural Rendering Engine,Neural Rendering engine
+two datasets,dataset
+very basic videograms,basic videogram
+animated version,animated
+local compute resources,local compute resource
+interpretation layer,interpretation layer
+encoder/decoder systems,encoder decoder
+apposite imagery,apposite imagery
+Uncanny Valley,Uncanny Valley
+domain-driven data gathering,domain driven data gather
+traditional games engines,traditional games engine
+"low-resolution, wireframe-level input",resolution wireframe level input
+missing sections,missing
+new game engine,game engine
+Intel ISL’s segmentation,Intel ISL segmentation
+essentially issues,essentially issue
+lighting,light
+desired imagery,desired imagery
+urban video synthesis,urban video synthesis
+Article,article
+Infinite Nature,Infinite nature
+reflections,reflection
+block,block
+synthetic images,synthetic image
+observed objects,observed object
+representative workflow,representative workflow
+images,image
+initial research,initial
+principle,principle
+style transfer,style transfer
+artistic effort,artistic effort
+even sweeping aspects,sweeping aspect
+"Middle, corresponding samples",Middle sample
+high-quality images,high quality image
+artificial segmentation maps,artificial segmentation map
+single image,single image
+Mapillary dataset,Mapillary dataset
+semantic segmentation block,semantic segmentation block
+admirers,admirer
+‘sketch’ dataset,sketch dataset
+Intel’s system,Intel
+GTA5 buffers,GTA5 buffer
+models,model
+capacity,capacity
+direct translation,direct translation
+added burden,burden
+new generation,generation
+lighting and texturing,lighting texture
+artificially-generated segmentation maps,artificially generated segmentation map
+stripped-down proxy input,stripped proxy input
+Stripped-Down Input,Stripped input
+neural system,neural
+contributing dataset,contributing dataset
+domain-specific datasets,domain specific dataset
+segmentation maps,segmentation map
+machine learning framework,machine learning framework
+great deal,great deal
+traditional 3D pipelines,traditional pipeline
+locus,locus
+photorealistic scenic imagery,photorealistic scenic imagery
+variance,variance
+work,work
+video,video
+last three years,year
+synthetic (CGI) imagery,synthetic CGI imagery
+realism,realism
+creators,creator
+extensive coverage,extensive coverage
+less realistic lighting,realistic light
+starting point,starting point
+completely rendered frames,completely rendered frame
+computationally expensive texturing,computationally expensive texture
+neural rendering system,neural rendering
+opting,opt
+high resolution detail,high resolution
+topography,topography
+game engine output,game engine output
+required input,required input
+CGI images,CGI image
+new method,method
+Intel GTA5 demo,Intel GTA5 demo
+visual arts,visual art
+yesterday’s furor,yesterday furor
+communities,community
+wide range,wide range
+day,day
+semantic labels,semantic label
+shading and lighting,shading light
+reactions,reaction
+basis,basis
+representative segmentation maps,representative segmentation map
+VFX-level CGI,VFX level CGI
+redundant computing cycles,redundant computing cycle
+far lower resolution,resolution
+process,process
+passive method,passive method
+GTA5,GTA5
+architectural paradigm,architectural paradigm
+CGI dataset,CGI dataset
+imagery,imagery
+clumsy sketches,clumsy sketch
+NVIDIA’s GauGAN,NVIDIA GauGAN
+fake semantic maps,fake semantic map
+possibility,possibility
+most economical use,economical
+CNN,CNN
+depth maps,depth map
+less photorealistic output,photorealistic output
+CPU,CPU
+user,user
+Intel researchers,Intel researcher

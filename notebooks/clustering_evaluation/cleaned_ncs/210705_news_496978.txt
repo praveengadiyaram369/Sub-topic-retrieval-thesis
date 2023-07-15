@@ -1,0 +1,55 @@
+existing acceleration approaches,existing acceleration approach
+physically plausible results,physically plausible result
+compiler,compiler
+data,datum
+large benefits,large benefit
+language abstractions,language abstraction
+physical simulation,physical simulation
+Eulerian fluid system,Eulerian fluid
+Low-precision,precision
+Our programming language,programming language
+Our quantization techniques,quantization technique
+bandwidth consumption,bandwidth consumption
+space,space
+Game,game
+particle,particle
+GPUs,GPUs
+full design space,design space
+less memory,memory
+great visual quality,great visual quality
+memory consumption,memory consumption
+quantized simulation,quantized simulation
+pixel,pixel
+developers,developer
+compilation system,compilation
+overhead,overhead
+numerical data types,numerical data type
+simulation states,simulation
+tailored domain-specific optimizations,tailored domain specific optimization
+both high performance,high performance
+these existing approaches,existing approach
+performance,performance
+creation,creation
+sparse data structures,sparse data structure
+reduced memory space,reduced memory space
+simulators,simulator
+good balance,good balance
+Life,life
+Game of Life,Game life
+traditional programming languages,traditional programming language
+1.7× compression,1 7 compression
+even higher scalability,higher scalability
+aggressive storage reduction,aggressive storage reduction
+same time,time
+new set,set
+Taichi,Taichi
+full-precision simulators,precision simulator
+higher resolution simulation,higher resolution simulation
+quantization schemes,quantization scheme
+terms,term
+combination,combination
+single GPU,single GPU
+suite,suite
+space and precision,space precision
+Abstract High-resolution simulations,Abstract High resolution simulation
+voxel,voxel

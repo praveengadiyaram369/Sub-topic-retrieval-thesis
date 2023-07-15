@@ -1,0 +1,84 @@
+real thermodynamics,real thermodynamic
+Industrial Science,Industrial science
+University of Oxford,University Oxford
+transformation,transformation
+private study,private study
+10.1103/PhysRevLett.123.258002 Citation,10 1103 PhysRevLett 123 258002 citation
+natural sciences,natural science
+nucleation and growth,nucleation growth
+copyright,copyright
+growth,growth
+metals,metal
+two stages,stage
+reliability and suitability,reliability suitability
+physical phenomenon,physical phenomenon
+origin,origin
+hydrodynamic interactions,hydrodynamic interaction
+article,article
+similar nucleation rates,nucleation rate
+crystal formation,crystal formation
+team,team
+hard-sphere colloidal model,hard sphere colloidal model
+CC0,CC0
+simulation model,simulation model
+biological molecules,biological molecule
+Colloids,colloid
+further simulations,simulation
+discrepancy,discrepancy
+disordered molecules,disordered molecule
+Oxford,Oxford
+solvent molecules,solvent molecule
+Influence,influence
+magnitude,magnitude
+model system,model
+calculations,calculation
+organic compounds,organic compound
+content,content
+both cases,case
+reliability,reliability
+materials,material
+understanding,understand
+University,university
+Colloidal Crystallization,Colloidal crystallization
+proportion,proportion
+purpose,purpose
+suitability,suitability
+explanation,explanation
+these interactions,interaction
+crystallization behavior,crystallization behavior
+Plots of nucleation,Plots nucleation
+developed model,developed model
+document,document
+many years,year
+crystal balls,crystal ball
+real hard-sphere systems,real hard sphere
+written permission,written permission
+any fair dealing,fair deal
+prevailing consensus,prevailing consensus
+research team's findings,team finding
+another research group,group
+Public Domain,Public domain
+simulation results,simulation result
+nucleation,nucleation
+simulations of crystallization,simulations crystallization
+wide range,wide range
+understanding of crystallization,understanding crystallization
+Physical Review Letters,Physical Review letter
+calculated rates,calculated rate
+large discrepancy,large discrepancy
+process,process
+crystal nucleation,crystal nucleation
+University of Tokyo,University Tokyo
+DOI,DOI
+hard-sphere systems,hard sphere
+experimental thermodynamic behavior,experimental thermodynamic behavior
+Tokyo,Tokyo
+Plots,plot
+collaboration,collaboration
+liquid,liquid
+Michio Tateno,Michio tateno
+mismatch,mismatch
+Crystallization,crystallization
+account,account
+Researchers,researcher
+Sapienza University,Sapienza university

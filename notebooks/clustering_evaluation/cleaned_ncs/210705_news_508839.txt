@@ -1,0 +1,108 @@
+property,property
+natural variability,natural variability
+ocean surface,ocean surface
+careful intercomparison,careful intercomparison
+model-data consistency,model data consistency
+sea surface temperature,sea surface temperature
+large range,large range
+Climate,climate
+Technology,technology
+Environment,environment
+light,light
+tropical water vapor,tropical water vapor
+Canadian Centre,Canadian centre
+Environment and Climate,Environment climate
+Observational datasets,Observational dataset
+temperature and moisture,temperature moisture
+National Oceanic,National oceanic
+LLNL team,LLNL team
+global warming,global warm
+Andrea Steiner,Andrea Steiner
+Remote Sensing Systems,Remote Sensing
+LLNL’s Stephen Po-Chedley,LLNL Stephen Chedley
+team,team
+TMT,TMT
+Complementary variables,Complementary variable
+University of Graz,University Graz
+paper,paper
+study,study
+model results,model result
+Model trend ratios,Model trend ratio
+Analysis,analysis
+Energy,energy
+climate sensitivity,climate sensitivity
+Atmospheric Administration,Atmospheric administration
+model differences,model difference
+observed ratios,observed ratio
+Journal of Climate,Journal climate
+greater precision,greater precision
+Jeffrey Painter,Jeffrey painter
+findings,finding
+overestimate,overestimate
+observations,observation
+credibility,credibility
+climate model simulations,climate model simulation
+combination,combination
+correlated behavior,correlated behavior
+TLT,TLT
+several LDRD grants,LDRD grant
+Nathan Gillett,Nathan Gillett
+larger warming,larger warm
+University,university
+Climate Change,Climate change
+Carl Mears,Carl mear
+tropical temperature,tropical temperature
+moisture,moisture
+satellite measurements,satellite measurement
+Data,datum
+University of Washington,University Washington
+contrast,contrast
+complementary measurements,complementary measurement
+WV,WV
+atmosphere,atmosphere
+tropical ocean surface,tropical ocean surface
+work,work
+tropospheric warming,tropospheric warm
+odds,odd
+tropical climate change,tropical climate change
+lowest region,lowest region
+different geophysical fields,geophysical field
+Graz,Graz
+better agreement,agreement
+TMT/SST ratios,TMT SST ratio
+Qiang Fu,Qiang
+historical changes,historical change
+WV and temperature,WV temperature
+Information Service,service
+Austria,Austria
+comparisons,comparison
+collaborators,collaborator
+Mark Zelinka,Mark Zelinka
+Frank Wentz,Frank Wentz
+Massachusetts Institute,Massachusetts Institute
+ocean surface warming,ocean surface warm
+National Environmental Satellite,National Environmental satellite
+Cheng-Zhi Zou,Cheng Zhi Zou
+Climate Modelling,Climate model
+LLNL,LLNL
+upper tropospheric temperature,upper tropospheric temperature
+ratio,ratio
+Washington,Washington
+TMT and SST,TMT SST
+SST trends,SST trend
+larger tropical warming,larger tropical warm
+smallest values,smallest
+Susan Solomon,Susan Solomon
+Journal,journal
+trends,trend
+combination of observations,combination observation
+Other Livermore scientists,Livermore scientist
+John Fyfe,John fyfe
+relationships,relationship
+climate model expectations,climate model expectation
+SST,SST
+external forcings,external forcing
+which interpretation,interpretation
+WV trends,WV trend
+fourth property,fourth property
+datasets,dataset

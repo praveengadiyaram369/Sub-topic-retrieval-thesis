@@ -1,0 +1,117 @@
+Open-Source-3D-Softwarepaket Blender,Open Source Softwarepaket Blender
+Oder Props,Props
+keine Pose,Pose
+Flächen,Fläche
+Add-ons,Add
+Snapping,Snapping
+Primitivlinge,Primitivlinge
+2D-Objekte,Objekte
+Release Log,Release Log
+gleich ganze Gehäuse,Gehäuse
+Makern,Makern
+Rollenspiele,Rollenspiele
+Projekten,Projekt
+einer Grundkonstruktion Grundkörper,Grundkonstruktion Grundkörper
+Fokus,Fokus
+Test,Test
+wahre Flut,Flut
+CNC-Fräsen,CNC Fräsen
+Fehleranalyse,Fehleranalyse
+Steuerung,Steuerung
+Patches,Patches
+Videoschnitt,Videoschnitt
+Normteilen und Strukturen,Normteilen Struktur
+Gottfried Hofmann,Gottfried Hofmann
+Anregungen,Anregung
+Maker Szene,Maker Szene
+Everything Nodes,Nodes
+Make-Videokurs,Videokurs
+Primitives,Primitives
+Statusmeldungen,Statusmeldungen
+Computergrafik-Künstler und Animatoren,Computergrafik Künstler Animator
+Demovideo,Demovideo
+Entwicklung,Entwicklung
+Netzwerk,Netzwerk
+Kugeln,Kugel
+Computergrafik-Künstler,Computergrafik Künstler
+deutschsprachige Zusammenfassung,Zusammenfassung
+Source Code,Source Code
+Weiterverarbeitung,Weiterverarbeitung
+Einsatz,Einsatz
+Relation,Relation
+Animatoren,Animator
+Particle-Nodes,Particle Nodes
+Kanten und Flächen,Kanten Fläche
+Python,Python
+Modifiern,Modifiern
+Dokumentation,Dokumentation
+Twitter,Twitter
+Animation,Animation
+Kanten,Kante
+Wiki-Seiten,Wiki
+Normteilen,Normteilen
+fremden Modellen,Modell
+Behebung,Behebung
+Figuren,Figur
+Messwerte und Statusmeldungen,Messwerte Statusmeldungen
+CAD-Konstruktion,CAD Konstruktion
+sozialen Medien,Medium
+zufällig generierten Landschaften,Landschaft
+verschiedener kleiner Maker-Projekte,Maker Projekte
+Kinematik,Kinematik
+offensichtlichen Einsatzmöglichkeiten,Einsatzmöglichkeiten
+schnellen Erstellen,Erstellen
+Drivern,Drivern
+Möglichkeiten,Möglichkeit
+Basis,Basis
+"""einfach Ausprobieren",Ausprobieren
+Umgebungen,Umgebungen
+neue Funktion,Funktion
+Startlöchern,Startlöchern
+Primitives-Add Primitives Add,Primitives Add Primitives Add
+Erstellung,Erstellung
+sonstiges CNC,CNC
+Geometry Nodes,Geometry Nodes
+Physik-Engine,Physik Engine
+Objekte und Konstruktionen,Objekte Konstruktion
+vielen anderen Programmen,Programm
+Node-Editor,Node Editor
+Blender Foundation,Blender Foundation
+3D-Druck,Druck
+3D-Druckvorbereitung,Druckvorbereitung
+Präsentation,Präsentation
+Features,Feature
+Frontplatten,Frontplatten
+Zylinder,Zylinder
+Einstieg,Einstieg
+Messwerte,Messwerte
+zwei Mausklicks,Mausklicks
+Erindale Woodfords Challenge,Erindale Woodfords Challenge
+Grundkonstruktionen,Grundkonstruktionen
+Neuerungen,Neuerung
+Fehleranalyse und Behebung,Fehleranalyse Behebung
+eigener Vorlagen,Vorlage
+Bild,Bild
+zufällige Muster,Muster
+Kegel,Kegel
+Video und Animation,Video Animation
+Blender,Blender
+wenigen Klicks,Klicks
+Video,Video
+Strukturen,Struktur
+Vektorprogrammen,Vektorprogrammen
+Wand,Wand
+Grundfläche,Grundfläche
+Animation-Nodes,Animation Nodes
+Hilfs-)Objekte,Hilfs Objekte
+Moment,Moment
+Höhe,Höhe
+Ecken,Ecke
+einen Schritt,Schritt
+einer Minute,Minute
+Raum,Raum
+seiner anspruchsvollen Lernkurve,Lernkurve
+Entwicklungsziels,Entwicklungsziels
+Animation-Nodes und Particle-Nodes,Animation Nodes Particle Nodes
+CAD-Aufgaben,CAD Aufgaben
+Hashtag #,Hashtag

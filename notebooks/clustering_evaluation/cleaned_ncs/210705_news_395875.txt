@@ -1,0 +1,50 @@
+algorithm development,algorithm development
+areas,area
+DARPA,DARPA
+these challenges,challenge
+large reality gap,large reality gap
+addition,addition
+autonomous control,autonomous control
+sensors,sensor
+Resiliency,Resiliency
+practical use,practical
+Software,software
+RACER Programme Manager,RACER Programme manager
+simulation element technologies,simulation element technology
+road,road
+compliant soils,compliant soil
+technologies,technology
+account lower fidelity,account fidelity
+continuous motion planning,continuous motion plan
+real world,real
+three-dimensional surfaces,dimensional surface
+modalities,modality
+increased use,increased
+past decade,decade
+current software models,current software model
+simulator content generation,simulator content generation
+DARPA’s Robotic Autonomy,DARPA Robotic autonomy
+innovations,innovation
+simulation,simulation
+solutions,solution
+current virtual models,current virtual model
+unique platform-surface interactions,unique platform surface interaction
+four-year timeline,year timeline
+proposals,proposal
+full benefits,benefit
+Dr. Stuart Young,Stuart young
+vegetation,vegetation
+RACER-Sim,RACER Sim
+limited mapping data,limited mapping datum
+autonomous platforms,autonomous platform
+cost,cost
+Complex Environments,Complex environment
+use discourage developers,discourage developer
+obstacle classes,obstacle class
+terrain,terrain
+Jack Richardson,Jack Richardson
+gap,gap
+these goals,goal
+field robotics,field robotic
+rules,rule
+complexities,complexity

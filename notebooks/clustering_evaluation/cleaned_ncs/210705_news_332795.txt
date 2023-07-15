@@ -1,0 +1,97 @@
+VS-NfD-Daten,NfD Daten
+Datenspionage,Datenspionage
+einzige Ziel,Ziel
+Digitale Souveränität,Digitale Souveränität
+Behörden und Organisationen,Behörden Organisation
+Internet,Internet
+Ressourcen,Ressource
+Fähigkeit,Fähigkeit
+kritischer Netzwerk-Schnittstellen,Netzwerk Schnittstellen
+Informationsaustausch,Informationsaustausch
+zentrale Aufgabe,Aufgabe
+„Qualifizierter Partner,Qualifizierter Partner
+ihrer kritischen IT-Infrastrukturen,Infrastrukturen
+BSI,BSI
+mobiler Mitarbeiter,Mitarbeiter
+Organisationen,Organisation
+24/7 Support,Support
+mobile Datenkommunikation,Datenkommunikation
+zentraler Bedeutung,Bedeutung
+Systemlösung,Systemlösung
+Verwandte Themen,Verwandte Thema
+Hürden,Hürde
+Integrität,Integrität
+seinem umfassenden Leistungsangebot,Leistungsangebot
+Herausforderungen,Herausforderung
+Zulassung,Zulassung
+digitalen Transformation,Transformation
+reibungslose Zusammenarbeit,Zusammenarbeit
+Leistungsfähige Schnittstellen,Leistungsfähige Schnittstellen
+fehlende Schnittstellen,Schnittstellen
+Wahrung,Wahrung
+Management-Lösungen,Management Lösungen
+Absicherung,Absicherung
+unterschiedliche Dateiformate,Dateiformate
+Erfolgsdruck,Erfolgsdruck
+eigener Entwicklungen,Entwicklung
+Digitalisierung,Digitalisierung
+Interoperabilität,Interoperabilität
+GEHEIM,GEHEIM
+Firewalls,Firewalls
+reibungsloses staatliches Handeln,Handeln
+Sicherheitsaufgaben,Sicherheitsaufgaben
+mobilen Einsatz,Einsatz
+Krisensituationen,Krisensituationen
+sicheren Datenaustausch,Datenaustausch
+Schlüsseltechnologien,Schlüsseltechnologien
+alle Ebenen,Ebene
+VS-NfD,NfD
+VS-NfD-Zulassungen,NfD Zulassungen
+Foto,Foto
+Sicherheitslösungen,Sicherheitslösungen
+Behörden und Einsatzkräften,Behörden Einsatzkräften
+Vertrauenswürdigkeit,Vertrauenswürdigkeit
+Implementierung,Implementierung
+Bundesamt,Bundesamt
+vertrauenswürdigen Quellen,Quelle
+Daten,Datum
+Organisationsstrukturen,Organisationsstrukturen
+Bundesdruckerei,Bundesdruckerei
+Cyberattacken,Cyberattacken
+Kundenservice,Kundenservice
+VS-NfD-Kommunikation,NfD Kommunikation
+Abschirmung,Abschirmung
+mehreren Brennpunkten,Brennpunkt
+IT-Sicherheitssysteme,Sicherheitssysteme
+Deutschland,Deutschland
+Wert,Wert
+Anwendungen und Daten,Anwendungen Datum
+Verschlüsselte Datenkommunikation,Verschlüsselte Datenkommunikation
+Behörden,Behörde
+Lösungen,Lösung
+Kommunikationsnetze,Kommunikationsnetze
+heterogener IT-Ausstattung,Ausstattung
+Tochterunternehmen,Tochterunternehmen
+einziger Hersteller,Hersteller
+öffentlichen Sicherheit,Sicherheit
+BOS,BOS
+Hochsichere Fernwartungslösungen,Hochsichere Fernwartungslösungen
+essenzielle Eckpfeiler,Eckpfeiler
+öffentlichen Sektor,Sektor
+einziger Anbieter,Anbieter
+System Management,Management
+IT-Systeme,Systeme
+beteiligten Instanzen,Instanz
+Komfortable Anbindung,Komfortable Anbindung
+alle Beteiligten,Beteiligte
+digitale Souveränität,Souveränität
+wirksame Schutz,Schutz
+große Bandbreite,Bandbreite
+ihrer Vertraulichkeit,Vertraulichkeit
+BSI-Zulassungen,BSI Zulassungen
+Vielzahl,Vielzahl
+Sabotage,Sabotage
+Central,Central
+Informationstechnik,Informationstechnik
+Anwendungen,Anwendung
+Einsatzkräften,Einsatzkräften

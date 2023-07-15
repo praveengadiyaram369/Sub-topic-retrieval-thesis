@@ -1,0 +1,45 @@
+Sicherung,Sicherung
+Zielen,Ziel
+Integration,Integration
+schlechten Wetterbedingungen,Wetterbedingungen
+unerlaubte Aktivitäten,Aktivität
+Wärme-/Luftturbulenzen,Wärme Luftturbulenzen
+unbemannte Luftsysteme,Luftsysteme
+Kombination,Kombination
+UAS,UAS
+eingebetteter Analyse,Analyse
+Gerhard Heiming,Gerhard Heiming
+ASX-Turbulenzfilter,ASX Turbulenzfilter
+Verwandte Themen,Verwandte Thema
+anderen Sensoren,Sensor
+echten Bedrohungen,Bedrohung
+Einsatzszenarien,Einsatzszenarien
+Nebel,Nebel
+mittleren Entfernungsbereich,Entfernungsbereich
+einem eingebauten Nebelfilter,Nebelfilter
+kognitive Arbeitsbelastung,Arbeitsbelastung
+Fehlalarmen,Fehlalarmen
+Wärmebildgeräts,Wärmebildgeräts
+Ranger HDC MR,Ranger HDC
+Nebel und Dunst,Nebel Dunst
+Perimeter-Überwachung,Perimeter Überwachung
+optionaler Laser-Entfernungsmesser,Laser Entfernungsmesser
+eigener Truppe,Truppe
+hochauflösendes Überwachungssystem,Überwachungssystem
+Bildverarbeitung,Bildverarbeitung
+Grenzsicherung,Grenzsicherung
+Durchschauen,Durchschauen
+Schutz,Schutz
+Abwehr,Abwehr
+kritischer Infrastrukturen,Infrastruktur
+sichere Unterscheidung,Unterscheidung
+Leistungsfähigkeit,Leistungsfähigkeit
+Einsatz,Einsatz
+Dunst,Dunst
+Luft- und Seehäfen,Luft Seehäfen
+Küstenüberwachung,Küstenüberwachung
+genauere Zielklassifizierung,Zielklassifizierung
+FLIR Systems,FLIR
+Geo-Lokalisierung,Geo Lokalisierung
+einen optionalen Merlin,Merlin
+raschen Szenenwechsel,Szenenwechsel

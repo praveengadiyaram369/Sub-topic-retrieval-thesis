@@ -1,0 +1,74 @@
+Health,health
+assessment skills,assessment skill
+report writing,report write
+Sam Sprigg Sam,Sam Sprigg Sam
+mental readiness,mental readiness
+potential war-time scenarios,potential time scenario
+COVID-19 pandemic,COVID 19 pandemic
+classrooms,classroom
+critical decision-making skills,critical decision making skill
+organizations,organization
+coming months,coming month
+realistic patient simulations,realistic patient simulation
+Dr. Kevin King,Kevin king
+background,background
+potential,potential
+training modules,training module
+medical telesimulation,medical telesimulation
+medical errors,medical error
+MedCognition / YouTube,MedCognition youtube
+open pneumothorax,open pneumothorax
+National Institutes,National institute
+CEO,CEO
+Founder,founder
+HAZMAT simulation training,HAZMAT simulation training
+US Military,military
+his learning,learn
+Mixed Reality News,Mixed Reality news
+EMS educators,EMS educator
+US Army,army
+screen,screen
+Chenega Healthcare Services,Chenega Healthcare service
+variety,variety
+latest trauma modules,latest trauma module
+actual environments,actual environment
+human augmentation technology,human augmentation technology
+medical simulation directors,medical simulation director
+critical thinking,critical
+tools,tool
+future training,future training
+TCCC) simulation training,TCCC simulation training
+Auganix,Auganix
+Video credit,Video credit
+existing training modules,existing training module
+limb amputation,limb amputation
+battlefield,battlefield
+visual experience side,visual experience
+combat,combat
+trainees,trainee
+participants,participant
+news articles,news article
+Managing Editor,Managing editor
+military medical education,military medical education
+phase,phase
+Microsoft HoloLens,Microsoft HoloLens
+these modules,module
+series,series
+PerSim,PerSim
+experiential learning,experiential learn
+contract,contract
+physical environments,physical environment
+burns,burn
+life-like holographic patients,life holographic patient
+care,care
+other significant injuries,injury
+PerSim training modules,PerSim training module
+collaboration,collaboration
+Texas-based start-up,Texas based start
+decision-making,decision making
+company and it,company
+clinical presentations,clinical presentation
+mixed reality devices,mixed reality device
+battlefield injuries,battlefield injury
+civilian applications,civilian application
+CEO of MedCognition,CEO MedCognition

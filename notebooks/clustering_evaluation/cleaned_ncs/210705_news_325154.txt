@@ -1,0 +1,110 @@
+einem Blogeintrag,Blogeintrag
+Fraunhofer FOKUS,Fraunhofer FOKUS
+Integration,Integration
+Übergangsbereich,Übergangsbereich
+Quellcode und Stand,Quellcode Stand
+einen Output-Generator,Output Generator
+Frameworks,Frameworks
+Reihe,Reihe
+zentrale Cloud,Cloud
+dritte Modulbereich,Modulbereich
+Kontext,Kontext
+einer Stadt,Stadt
+hybrider Straßen,Straße
+Diese Funktionalität,Funktionalität
+Praxistest,Praxistest
+Elektroautos,Elektroautos
+Betreiber,Betreiber
+verschiedene Aspekte,Aspekt
+BMW,BMW
+Module,Module
+Eclipse,Eclipse
+Wechselverkehrszeichen,Wechselverkehrszeichen
+eines EU-Projekts,Projekts
+Kommunikation,Kommunikation
+Visualisierung,Visualisierung
+Bereich Technologie,Bereich Technologie
+Auswertung und Visualisierung,Auswertung Visualisierung
+Batterieladung,Batterieladung
+Verkehr,Verkehr
+Eclipse MOSAIC,Eclipse MOSAIC
+ns-3,3
+Digitalisierung,Digitalisierung
+OMNeT++,OMNeT
+Entwicklung,Entwicklung
+Digitalisierung und Kommunikation,Digitalisierung Kommunikation
+sogenannten MOSAIC Ambassadors,MOSAIC Ambassadors
+MOSAIC,MOSAIC
+Verfügung,Verfügung
+Kommunikationsmodelle und Datenaustausch,Kommunikationsmodelle Datenaustausch
+DCAITI,DCAITI
+Einsatz,Einsatz
+konkreten Fahrmanövern,Fahrmanövern
+Datenaustausch,Datenaustausch
+Siemens,Siemens
+Basisversion,Basisversion
+Runtime-Infrastruktur,Runtime Infrastruktur
+Autobahninfrastruktur ASFINAG,Autobahninfrastruktur ASFINAG
+Praxistestphase,Praxistestphase
+TU Berlin,TU Berlin
+Mobilitätsdiensten,Mobilitätsdiensten
+GitHub,GitHub
+GitHub-Repository,GitHub Repository
+Simulationsumgebung,Simulationsumgebung
+räumliche Daten,Datum
+Simulations-Framework,Simulations Framework
+auch dem Projekteintrag,Projekteintrag
+Verkehrssimulator Eclipse SUMO,Verkehrssimulator Eclipse SUMO
+Maven,Maven
+unmittelbar bevorstehenden EclipseCon,EclipseCon
+eines Szenarios,Szenario
+Mobilitätsdiensten und Verkehrszenarien,Mobilitätsdiensten Verkehrszenarien
+Auswertung,Auswertung
+Fraunhofer-Entwickler,Fraunhofer Entwickler
+Open-Source-Paket,Open Source Paket
+Sommer,Sommer
+PHABMACS,PHABMACS
+Werkzeuge,Werkzeug
+Möglichkeiten,Möglichkeit
+Foundation,Foundation
+Diese Veröffentlichung,Veröffentlichung
+Ereignisse,Ereignis
+Kommunikationsmodelle,Kommunikationsmodelle
+mathematische Funktionen,Funktion
+einen sicheren Mischverkehr,Mischverkehr
+Verkehr und OMNeT++,Verkehr OMNeT
+Modellierung und Planung,Modellierung Planung
+22. Oktober,Oktober
+Projektbetreiber,Projektbetreiber
+Verkehrszenarien,Verkehrszenarien
+Open Source,Open Source
+ihrem Blog,Blog
+Abschluss,Abschluss
+Rahmen,Rahmen
+Ergebnisse,Ergebnis
+Modellierung,Modellierung
+Ereignisse und Umwelt,Ereignisse Umwelt
+Weitere Simulatoren,Simulatoren
+Planung,Planung
+Anbieter,Anbieter
+drei Kategorien,Kategorie
+Routen,Route
+Kernbibliotheken,Kernbibliotheken
+Erprobung,Erprobung
+Mobilitätsdiensten und Verkehr,Mobilitätsdiensten Verkehr
+VSimRTI,VSimRTI
+umfangreichere kommerzielle Variante,Variante
+Pressemitteilung,Pressemitteilung
+autonomer Fahrzeuge,Fahrzeug
+kostenintensiven Ausbau,Ausbau
+Umwelt,Umwelt
+Quellcode,Quellcode
+groben Mobilitätsszenarien,Mobilitätsszenarien
+Testphase,Testphase
+Schnittstelle,Schnittstelle
+unterschiedlichen Verkehrsteilnehmern,Verkehrsteilnehmern
+Nutzer,Nutzer
+deren Implementierung,Implementierung
+INFRAMIX-Seiten,INFRAMIX
+Auswerten,Auswerten
+Stand,Stand

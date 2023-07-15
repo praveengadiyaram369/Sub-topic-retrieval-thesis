@@ -1,0 +1,220 @@
+OpenVBD-Format,OpenVBD Format
+Anfasser,Anfasser
+Open-Source-3D-Softwarepaket Blender,Open Source Softwarepaket Blender
+Verlinkung,Verlinkung
+bestimmtes Level,Level
+Zukunft,Zukunft
+Andry Rasoahaingo,Andry Rasoahaingo
+Interaktion,Interaktion
+Videostrips,Videostrips
+Renderzeit,Renderzeit
+3D-Objekte,Objekte
+Feuer und Rauch,Feuer Rauch
+Verhalten,Verhalten
+Monado,Monado
+Mauscursor,Mauscursor
+ausführlichen Release Notes,Release Notes
+Vergangenheit,Vergangenheit
+Pencil,Pencil
+Deckkraft,Deckkraft
+Blenderszenen,Blenderszenen
+Auswahl und Annotation,Auswahl Annotation
+Weichzeichnung,Weichzeichnung
+Cycles,Cycles
+Videoschnitt,Videoschnitt
+Smooth Brush,Smooth Brush
+Mesh,Mesh
+jeder Änderung,Änderung
+zwei Hälften,Hälfte
+Entwickler,Entwickler
+Cache,Cache
+Auswahl,Auswahl
+Denoising,Denoising
+Viewport,Viewport
+Make-Videokurs,Videokurs
+neue Cloth Brush,Cloth Brush
+Grease Pencils,Grease Pencils
+Ocean Modifier,Ocean Modifier
+Compositing,Compositing
+Strip,Strip
+Selbstkollisionen,Selbstkollisionen
+Nachbearbeiten,Nachbearbeiten
+Feuer,Feuer
+er und Rauch,Rauch
+Voraussetzung,Voraussetzung
+Händen,Hand
+einen Zeitraum,Zeitraum
+Berechnung,Berechnung
+Anzeige,Anzeige
+Remesh,Remesh
+Stabilität,Stabilität
+Bewegung,Bewegung
+volumetrischen Daten,Datum
+Daumen,Daumen
+finalen Rendering,Rendering
+Remesh-Verfahren,Remesh Verfahren
+einen frühzeitigen Blick,Blick
+adaptives Sampling,Sampling
+allgemeine Form,Form
+Annotation,Annotation
+Performanceschub,Performanceschub
+interessante Entdeckungen,Entdeckung
+professionellen Umfeld,Umfeld
+Einflusskurve,Einflusskurve
+Optimierungen,Optimierung
+VSE,VSE
+vielen Shadingartefakten,Shadingartefakten
+Basis,Basis
+“Blade,Blade
+Replay,Replay
+Kleidung,Kleidung
+einen eigenen Vertex,Vertex
+süßer Hund,Hund
+Stoffe,Stoff
+gleichen Brushes,Brushes
+Hülle,Hülle
+Splashscreen,Splashscreen
+Ian Hubert,Ian Hubert
+Austausch,Austausch
+Blender Foundation,Blender Foundation
+Weichzeichner,Weichzeichner
+Lautstärke,Lautstärke
+Quartal Minor-Releases,Quartal Minor Releases
+3D-Druck,Druck
+Mac,Mac
+neu erzeugte Geometrie,Geometrie
+zwei Frames,Frames
+Qualitätssicherung,Qualitätssicherung
+Aussehen und Verhalten,Aussehen Verhalten
+oder andere Überraschung,Überraschung
+sogenannten Renderpasses,Renderpasses
+Solidify Modifier,Solidify Modifier
+3D-Grafik-Suite,Grafik Suite
+Farbwert,Farbwert
+Blender,Blender
+diese Arbeitszweise,Arbeitszweise
+Wolken,Wolke
+Hintergründe,Hintergrund
+OpenXR-Framework,OpenXR Framework
+meisten anderen Editoren,Editoren
+Software,Software
+Windows Mixed Reality,Windows Mixed Reality
+VR-Brillen,VR Brillen
+Ton,Ton
+Eevee,Eevee
+Daumenspitze,Daumenspitze
+CAD-Aufgaben,CAD Aufgaben
+Brush,Brush
+Modifiersystem,Modifiersystem
+zukünftige Fixes,Fixes
+Bugfixes,Bugfixes
+gleichen Algorithmen,Algorithmen
+manche Bereiche,Bereich
+2D-Zeichnungen,Zeichnungen
+schnellen Strichen,Strich
+Arbeitsspeicher,Arbeitsspeicher
+Featurekompatibel,Featurekompatibel
+alle verfügbaren Arten,Art
+neue Engine,Engine
+Haarsimulation,Haarsimulation
+ca. drei Monaten,Monat
+Praxis,Praxis
+Audiostrips,Audiostrips
+Besitzer,Besitzer
+Kollisionsobjekte,Kollisionsobjekte
+CNC-Fräsen,CNC Fräsen
+zahlreichen Bearbeitungsmöglichkeiten,Bearbeitungsmöglichkeiten
+Download,Download
+Transparenz,Transparenz
+flache Küstengewässer,Küstengewässer
+Lautstärke und Deckkraft,Lautstärke Deckkraft
+Voxel Remesh,Voxel Remesh
+Plan,Plan
+"neue Methode ""Surface",Methode Surface
+Tram Station-Szene,Tram Station Szene
+dazugehörigen Kurven,Kurve
+ähnliche Effekte,Effekt
+einer RTX-Karte,RTX Karte
+OptiX-Backends,OptiX Backends
+Windows,Windows
+Operator,Operator
+herkömmliche Bedienung,Bedienung
+Schatten und Transparenz,Schatten Transparenz
+Bugfixing Sprint,Bugfixing Sprint
+Graph Editor,Graph Editor
+Oculus Rift,Oculus Rift
+Modifiern,Modifiern
+Quads,Quads
+2D-Zeichensystem Grease,Zeichensystem Grease
+Rauschen,Rauschen
+vielen Stellen,Stelle
+Animation,Animation
+Betrachten,Betrachten
+Verbesserungen,Verbesserung
+Material Preview-Modus,Material Preview Modus
+OpenVDB,OpenVDB
+Pathtracing Engine Cycles,Pathtracing Engine Cycles
+Grease Pencil-Objekt,Grease Pencil Objekt
+ausschließlich Bugfixing,Bugfixing
+Volumendaten,Volumendaten
+realistische Falten,Falte
+Object,Object
+Zugriffszeiten,Zugriffszeiten
+Auflösung,Auflösung
+Lehm,Lehm
+Linux,Linux
+Werkzeuge,Werkzeug
+verschiedener kleiner Maker-Projekte,Maker Projekte
+Volumetrische Daten,Volumetrische Datum
+Sculpt- und Weightpaint-Modus,Sculpt Weightpaint Modus
+VR,VR
+Oculus,Oculus
+Tram Station,Tram Station
+Aussehen,Aussehen
+LTS-Version,LTS
+OpenVBD-Dateien,OpenVBD Dateien
+SSD,SSD
+lediglich die Schatten,Schatten
+Mantaflow,Mantaflow
+kombinierte Simulation,Simulation
+Kinderschuhen,Kinderschuhen
+einzelnen Komponenten,Komponente
+Hülle und Rand,Hülle Rand
+Grease,Grease
+rauschfreie Ergebnis,Ergebnis
+schon eine Stoffsimulation,Stoffsimulation
+Editorfensters,Editorfensters
+neuen Features,Feature
+neue Volume,Volume
+Sculpting,Sculpting
+Clay Thumb-Brush,Clay Thumb Brush
+Sculptingmodus,Sculptingmodus
+eigenen Vertextruppen,Vertextruppen
+Bild,Bild
+eigener Vorlagen,Vorlage
+Animationskurven,Animationskurven
+wenig Material,Material
+Blenderszenen und Bewegung,Blenderszenen Bewegung
+Versionsnummer,Versionsnummer
+selbstleuchtende Elemente,Element
+Video,Video
+Farbpipette,Farbpipette
+einer Tischdecke,Tischdecke
+rudimentäre Unterstützung,Unterstützung
+Oberflächen,Oberfläche
+Kollisionen,Kollisionen
+realistischen Faltenwurf,Faltenwurf
+einer Bildbearbeitung,Bildbearbeitung
+Stück,Stück
+Flüssigkeiten,Flüssigkeit
+besonderes Augenmerk,Augenmerk
+einen Bildbereich,Bildbereich
+kantige Ecken,Ecke
+Anforderungen,Anforderung
+Rand,Rand
+CUDA-basierten,CUDA
+Sequence,Sequence
+Toolshelf,Toolshelf
+Paint-Modus,Paint Modus
+Einschränkung,Einschränkung
+Haaren,Haar

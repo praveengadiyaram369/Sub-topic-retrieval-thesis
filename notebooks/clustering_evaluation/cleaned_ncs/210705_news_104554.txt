@@ -1,0 +1,167 @@
+auch die Handles,Handles
+VFX,VFX
+Randomize,Randomize
+Integration,Integration
+Zukunft,Zukunft
+Nvidia-Backend,Nvidia Backend
+Nachbearbeitungsschritt,Nachbearbeitungsschritt
+Nvidia,Nvidia
+Feuer und Rauch,Feuer Rauch
+Gase Mantaflow,Gase Mantaflow
+Keyframes,Keyframes
+Funktionalität,Funktionalität
+Selektieren,Selektieren
+großen Studios,Studio
+USD,USD
+Passes,Paß
+ausführlichen Release Notes,Release Notes
+neue Weld Modifier,Weld Modifier
+RTX-Karten,RTX Karten
+Deckkraft,Deckkraft
+Rip,Rip
+Bewegen-Gizmo,Bewegen Gizmo
+Viewport Denoising,Viewport Denoising
+Eevee und Cycles,Eevee Cycles
+Cycles,Cycles
+damit verbundenen Koordinaten,Koordinaten
+Übereinkunft,Übereinkunft
+Entwickler,Entwickler
+mehrere Sekunden,Sekunde
+Denoising,Denoising
+Viewport,Viewport
+Wasser,Wasser
+Echtzeit,Echtzeit
+Entwicklung,Entwicklung
+Importer,Importer
+Stuckdecken,Stuckdecken
+Spieleentwicklern,Spieleentwicklern
+Verwenden,Verwenden
+Dope Sheet,Dope Sheet
+Skinning,Skinning
+Feuer,Feuer
+Bibliotheken,Bibliothek
+Rauch,Rauch
+Open Source 3D-Software,Open Source Software
+Transparente Oberflächen,Transparente Oberfläche
+Daten,Datum
+Bevel Modifier,Bevel Modifier
+Rendering,Rendering
+Form,Form
+Position,Position
+Performance,Performance
+Normals,Normals
+Dicke,Dicke
+einige neue Optionen,Option
+Erstellen,Erstellen
+Kontrollmöglichkeiten,Kontrollmöglichkeiten
+Painting,Painting
+Shrink,Shrink
+VFX-Software,VFX Software
+Stoff,Stoff
+neuen Widget-basierten Werkzeuge,Widget Werkzeug
+anderen Denoiser,Denoiser
+Grease Pencil-Werkzeug,Grease Pencil Werkzeug
+Nebel,Nebel
+UDIM,UDIM
+aktueller Forschung,Forschung
+Blender Foundation,Blender Foundation
+USD-Konkurrenzformat glTF,USD Konkurrenzformat
+Skripten und Plugins,Skripten Plugins
+ihre Arbeiten,Arbeit
+einen inneren Luftdruck,Luftdruck
+3D-Inhalten,Inhalten
+Solidify Modifier,Solidify Modifier
+auch der OptiX-Denoiser,OptiX Denoiser
+Blender,Blender
+einen Exporter,Exporter
+Optix,Optix
+Kissen,Kissen
+Abrundung,Abrundung
+Web,Web
+hoher Qualität,Qualität
+Aussehen und Funktionalität,Aussehen Funktionalität
+Eevee,Eevee
+Objekten,Objekt
+Bevel-Werkzeug,Bevel Werkzeug
+einer Linux Distribution,Linux Distribution
+Pathtracing,Pathtracing
+neue „Cloth Springs“-Einstellung,Cloth Springs Einstellung
+Onion Skinning,Onion Skinning
+verspielten Möbelkanten,Möbelkanten
+Punkte,Punkt
+etwa zwei Flächen,Fläche
+Referenzplattform,Referenzplattform
+Nils,Nils
+neuer Algorithmen,Algorithmen
+Bereich,Bereich
+klassische 2D-Zeichnungen,Zeichnungen
+Bevel,Bevel
+gleichen Kombination,Kombination
+Animationsarbeit,Animationsarbeit
+Subsurface Color,Subsurface Color
+UV-Texturen,UV Texturen
+Festigkeit,Festigkeit
+bisher integrierten Simulationswerkzeuge,Simulationswerkzeuge
+F-Curve-Editors,Curve Editors
+Download,Download
+Apple,Apple
+Ballons,Ballon
+niedrigen Samplezahlen,Samplezahlen
+Gizmos,Gizmos
+Texture,Texture
+OptiX-Backend,OptiX Backend
+Kurve,Kurve
+volumetrischen Effekten,Effekt
+ihren 3D-Pendants,Pendants
+Windows,Windows
+Skripten,Skripten
+Bedienung,Bedienung
+selbstdefinierte Render Passes,Render Paß
+-Animationen,Animationen
+einen Echoeffekt,Echoeffekt
+Fatten,Fatten
+mehreren Stellen,Stelle
+Pixar,Pixar
+Kanten,Kante
+vielen Verbesserungen,Verbesserung
+Industrie,Industrie
+keine Auswirkungen,Auswirkung
+Bereich Liquidsimulation,Bereich Liquidsimulation
+Extrude,Extrude
+Softwarehersteller,Softwarehersteller
+Technischen Universität München,Technischen Universität München
+macOS und Linux,Linux
+weitere Werkzeuge,Werkzeug
+Interpolation,Interpolation
+Standard,Standard
+glTF-Format,Format
+Inset,Inset
+Forschern,Forscher
+Aussehen,Aussehen
+Plugins,Plugins
+Framework,Framework
+Mantaflow,Mantaflow
+alle Programme,Programm
+Source,Source
+Stoffsimulation,Stoffsimulation
+lange gewünschtes Feature,Feature
+Inhouse-Werkzeuge,Inhouse Werkzeuge
+Grease Pencil,Grease Pencil
+einen neuen Modifier,Modifier
+Open,Open
+Abgerundete,Abgerundete
+Mist,Mist
+Unterstützung,Unterstützung
+Smooth,Smooth
+Renderzeiten,Renderzeiten
+mehrere Dateien,Datei
+Flüssigkeiten,Flüssigkeit
+Problemen,Problem
+Subsurface Direct,Subsurface Direct
+einer Weichkörpersimulation,Weichkörpersimulation
+Ambient Occlusion,Ambient Occlusion
+UV-Editor,UV Editor
+Source Simulationssoftware,Source Simulationssoftware
+Blender Mantaflow,Blender Mantaflow
+Kanal,Kanal
+Augmented-Reality-(AR-)Anwendungen,Augmented Reality Anwendungen

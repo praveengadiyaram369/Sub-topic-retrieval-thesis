@@ -1,0 +1,214 @@
+Non-matrix operations,matrix operation
+Google Brain,Google brain
+bits,bit
+AMP,AMP
+software support,software support
+updates,update
+my newsletter,newsletter
+challenge,challenge
+GPU memory,GPU memory
+i.e. bfloat16 trades,bfloat16 trade
+any experiments,experiment
+v3,v3
+floating point numbers,floating point number
+most important consideration,consideration
+your choice,choice
+IEEE floating-point formats,IEEE floating point format
+Google TPU,Google TPU
+Google,Google
+TensorFlow,tensorflow
+FP64,FP64
+Applications,application
+High-precision calculations,High precision calculation
+Source,source
+particularly gracious circumstances,gracious circumstance
+market,market
+range of FP32,range FP32
+gradient,gradient
+notice,notice
+issue,issue
+most people,people
+number,number
+C/C++ standard,standard
+any practical advice,practical advice
+higher accuracy,higher accuracy
+IEEE standard,IEEE standard
+learning,learn
+FP16,FP16
+training times,training time
+weights,weight
+magnitude,magnitude
+deep learning,deep learn
+terms,term
+advantage of TF32,advantage TF32
+Advice,advice
+your use case,case
+three “flavors,flavor
+Practitioners,practitioner
+alternative floating-point format,alternative floating point format
+problems,problem
+NVIDIA developer blog,NVIDIA developer blog
+type,type
+precision of FP16,precision FP16
+significant impact,impact
+Intel and Facebook,Intel Facebook
+neural networks,neural network
+weights and gradients,weights gradient
+represented value,represented
+adoption,adoption
+effort,effort
+storage,storage
+rest,rest
+terms of hardware,terms hardware
+PyTorch,PyTorch
+FP32,FP32
+sign,sign
+Grigory Sapunov,Grigory sapunov
+quick overview,quick overview
+most NVIDIA/AMD GPUs,NVIDIA AMD GPUs
+drift,drift
+"two main
+tricks",main trick
+range,range
+bfloat16 format,bfloat16 format
+certain point,point
+Brain Floating-Point Format,Brain Floating Point format
+activations,activation
+finite precision,finite precision
+FP32 number,FP32 number
+terms of software,terms software
+GPUs and ASICs,GPUs ASICs
+size,size
+NVIDIA TensorFloat,NVIDIA TensorFloat
+lot of multiplications,lot multiplication
+NVIDIA’s developer guide,NVIDIA developer guide
+scale,scale
+number and type,number type
+post,post
+writing,write
+Floating-Point,Floating Point
+difference,difference
+other hand,hand
+tf.bfloat16,bfloat16
+\(b_{31} b_{30,b_31 b_30
+FP16 gradients,FP16 gradient
+loss,loss
+machine learning community,machine learning community
+mixed precision,mixed precision
+Subscribe,subscribe
+quick look,quick
+FP32 inputs,FP32 input
+Scale) Bits Mantissa,Scale Bits mantissa
+accompanying blog post,accompanying blog post
+lot,lot
+order,order
+well-informed opinion,informed opinion
+PyTorch ( torch.bfloat16,PyTorch torch bfloat16
+FP32 and FP64,FP32 FP64
+good default,good default
+regularization effects,regularization
+\(b_{23}\,b_ 23
+gist,gist
+your homework,homework
+mantissa,mantissa
+that route,route
+sequence,sequence
+blog,blog
+Tensor Core hardware,Tensor Core hardware
+FP32 master copy,FP32 master copy
+NVIDIA libraries,NVIDIA library
+benefits of TF32,benefits TF32
+bigger the drift,bigger drift
+CPUS,CPUS
+ASICs,ASICs
+"no
+code change",code change
+torch.float16,torch float16
+documentation,documentation
+TF32 Tensor Cores,TF32 Tensor core
+papers,paper
+even performance,performance
+activations and gradient,activations gradient
+tf.float16 and torch.float16,float16 torch float16
+actual backward propagation,actual propagation
+traction,traction
+Google Cloud blog,Google Cloud blog
+these techniques,technique
+master copy,master copy
+hardware,hardware
+Intel,Intel
+deep learning models,deep learning model
+"your
+model",model
+your code,code
+"future AMD
+GPUs",future AMD GPUs
+weight update,weight update
+real support,real support
+introduction and adoption,introduction adoption
+NVIDIA blog,NVIDIA blog
+My thoughts,thought
+NVIDIA Apex library,NVIDIA Apex library
+\(b_{30}\,b_ 30
+Google Cloud,Google cloud
+x86 CPUs,x86 CPUs
+hardware (x86 CPUs,hardware x86 CPUs
+\cdot 2^{(b_{30} b_{29,cdot 2 b_30 b_29
+purposes,purpose
+NVIDIA A100,NVIDIA A100
+Ampere architecture,Ampere architecture
+appropriately precise format,appropriately precise format
+type of bits,type bit
+change,change
+edge hardware,edge hardware
+sign bit,sign bit
+Precision,precision
+"lower numerical
+precision",numerical precision
+Bits FP16,Bits FP16
+127} \cdot,127 cdot
+significant performance degradation,performance degradation
+software,software
+\[(-1)^{b_{31,1 b_ 31
+distinct type,distinct type
+certain complicated models,complicated model
+exponent bits,exponent bit
+distinct advantage,distinct advantage
+Loss scaling,Loss scale
+deep learning practitioner,deep learning practitioner
+support,support
+GPUs,GPUs
+introduction,introduction
+Sign Bits Exponent,Sign Bits exponent
+deep neural networks,deep neural network
+time of writing,time write
+divisions,division
+hardware support,hardware support
+NVIDIA,NVIDIA
+modern GPUs,modern GPUs
+special library,special library
+real number,real number
+Newsletter archive,Newsletter archive
+speculation,speculation
+precise value,precise
+training,training
+precision bits,precision bit
+Tensor Cores,Tensor core
+no benefit,benefit
+analytical gradient update,analytical gradient update
+TF32,TF32
+A100s,A100s
+1.b_{22} b_{21,1 b_22 b_21
+mixed-precision training,mixed precision training
+time,time
+Facebook,Facebook
+same large number,large number
+reduction operations,reduction operation
+advantage,advantage
+"faithful
+backward propagation",faithful propagation
+CUDA,CUDA
+BFloat16 BFloat16,BFloat16 bfloat16
+great run-down,great
+new formats,format
+users,user

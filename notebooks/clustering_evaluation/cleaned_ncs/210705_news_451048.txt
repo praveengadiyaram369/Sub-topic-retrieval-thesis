@@ -1,0 +1,124 @@
+Anwendungsgebiet,Anwendungsgebiet
+Ziel,Ziel
+Simulationsaufwand,Simulationsaufwand
+Strukturdetails,Strukturdetails
+Leichtbaus,Leichtbaus
+viele Größenordnungen,Größenordnungen
+Einen weiteren Aspekt,Aspekt
+Herausforderung,Herausforderung
+ineinandergreifenden Nahtstrukturen,Nahtstrukturen
+Selbstüberwachung,Selbstüberwachung
+Vibrationen,Vibrationen
+Gitterstrukturen,Gitterstrukturen
+auch der Erdbebenschutz,Erdbebenschutz
+Strukturierung,Strukturierung
+Stadium,Stadium
+einer eigenständigen Stellschraube,Stellschraube
+auch der Automobilindustrie,Automobilindustrie
+sehr spezifische Fertigungsmethoden,Fertigungsmethoden
+Diese Komplexität,Komplexität
+negativer thermischer Ausdehnungskoeffizient,Ausdehnungskoeffizient
+Entwicklung,Entwicklung
+Dr. Heike Brandt,Heike Brandt
+mehreren Design-Elementen,Design Elementen
+Größe,Größe
+Anfang,Anfang
+Ausgangspunkt,Ausgangspunkt
+Architektur,Architektur
+Crash-Verhalten,Crash Verhalten
+Grundlagenforschung,Grundlagenforschung
+drei benötigten Kernkompetenzen,Kernkompetenzen
+nanoskopischer Ebene,Ebene
+Begriffs Architectured Material,Begriffs Architectured Material
+Grenzen,Grenze
+dieser neuen Materialklasse,Materialklasse
+Fertigungstechnik und Charakterisierung,Fertigungstechnik Charakterisierung
+Form,Form
+Gegensatz,Gegensatz
+Optimierung,Optimierung
+Trägermaterial,Trägermaterial
+Grund,Grund
+Dämpfung,Dämpfung
+Realisierung,Realisierung
+Gitter,Gitter
+Kernkompetenzen Design,Kernkompetenzen Design
+Luftfahrt,Luftfahrt
+Verwendung,Verwendung
+Kommerzialisierung,Kommerzialisierung
+solche Multifunktionalisierung,Multifunktionalisierung
+additiver Fertigungsverfahren,Fertigungsverfahren
+also Design,Design
+ausgezeichnete mechanische Eigenschaften,Eigenschaft
+Resultat,Resultat
+einem spezifischen Anwendungszweck,Anwendungszweck
+diesem Ansatz,Ansatz
+chemischen Zusammensetzung,Zusammensetzung
+Biokompositen,Biokompositen
+strukturellen Überlagerungen,Überlagerung
+Einbeziehung,Einbeziehung
+wirkungsvollen Schutz,Schutz
+elektrochemische Generatoren,Generator
+elektromagnetische Absorption,Absorption
+Anwendungsbereiche,Anwendungsbereiche
+Forschungsarbeiten,Forschungsarbeiten
+Nachbildungen,Nachbildung
+Berücksichtigung,Berücksichtigung
+Wesentlichen,Wesentliche
+Schall,Schall
+Gesamtobjektes,Gesamtobjektes
+freien Raum,Raum
+Energieerzeugung,Energieerzeugung
+erforderliche Präzision,Präzision
+Fertigungstechnik,Fertigungstechnik
+Gradienten,Gradienten
+Solarzellen,Solarzellen
+hohen Entwicklungskosten,Entwicklungskosten
+selbstheilende Fähigkeiten,Fähigkeit
+sub-μm-Bereich,Bereich
+integrierter Funktionalitäten,Funktionalitäten
+Prozessparametern,Prozessparametern
+dieser Art,Art
+derzeit verfügbaren Kombinationen,Kombination
+Multifunktionalität,Multifunktionalität
+Konzepts,Konzept
+Verwandte Themen,Verwandte Thema
+Materialeigenschaften,Materialeigenschaften
+auch die Charakterisierung,Charakterisierung
+Hürde,Hürde
+Architectured Materials,Architectured Material
+aufwendigen numerischen Verfahren,Verfahren
+Großteil,Großteil
+Knochen,Knochen
+architektonischer Merkmale,Merkmal
+Werkstoffen,Werkstoffen
+Komposite,Komposite
+überschaubare Variationen,Variation
+Baueinheiten,Baueinheiten
+Menschengedenken,Menschengedenken
+Strukturmerkmale,Strukturmerkmale
+Erweiterung,Erweiterung
+diese Weise,Weise
+Korngröße,Korngröße
+hohes Energieabsorptionsvermögen,Energieabsorptionsvermögen
+Explosionen,Explosion
+Werkstoffentwicklung,Werkstoffentwicklung
+Komposite und Gitter,Komposite Gitter
+integraler Bestandteil,Bestandteil
+einer frühen Phase,Phase
+Herstellung,Herstellung
+Werkstück,Werkstück
+speziell die Überprüfung,Überprüfung
+Gesamtkonzept,Gesamtkonzept
+Nanostrukturierung,Nanostrukturierung
+gleichzeitige Verarbeitung,Verarbeitung
+unterschiedlicher Strukturebenen,Strukturebenen
+Forschungsbemühungen,Forschungsbemühungen
+aber Material,Material
+Druckwellen,Druckwellen
+solcher Strukturen,Struktur
+einzigartige Designfreiheit,Designfreiheit
+konträre Anforderungen,Anforderung
+Schritt,Schritt
+optimaler Wärmeaustausch,Wärmeaustausch
+Einbau,Einbau
+Anordnung,Anordnung

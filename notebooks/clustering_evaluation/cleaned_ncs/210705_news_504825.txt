@@ -1,0 +1,72 @@
+massive datasets,massive dataset
+semi-supervised baselines,semi supervised baseline
+DATASETGAN's datasets,DATASETGAN dataset
+real images,real image
+power,power
+Leverage StyleGAN,Leverage StyleGAN
+interpolation,interpolation
+class,class
+Antonio Torralba,Antonio Torralba
+Toronto,Toronto
+predictions of DeepLab,predictions DeepLab
+semantic segmentation,semantic segmentation
+GAN latent code,GAN latent code
+Adela Barriuso,Adela barriuso
+Paper Yuxuan Zhang,Paper Yuxuan Zhang
+large high-quality datasets,large high quality dataset
+Sanja Fidler,Sanja fidler
+result,result
+Kangxue Yin,Kangxue Yin
+real datasets,real dataset
+predictions,prediction
+realistic images,realistic image
+Figure illus-,Figure illus
+keypoint detection,keypoint detection
+our approach,approach
+large-scale datasets,large scale dataset
+Paper,paper
+Jean-Francois Lafleche,Jean Francois Lafleche
+synthesized images,synthesized image
+image,image
+labels,label
+"monocular
+images",monocular image
+Waterloo,Waterloo
+automatic procedure,automatic procedure
+huge synthetic dataset,huge synthetic dataset
+images and labels,images label
+recent GANs,GANs
+CVPR,CVPR
+ground-truth annotations,ground truth annotation
+Oral,oral
+test,test
+our GTC'21 story,GTC 21 story
+animatable 3D objects,animatable object
+annotated images,annotated image
+Current deep networks,Current deep network
+your favorite approach,favorite approach
+high-quality,high quality
+only a handful,handful
+extreme detail,extreme
+pixel-level labels,pixel level label
+image-annotation pairs,image annotation pair
+rest,rest
+video,video
+These generated datasets,generated dataset
+minimal human effort,minimal human effort
+DatasetGAN,DatasetGAN
+DeepLab,DeepLab
+labor intensive annotations,labor intensive annotation
+Jun Gao,Jun Gao
+latent space,latent space
+Our method,method
+few labeled examples,labeled
+decoder,decoder
+fully supervised methods,fully supervised method
+training,training
+datasets of high-quality,datasets high quality
+MIT DATASETGAN,DATASETGAN
+detailed pixel-wise labels,detailed pixel wise label
+Huan Ling,Huan ling
+highly effective branch,highly effective branch
+datasets,dataset

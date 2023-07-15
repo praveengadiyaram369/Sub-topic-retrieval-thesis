@@ -1,0 +1,53 @@
+aktuelle Modelle,Modell
+einem neuen Report,Report
+dessen Ziel,Ziel
+8K-Screens,Screens
+Kuo,Kuo
+Invisible,Invisible
+Pay,Pay
+eines hybriden Fresnel-Linsen-Designs,Fresnel Linsen Designs
+Touch ID,Touch
+früheren Berichten,Bericht
+Pad,Pad
+Zukunftsmusik,Zukunftsmusik
+Genius Electronic Optical,Genius Electronic Optical
+Funktionen,Funktion
+"""Portabel",Portabel
+Geräts,Gerät
+Bezahlen,Bezahlen
+Kontaktlinsen Preislich,Kontaktlinsen Preislich
+Kontaktlinsen,Kontaktlinsen
+Unsichtbare Rechner,Unsichtbare Rechner
+Konzerns,Konzern
+Vergangenheit,Vergangenheit
+Apples,Apples
+Mac,Mac
+"""fortschrittliches Eye-Tracking",Eye Tracking
+Hardware,Hardware
+Asien,Asien
+Verfügbarmachung,Verfügbarmachung
+Sony,Sony
+Planung,Planung
+Bild,Bild
+direkt integrierte Iris-Erkennung,Iris Erkennung
+Auge,Auge
+Analyst,Analyst
+einen mehrjährigen Plan,Plan
+Form,Form
+AR- und VR-Ansätzen,VR Ansätzen
+einer leichten AR-Brille,Brille
+Erste Hardwarefunktionen,Hardwarefunktionen
+Technik,Technik
+insgesamt sechs Linsen,Linse
+gute Kontakte,Kontakt
+Außeneinsatz,Außeneinsatz
+Virtual-Reality-Funktionen,Virtual Reality Funktionen
+Lieferant,Lieferant
+Supply,Supply
+Chain,Chain
+geplante Mixed-Reality-Headset,Mixed Reality Headset
+Headset,Headset
+Gesichtserkennung Face ID,Gesichtserkennung Face
+Augmented-Reality-Technik,Augmented Reality Technik
+Nutzer,Nutzer
+Young Optics,Young Optics

@@ -1,0 +1,11 @@
+*.7z
+*.db
+.ipynb_checkpoints
+.scrapy
+*.log
+*.pyc
+*.bin
+*.pkl
+
+input_data/
+output/

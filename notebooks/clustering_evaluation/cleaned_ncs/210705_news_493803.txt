@@ -1,0 +1,67 @@
+SIGGRAPH,SIGGRAPH
+Haene,Haene
+accurate alpha mattes,accurate alpha matte
+specular highlights,specular highlight
+deep learning framework,deep learning framework
+these stages,stage
+Debevec,debevec
+known background,background
+foreground estimation,foreground estimation
+BibTex @inproceedings{Pandey:2021,BibTex inproceedingsPandey 2021
+ACM Transactions,ACM transaction
+Relight Portraits,Relight portrait
+realistic relighting,realistic relighte
+high quality geometry,high quality geometry
+subjects,subject
+number,number
+Rohit,rohit
+title,title
+subject’s appearance,subject appearance
+Paul and Fanello,Paul fanello
+Rhemann,Rhemann
+diffuse,diffuse
+Bouaziz,Bouaziz
+realistic composite images,realistic composite image
+Our technique,technique
+Chloe,Chloe
+in-the-wild images,wild image
+Christoph and Debevec,Christoph debevec
+effectiveness,effectiveness
+proposed approach,proposed approach
+Sean,sean
+our model,model
+relighting,relighte
+Fanello,fanello
+multiple lighting conditions,multiple lighting condition
+specular components,specular component
+any desired scene,desired scene
+background replacement,background replacement
+HDR lighting environment,HDR lighting environment
+August,August
+Pandey,Pandey
+appearance,appearance
+year,year
+sequential pipeline,sequential pipeline
+Sergio,Sergio
+Christian,christian
+priors,prior
+portrait relighting,portrait relighte
+Rohit and Orts-Escolano,Rohit Orts Escolano
+Multiple experiments,Multiple experiment
+Graphics,graphic
+novel illumination,illumination
+alpha matting,alpha mat
+Sofien,sofien
+Sofien and Rhemann,Sofien Rhemann
+comparisons,comparison
+Chloe and Haene,Chloe Haene
+volume,volume
+Christoph,Christoph
+high-frequency boundary details,high frequency boundary
+month,month
+Paul,Paul
+Proceedings SIGGRAPH,Proceedings SIGGRAPH
+"}
+		 Video VIDEO",Video VIDEO
+Orts-Escolano,Orts Escolano
+LeGendre,LeGendre

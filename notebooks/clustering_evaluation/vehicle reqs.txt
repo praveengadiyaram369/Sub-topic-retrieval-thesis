@@ -1,0 +1,65 @@
+The candidate has to declare that the vehicles supplied will be purchased from official importer or other legal entity explicitly authorized by the manufacturer to supply and maintain the vehicles offered and which has a service base in the country for the specific model.
+Vehicles should meet technical standards in EU or equivalent, confirmed by certificate of conformity with type approval or declaration upon delivery. If the vehicles require  additional post-manufacturing equipment, a declaration that required transformations have taken place should be submitted with the quotation.
+Year of manufacturing of the vehicle should be not older than 6 months.
+During the warranty period, the contractor will provide at their own expense the mandatory warranty technical maintenance of the vehicle covering the labor costs and all spare parts, oils and consumables.
+Warranty against corrosion – no less than standard warranty period given by manufacturer.
+Manufacturer’s recommended service interval not less than 10.000km.
+Total acceptable weight of vehicle may not exceed 3,5t
+Total weight of the vehicle integrated with an electro–optical system and a crew (2 people, 100 kg each), ready to go, may not exceed 90% of the total acceptable weight of vehicle.
+The axes of the vehicle shall be loaded in a balanced way (approx. 50:50) so that the roadworthiness of the vehicle is not worsened.
+The vehicle shall have a pickup body with the hard top cover technical compartment.
+The hard top cover shall be not higher than 300 mm above the cabin roof lever.
+The vehicle shall have a frame construction.
+Length of the vehicle may not exceed 5500 mm.
+Height of the vehicle may not exceed 2000 mm when antennas are folded.
+Axle base may not be narrower than 3000 mm.
+The vehicle shall have power–assisted left–hand steering.
+Steering column shall have height and length adjustable.
+In the cabin vehicle shall have 2 rotatable (180°) comfort seats with armrests.
+Seats shall be ergonomically designed. They shall be firmly fixed in the vehicle floor.
+The operators shall be able to adjust his seats while sitting on it.
+The body shall have separate compartments i.e. driver’s/operator’s and technical one/ones.
+The operators compartment shall guarantee sufficient space for the necessary operating and observing elements and an ergonomic working conditions for two operators for at most 12 hours
+The operator’s compartment and the technical compartment, where the technical equipment is located shall be separated from each other with a rigid, sound–isolated partition.
+Flooring in the operator compartment shall be made with dark rubber
+The body shall have a separate door leading into the technical compartment/compartments.
+Admissible level of noise in the operator compartments, while observation is in progress, may not be higher than 60 dBA.
+The design of the body shall prevent emitting the operator’s/technical compartment lighting outside i.e. tinted windows.
+The body shall be designed in a way that prevents identification of the vehicle as a carrier of the sensors.
+There shall be some drawers or other kind of “soft” lockers for documentation.
+The device installed in MSS, being in operation, cannot be heard from the distance longer than 50m.
+The vehicle shall have a water–cooled, four–stroke diesel engine.
+Engine power not less than 125 kW.
+Max. engine torque not less than 350 Nm.
+Engine swept capacity not less than 2000 cm3.
+Capacity of the fuel tank shall be not less than 80 dm3.
+Mileage with the full of fuel tank shall allow to overcome distance minimum 500 km.
+The vehicle shall have a manual 5 or 6 synchromesh gearbox with reverse gear. The automatic gearbox is allowed. The continuously variable transmission gearbox is not allowed.
+The vehicle must have a four–wheel drive system (permanent or switchable).
+Power transmission system should consist of a reduction box allowing to change power for field drive.
+The vehicle shall have limited slip differential (LSD) on front and rear axle.
+The vehicle shall have a between–axle interlock of the differential gear or an interlock of the differential gear of the rear driving axle.
+Ground clearance of the vehicle under full loading may not be less than 200 mm.
+It is allowed to adjust (pneumatic or hydraulic) the height of clearance from the cabin of the vehicle.
+Rear axle shall be automatically horizontally leveled.
+Stabilization system shall prevent random vibration of the vehicle for example moving crew inside the vehicle,
+Stabilization system shall be fully operated from operator’s compartment.
+The vehicle shall have a double–circuit power–assisted antilock braking system.
+The vehicle shall have equipped with advance traction control systems i.e. ASR, ESP.
+The antilock braking system and traction control system shall be switchable from the driving seat.
+The vehicle shall have equipped with hill holder system or equivalent.
+The vehicle shall be equipped with set of steel wheels with tubeless tires with an off-roadroad thread (50% road, 50% off-road) and non–skid chains.
+The vehicle shall be equipped with engine, gear box, rear differential and fuel tank protection plate, protection bars for front and rear lamps, a spare wheel (of parameters identical to those of regular wheels), a lifting jack, wheel nut wrench, a portable lamp supplied from the board power supply system and a winch allowing for self-evacuation of the vehicle.
+The vehicle shall be equipped with at least two airbags – one for a driver and one for a passenger.
+The vehicle shall have a heater for the water cooling the engine independent from external power supply, heating the cooling water will help to start up the engine at low temperatures.
+The vehicle shall be equipped at programmable and remotely controlled heater system for the cab.
+The vehicle shall have an air–conditioning system allowing to maintain temperature adjusted by an operator. The temperature will be adjusted, in the operator’s or driver’s compartments, fluently or step by step (one step 1°C or less) within the range from +18°C to +26°C at the outside of the temperature from –30°C to +45°C in full sunlight.
+Maximum deviation from the set temperature, in any point of the operator’s compartment, may not exceed 3°C.
+The body shall have a ventilation system allowing the crew to work continuously inside, with the door closed (the air in the operator’s compartment shall be exchanged at least six times during one hour).
+The vehicle shall be equipped with central lock system with remote control.
+It is allowed to use in the vehicle – keyless system.
+The vehicle shall be equipped with electronically adjustable, heated exterior mirrors.
+Front windscreen should be heated.
+Front and rear windows shall be power operated and automatically closing after locking the doors.
+The vehicle shall be equipped with FM radio with RDS and USB.
+The vehicle shall be equipped with front and rear park distance control system with reversing camera.

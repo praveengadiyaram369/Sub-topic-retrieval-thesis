@@ -1,0 +1,11 @@
+# syntax=docker/dockerfile:experimental
+FROM docker.elastic.co/elasticsearch/elasticsearch:8.2.2
+
+HEALTHCHECK --interval=60s --timeout=5s --retries=3 --start-period=10s CMD wget --no-proxy -O - -q localhost:8080/ping
+
+ENV http_proxy=http://www-proxy.yyy.fraunhofer.de:3128/
+ENV https_proxy=http://www-proxy.yyy.fraunhofer.de:3128/
+ENV no_proxy="auth,localhost,127.0.0.1,192.168.0.1/24"
+
+ENV PROJECT_DIR /usr/share/elasticsearch/config/
+COPY notebooks/elastic_search/config ${PROJECT_DIR}

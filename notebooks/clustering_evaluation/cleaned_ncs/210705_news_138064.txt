@@ -1,0 +1,124 @@
+Vorschriften,Vorschrift
+Hinblick,Hinblick
+Zielen,Ziel
+Integration,Integration
+Luftraum,Luftraum
+zusätzlichen Fähigkeit,Fähigkeit
+Bereich,Bereich
+Radardatennetz,Radardatennetz
+Azimut-Abdeckung,Azimut Abdeckung
+vorrangige Aufgabe,Aufgabe
+Ausrüstung,Ausrüstung
+S-Band,Band
+aktiven Störern,Störern
+Bidirektionale Datenübertragung,Bidirektionale Datenübertragung
+gut informierten Kreisen,Kreis
+Subsysteme,Subsysteme
+einer Azimutauflösung,Azimutauflösung
+Turm,Turm
+STANAG,STANAG
+Verwandte Themen,Verwandte Thema
+SASPF,SASPF
+Sensorik,Sensorik
+Ausschreibung,Ausschreibung
+d.h. Detektion,Detektion
+Messmittel und Werkzeuge,Messmittel Werkzeug
+Entdeckungswahrscheinlichkeit,Entdeckungswahrscheinlichkeit
+Erbeskopf,Erbeskopf
+einer Elevationsauflösung,Elevationsauflösung
+Wahrung,Wahrung
+Vernehmen,Vernehmen
+Track-While-Scan-,Track Scan
+Strahlenschutz,Strahlenschutz
+Anbindung,Anbindung
+Idealbedingungen,Idealbedingungen
+Pardin,Pardin
+Bereichen Arbeitssicherheit,Bereichen Arbeitssicherheit
+Unterdrückung,Unterdrückung
+einer Entfernungsauflösung,Entfernungsauflösung
+I)ETD,ETD
+Abwehr,Abwehr
+Betriebsarten,Betriebsarten
+vier Radomen,Radomen
+Sicherstellung,Sicherstellung
+Waldemar Geiger   Titelfoto,Waldemar Geiger Titelfoto
+Informations- und Abstrahlsicherheit,Informations Abstrahlsicherheit
+BTK,BTK
+Spezifikationen,Spezifikation
+Radarsteuerungskonsole,Radarsteuerungskonsole
+Erfassung,Erfassung
+Frequenzbereich: L/S-Band,Frequenzbereich Band
+Lieferung,Lieferung
+Dauereinsatzaufgabe,Dauereinsatzaufgabe
+HADR,HADR
+Luftraumüberwachung,Luftraumüberwachung
+Foto,Foto
+„ Obsoleszenzbeseitigung,Obsoleszenzbeseitigung
+Umweltschutz,Umweltschutz
+ausgeschriebenen Radare,Radare
+Bundesamt,Bundesamt
+Bau,Bau
+Luftverteidigung,Luftverteidigung
+Beschaffung,Beschaffung
+Inbetriebnahme,Inbetriebnahme
+Sekundärradarsystems,Sekundärradarsystems
+europäischen Ausschreibungsplattform TED,Ausschreibungsplattform TED
+ASTERIX- /AWCIES-Format,ASTERIX AWCIES Format
+einer Geschwindigkeit,Geschwindigkeit
+Elevationswinkel,Elevationswinkel
+Fähigkeitserhalt,Fähigkeitserhalt
+Bundeswehr,Bundeswehr
+Luftraumüberwachungsradaren,Luftraumüberwachungsradaren
+Falschzielalarmrate,Falschzielalarmrate
+vier Radarsystemen,Radarsystemen
+Ersatz,Ersatz
+Tracks,Tracks
+NATO,NATO
+Fregatten,Fregatte
+Werkzeuge,Werkzeug
+Mitte,Mitte
+Einführung,Einführung
+Erstausbildung,Erstausbildung
+taktischer Ballistic,Ballistic
+einer Totzone,Totzone
+ballistischer Flugkörper,Flugkörper
+vier Antennen,Antenne
+Mindestreichweite,Mindestreichweite
+Oktober,Oktober
+Materialgrundlagen,Materialgrundlagen
+Zuge,Zug
+Klasse F124,Klasse F124
+Überlegungen,Überlegung
+Gegenstand,Gegenstand
+Zeitraum Oktober,Zeitraum Oktober
+Konzepterstellung,Konzepterstellung
+Hauptaufgabe LRÜ,Hauptaufgabe LRÜ
+Technische Dokumentation,Technische Dokumentation
+Sicherheit,Sicherheit
+Gefahrgutwesen,Gefahrgutwesen
+Beschaffung und Einführung,Beschaffung Einführung
+einer optionalen Referenzanlage,Referenzanlage
+Wechsel,Wechsel
+Katalogisierung,Katalogisierung
+Antenne und Empfänger,Antenne Empfänger
+Radarsteuerungskonsole und Integration,Radarsteuerungskonsole Integration
+BESTD-Konformität,BESTD Konformität
+Beschreibung,Beschreibung
+einem RCS,RCS
+bestehende Infrastruktur,Infrastruktur
+Informationssicherheit,Informationssicherheit
+Unterstützung,Unterstützung
+Sender,Sender
+Dauereinsatzbetrieb,Dauereinsatzbetrieb
+Technische Spezifikationen,Technische Spezifikation
+einer Software,Software
+Teilnahmewettbewerb,Teilnahmewettbewerb
+Empfänger,Empfänger
+inklusive Installation,Installation
+Informationstechnik und Nutzung,Informationstechnik
+Mischbetrieb,Mischbetrieb
+Messmittel,Messmittel
+Spec,Spec
+logistische Informationsversorgung,Informationsversorgung
+Hughes,Hughes
+Common,Common

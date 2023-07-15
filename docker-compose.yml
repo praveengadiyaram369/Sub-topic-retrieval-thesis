@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  # mda:
+  #   build: 
+  #     context: ./
+  #     dockerfile: Dockerfile
+  #   command: ["python", "mine_unlabeled_data.py"]
+  #   image: mdd:latest
+  #   volumes: 
+  #     - /mnt/data/xxx-osint/rss_backup/210705_news:/usr/src/app/data
+      # - /mnt/data/xxx_data_archive/data:/usr/src/app/data
+
+  ingestdata:
+    build: 
+      context: ./
+      dockerfile: Dockerfile
+    image: es_data_ingestion:v1
+    container_name: data_ingestion
+    volumes: 
+      - /mnt/data/xxx-osint/rss_backup/210705_news:/usr/src/app/data
+    networks:
+      - public_frontend
+
+networks:
+  public_frontend:
+    driver: bridge
+    external: true

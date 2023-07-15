@@ -1,0 +1,117 @@
+SIGGRAPH,SIGGRAPH
+expression,expression
+massive parallelism,massive parallelism
+Massively Parallel Rendering,Massively Parallel render
+two orders,order
+RSS,RSS
+assortment,assortment
+mathematical representations,mathematical representation
+normals,normal
+Anthony Taconi,Anthony taconi
+optimization,optimization
+modern data-center GPUs,modern data center GPUs
+stage,stage
+arbitrary resolution,arbitrary resolution
+Neil Gershenfeld,Neil gershenfeld
+Our model representation,model representation
+design,design
+{{ACM} Transactions,ACM transaction
+Hazel Fraticelli,Hazel Fraticelli
+my colleagues,colleague
+Interval arithmetic,Interval arithmetic
+VR/ML workstation,VR workstation
+rendering strategy,rendering strategy
+literature,literature
+efficient parallelization,efficient parallelization
+feedback,feedback
+underlying mathematical expressions,underlying mathematical expression
+underlying expression,underlying expression
+empty regions,region
+spatial regions,spatial region
+computing power,computing power
+performance,performance
+feedback and insights,feedback insight
+parallel algorithms,parallel algorithm
+screen-space ambient occlusion,screen space ambient occlusion
+our technique,technique
+Special thanks,Special
+my independent research,independent
+Proceedings,proceeding
+hardware,hardware
+smooth blending operations,smooth blending operation
+Amira Abdel Rahman,Amira Abdel rahman
+magnitude,magnitude
+benchmark,benchmark
+model,model
+Formlabs,formlab
+keeter2020,keeter2020
+high branching factor,high branching factor
+implicit surfaces,implicit surface
+shapes,shape
+libfive kernel,libfive kernel
+expression complexity,expression complexity
+Similar algorithms,algorithm
+older laptops,older laptop
+interactive speeds,interactive speed
+fun,fun
+drafts,draft
+nTopology,ntopology
+Doug Moen,Doug Moen
+project,project
+raytracing,raytrace
+CSG,CSG
+insights,insight
+branch,branch
+support,support
+significant improvements,improvement
+complex implicit surfaces,complex implicit surface
+heterogeneous workloads,heterogeneous workload
+Graphics,graphic
+folks,folk
+arithmetic operations,arithmetic operation
+gear model,gear model
+high resolution,high resolution
+extruded text string,extruded text string
+automatic differentiation,automatic differentiation
+Abstract We,Abstract
+triangulation,triangulation
+GPU,GPU
+architectural model,architectural model
+Peter Fedak,Peter Fedak
+SIGGRAPH paper,SIGGRAPH paper
+performance results,performance result
+Matthew J.,Matthew
+smooth blending,smooth blend
+new method,method
+volume,volume
+Figure,figure
+shallow hierarchy,shallow hierarchy
+Blake Courter,Blake Courter
+particularly challenging benchmark,challenging benchmark
+modern GPUs,modern GPUs
+involute curve,involute curve
+heightmap,heightmap
+writeup,writeup
+Brian Merchant,Brian merchant
+Jennifer Keeter,Jennifer keeter
+Raph Levien,Raph levien
+anonymous reviewers,anonymous reviewer
+complex architectural model,complex architectural model
+Jonathan Bachrach,Jonathan bachrach
+Martin Galese,Martin galese
+Twitter,twitter
+journal,journal
+time,time
+Proceedings of SIGGRAPH,Proceedings SIGGRAPH
+reduced versions,reduced
+"Finally, thanks",Finally
+advantage,advantage
+"""39"",
+ number",39 number
+my future work,future work
+bear head,bear head
+large-scale models,large scale model
+perspective,perspective
+clever closed-form expression,clever closed form expression
+the-scenes,scenes
+Lipshitz continuity,Lipshitz continuity

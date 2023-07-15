@@ -1,0 +1,90 @@
+XNect,XNect
+information flow,flow
+C++ Library,Library
+Seidel,Seidel
+Theobalt,theobalt
+further key distinction,key distinction
+temporal coherence,temporal coherence
+Download,download
+Helge and Pons-Moll,Helge Pons Moll
+complete 3Dpose estimate,complete 3Dpose estimate
+Citation BibTeX,Citation BibTeX
+Download Video,Download video
+Single {RGB} Camera,Single RGB camera
+Gerard and Theobalt,Gerard theobalt
+account of occlusion,account occlusion
+Dushyant and Sotnychenko,Dushyant Sotnychenko
+second stage,stage
+Gerard,Gerard
+{Mehta,Mehta
+HD,HD
+real-time approach,real time approach
+SelecSLS Net,SelecSLS Net
+Xu,Xu
+{ACM Transactions,ACM transaction
+subject,subject
+other people,people
+Oleksandr,Oleksandr
+multi-person scenes,multi person scene
+title,title
+joint angle results,joint angle result
+convolutional neural network,convolutional neural network
+generic scenes,generic scene
+images,image
+consumer hardware,consumer hardware
+accuracy,accuracy
+Code Available,Code
+Franziska and Xu,Franziska Xu
+occlusion,occlusion
+Mohamed and Fua,Mohamed Fua
+Rhodin,Rhodin
+joint angles,joint angle
+pose,pose
+number={4,number 4
+Hans-Peter and Rhodin,Hans Peter Rhodin
+2Dpose and 3D,2Dpose
+Weipeng and Elgharib,Weipeng elgharib
+Dushyant,Dushyant
+coherent skeleton,coherent skeleton
+subsequent stages,subsequent stage
+new architecture,architecture
+MP4,MP4
+Pascal and Seidel,Pascal Seidel
+range,range
+Pons-Moll,Pons Moll
+predicted 2D,predicted 2D
+drastically faster network,drastically faster network
+Hans-Peter,Hans Peter
+real time,real time
+Christian,christian
+previously unseen speed,unseen speed
+identity assignments,identity assignment
+Graphics,graphic
+XNect Model,XNect Model
+Elgharib,elgharib
+objects,object
+Pascal,pascal
+Mohamed,Mohamed
+Our method,method
+full skeletal pose,skeletal pose
+2D,2D
+challenging real-world scenes,challenging real scene
+Mueller,mueller
+Weipeng,Weipeng
+space-time skeletal model,space time skeletal model
+previous work,previous work
+journal,journal
+Fua,Fua
+input,input
+proposed system,proposed
+the-art,art
+2Dpose,2dpose
+features,feature
+account,account
+CNN,CNN
+visible joints,visible joint
+Oleksandr and Mueller,Oleksandr mueller
+Sotnychenko,Sotnychenko
+Helge,Helge
+numpages,numpage
+individuals,individual

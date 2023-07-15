@@ -1,0 +1,446 @@
+vessels,vessel
+potential hazards,potential hazard
+Madrid,Madrid
+Norway,Norway
+shallow depth,shallow depth
+NWC,NWC
+conflict detection,conflict detection
+curved screens,curved screen
+Swedish Army Chief,Swedish Army chief
+Sydney,Sydney
+AUV62-AT underwater vehicle,AUV62 underwater vehicle
+UAVs UK,UAVs
+St. Louis,Louis
+increased world awareness,increased awareness
+mixed reality systems,mixed reality
+TCS,TCS
+lack of oxygen,lack oxygen
+JFOs,JFOs
+Division levels,Division level
+Spanish Army,Spanish army
+Latvian Armed Forces,Latvian Armed force
+engineers,engineer
+real time weather,real time weather
+other US forces,force
+Thales Australia,Thales Australia
+part task trainers,task trainer
+Immersive Display Solutions,Immersive Display solution
+Solutions,solution
+future ITECs,future ITECs
+hypoxia incidents,hypoxia incident
+Nations,nation
+Technology and Nations,Technology nation
+review,review
+SoftekSim,SoftekSim
+Weapon effects,Weapon
+Thales,Thales
+conference,conference
+JFMT,JFMT
+Hohenfels,hohenfel
+oxygen,oxygen
+Charleston,Charleston
+CAVE,CAVE
+RAF Waddington,RAF waddington
+Photo,photo
+LED displays,LED display
+visual display,visual display
+Bohemia Interactive Simulations,Bohemia Interactive simulation
+Latvia,Latvia
+Stockholm,Stockholm
+Netherlands,netherland
+VRSG,VRSG
+Barco NV,Barco NV
+mission rehearsal,mission rehearsal
+new type,type
+tradition,tradition
+Elbit Systems,Elbit
+organisations,organisation
+other data,datum
+multi-role systems,multi role
+swarms of craft,swarms craft
+FACs,FACs
+addition,addition
+Recent Projects,project
+MoA,MoA
+Piraeus,piraeus
+FMS,FMS
+TORE,TORE
+range,range
+various customers,customer
+soldiers,soldier
+cost-effectiveness,cost effectiveness
+Combat Training Centres,Combat Training centre
+arms capabilities,arms capability
+Germany,Germany
+MASA Group,MASA group
+real time,real time
+two panel members,panel member
+Command,command
+Other members,member
+Artificial Intelligence,Artificial intelligence
+vehicles,vehicle
+simulated radio,simulated radio
+pilots and engineers,pilots engineer
+integration,integration
+field,field
+US$500M contract,500M contract
+Karlskrona,Karlskrona
+size,size
+Land Systems Austria,Land Systems Austria
+William Carter,William carter
+programme,programme
+interactive touch tables,interactive touch table
+Keynote Speaker,Keynote speaker
+France,France
+CAS,CAS
+Australia Defence Force,Australia Defence force
+range of platforms,range platform
+IOC,IOC
+ACMI,ACMI
+“critical mass,critical mass
+Memorandum of Agreement,Memorandum agreement
+Bahrain,Bahrain
+realistic mission,realistic mission
+companies,company
+67% of responders,67 responder
+US partner,partner
+JFTS,JFTS
+Canada,Canada
+displays,display
+prime contractor,prime contractor
+iVictrix marksmanship simulator,iVictrix marksmanship simulator
+place,place
+main trainer,main trainer
+Pinnacle Solutions,Pinnacle solution
+sonar,sonar
+aircraft utilisation,aircraft utilisation
+Training,train
+training technology,training technology
+joint forward observers,joint observer
+four-person brief area,person area
+Foreign Military Sales,Foreign Military sale
+training and logistics,training logistic
+Simulators and Simulation,Simulators simulation
+behaviours,behaviour
+Rotary Wing Australia,Rotary Wing Australia
+BISim,BISim
+360-degree view,360 degree view
+realistic cockpit environment,realistic cockpit environment
+records engagement,records engagement
+aircraft cockpit,aircraft cockpit
+modern simulation,modern simulation
+self-contained mobile classroom,contained mobile classroom
+Riga,riga
+Aeralis,aerali
+Hans Lindgren,Hans Lindgren
+Simulation,simulation
+MALET-JSIL Aircrew Trainer,MALET JSIL Aircrew trainer
+oxygen) trainer,oxygen trainer
+Terrain Pack,Terrain pack
+Oman,Oman
+really big event,big event
+hypoxia flight trainer,hypoxia flight trainer
+Risk-Reduction Prototyping,Risk Reduction prototype
+Forward Operating Bases,Operating basis
+CGF,CGF
+simulators,simulator
+measurement system,measurement
+Simulation and Training,Simulation train
+Rome,Rome
+portable containerised system,portable containerised
+three screens,screen
+country,country
+Cubic Defense Systems,Cubic Defense
+Sweden,Sweden
+iAltitude company,iAltitude company
+Argentine Air Force,Argentine Air force
+e-learning programme,learning programme
+Greece,Greece
+Argentina,Argentina
+German Army,German army
+conventional training devices,conventional training device
+no extra travel,extra travel
+craft,craft
+QinetiQ,qinetiq
+Emergency Situations,Emergency situation
+SISO,SISO
+Keynote Panel,Keynote panel
+C4,C4
+Rear cabin crew,Rear cabin crew
+completion,completion
+atmospheric pressure,atmospheric pressure
+weapons,weapon
+STUCAN-HIVE system,STUCAN HIVE
+PG,PG
+flat screens,flat screen
+SITAWARE training product,SITAWARE training product
+Bangladesh Army,Bangladesh army
+survey,survey
+People,People
+Farnborough,farnborough
+Department,department
+Meggitt,Meggitt
+many civil personnel,civil personnel
+many years,year
+briefing and de,briefing
+Kongsberg Digital,Kongsberg Digital
+Bangladesh,Bangladesh
+Training and Simulation,Training simulation
+combat training,combat training
+Royal Navy,Royal Navy
+Agreement,agreement
+Multi Crew Coordination,Multi Crew coordination
+civil area,civil area
+ITEC,ITEC
+live fire ranges,live range
+LM Canada,LM Canada
+replacement,replacement
+controlled symptoms,controlled symptom
+fighter training,fighter training
+QFires Joint Fires,QFires Joint
+TRU Simulation,TRU simulation
+training,training
+SCEPTRE,SCEPTRE
+Head,head
+Leonardo Helicopter Division,Leonardo Helicopter division
+Mobile Trainer,Mobile trainer
+upgrades and maintenance,upgrades maintenance
+RUAG,RUAG
+KIOWA helicopters,KIOWA helicopter
+AWGC,AWGC
+latest version,latest
+Command and Control,Command control
+VBS Control,VBS control
+Subject areas,Subject area
+QuantaDyn Corporation,QuantaDyn corporation
+so-called “hypobaric” chamber,called hypobaric chamber
+theme,theme
+10-foot radius dome,10 foot radius dome
+Florida,Florida
+rear-crew,rear crew
+C101 jet trainer,C101 jet trainer
+TITAN,TITAN
+Communications,communication
+usual seminar,usual seminar
+4-projector 8m display,4 projector 8m display
+1.8m diameter dome,1 8m diameter dome
+two new licenses,license
+XR-1 headset,XR 1 headset
+QuantaDyn`s,QuantaDyn
+classrooms,classroom
+weapon operators,weapon operator
+land,land
+Saab Training,Saab train
+Redifun Simulation,Redifun simulation
+Romania,Romania
+Head of Romania,Head Romania
+airport complex,airport complex
+military equipment,military equipment
+oxygen and nitrogen,oxygen nitrogen
+MACE software,MACE software
+maintenance,maintenance
+US$159M contract,159M contract
+Europe,Europe
+Cubic,cubic
+international event,international event
+Austrian Army,Austrian army
+JTACs,JTACs
+Memorandum,Memorandum
+Joint Cyber-Defence Command,Joint Cyber Defence command
+distributed training,distributed training
+exercises,exercise
+simulator support,simulator support
+connectivity,connectivity
+Behaviour Pack,Behaviour pack
+numbers,number
+POINTER data analysis,POINTER data analysis
+airport,airport
+ITEC organisers,ITEC organiser
+maintenance services,maintenance service
+Calytrix Technologies,Calytrix technology
+Eagle Eye Innovations,Eagle Eye innovation
+Barco,Barco
+Training Needs Analysis,Training analysis
+position,position
+Air Solutions,Air solution
+threats,threat
+real equipment,real equipment
+Air Control trainer,Air Control trainer
+perhaps Stuttgart,stuttgart
+Stucan Solutions,Stucan solution
+Battlespace Simulations,Battlespace simulation
+swarms,swarm
+Indo-Pacific (IPAC) region,Indo Pacific IPAC region
+venue,venue
+more content,content
+VBS Chalkboard Pro,VBS Chalkboard
+Airbus training,Airbus training
+VBS3 Bundle,VBS3 Bundle
+USA,USA
+command post training,command post training
+FOB,FOB
+cyber,cyber
+FIAC,FIAC
+VR headset,VR headset
+electronic warfare training,electronic warfare training
+tablets,tablet
+EC135 helicopter,EC135 helicopter
+London,London
+two civilians,civilian
+67%,67
+Czech Republic,Czech republic
+cyber events,cyber event
+Joint Helicopter School,Joint Helicopter school
+Cyber Systems Spain,Cyber Systems Spain
+ITEC web site,ITEC web site
+upgrades,upgrade
+theme “Interoperability,theme interoperability
+lowest number,lowest number
+Rheinmetall and RUAG,Rheinmetall RUAG
+VBS Radio Pro,VBS Radio
+virtual environment,virtual environment
+recent training devices,training device
+Cologne,cologne
+SWORD,SWORD
+cockpit views,cockpit view
+Initial Operating Capability,Initial Operating capability
+imagery and eye-tracking,imagery eye tracking
+Aviation Academy,Aviation academy
+VSTEP B.V.,VSTEP
+T-BOS,BOS
+school houses,school house
+ITEC attenders,ITEC attender
+Helsinki,Helsinki
+Close,close
+National Guard,National guard
+tiles,tile
+Battalion,Battalion
+Paris,Paris
+US$30.95M contract,30 95M contract
+Bohemia Interactive,Bohemia interactive
+NVG,NVG
+Collins Aerospace Simulation,Collins Aerospace simulation
+intelligence,intelligence
+desktop trainers,desktop trainer
+eye-tracking,eye tracking
+Saudi Arabia,Saudi Arabia
+the-art,art
+MJAT,MJAT
+features,feature
+devices,device
+University of Lille,University Lille
+Raytheon,Raytheon
+NWTS,NWTS
+South Carolina,South Carolina
+SoftekSim of Riga,SoftekSim riga
+some 40Victrix simulators,40Victrix simulator
+DSTL,DSTL
+Control,control
+Dan Eliasson,Dan eliasson
+Targeted Fidelity Simulator,Targeted Fidelity Simulator
+MILES,MILES
+Lille,Lille
+VBS3 system,VBS3
+Systematic A/S,Systematic
+ETSA,ETSA
+HATS,HATS
+article,article
+Tourcoing,tourcoe
+CSC ship design,CSC ship design
+Conclusion,conclusion
+UAE Presidential Guard,UAE Presidential guard
+TNA,TNA
+Staff,staff
+TFS,TFS
+army HQ staff,army HQ staff
+AGRAB Fire Teams,AGRAB team
+QinetiQ Group plc,QinetiQ Group plc
+USA of Tampa,USA Tampa
+marksmanship,marksmanship
+TADSS,TADSS
+training exercises,training exercise
+preference,preference
+headset,headset
+Rotterdam,Rotterdam
+Spain,Spain
+previous years,previous year
+military/civil interaction,military civil interaction
+large screen display,large screen display
+Training Aids,Training aids
+Varjo Technologies,Varjo technology
+Orlando,Orlando
+facilities,facility
+Rheinmetall,rheinmetall
+front plate,plate
+Inzpire Ltd.,Inzpire
+JMRC,JMRC
+US Army,army
+CAE USA,CAE USA
+Dr Raed Arafat,Raed Arafat
+Antycip Simulation,Antycip simulation
+trainer,trainer
+pilots,pilot
+higher fidelity instruments,higher fidelity instrument
+crisis management,crisis management
+Computing,compute
+two-floors,floors
+University,university
+sensor operations,sensor operation
+Dr Frank DiGiovanni,Frank DiGiovanni
+many hotels,hotel
+MCC,MCC
+London City Airport,London City airport
+BAE Systems,BAE
+Boeing training,Boeing training
+Weapon-mounted laser rangefinders,Weapon mounted laser rangefinder
+Qatar,Qatar
+UAE,UAE
+so-called “Imaginarium,called imaginarium
+Night Vision Goggles,Night Vision goggle
+Cyber Range system,Cyber Range
+NAUTIS Console simulators,NAUTIS Console simulator
+hypoxia,hypoxia
+POINTER,POINTER
+Excel exhibition centre,Excel exhibition centre
+support,support
+training scenarios,training scenario
+GPS-tracked threats,GPS tracked threat
+operational flight trainer,operational flight trainer
+3SDL,3SDL
+VBS Blue IG,VBS Blue
+craft and training,craft training
+potentially major event,major event
+FNPTII,FNPTII
+nitrogen,nitrogen
+Tampa,Tampa
+Services,service
+cockpit,cockpit
+basic training,basic training
+XT LED system,LED
+trainers and classrooms,trainers classroom
+€2.7M contract,2 7M contract
+event,event
+pilot’s face mask,pilot face mask
+training building,training build
+conference centre,conference centre
+central London,central London
+contract,contract
+Athens,Athens
+post-game analysis,post game analysis
+ITEC habit,ITEC habit
+Lockheed Martin Canada,Lockheed Martin Canada
+helicopter training packages,helicopter training package
+logistics,logistic
+lack,lack
+imagery,imagery
+platforms,platform
+Indra Sistemas,Indra Sistemas
+FOST,FOST
+trailer-based training system,trailer based training
+Key companies,Key company
+Open Reality Experience,Open Reality experience
+exhibition,exhibition
+ADF,ADF
+L-3 Technologies,3 technology
+student performance,student performance
+Saab,Saab

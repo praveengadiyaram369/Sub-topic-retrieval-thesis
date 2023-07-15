@@ -1,0 +1,125 @@
+current HDDs,current HDDs
+scientific projects,scientific project
+development,development
+democracy,democracy
+capabilities,capability
+Smart city,Smart city
+Blu-ray Disc,Blu ray disc
+prototyping,prototype
+non standardized methods,standardized method
+chemical modeling,chemical model
+TTRAM,TTRAM
+Order,order
+BPM,BPM
+robots,robot
+high cost,high cost
+healthcare,healthcare
+Phase-change memory,Phase change memory
+HTC Vive,HTC vive
+experiments,experiment
+Progress,progress
+Smartglasses,smartglasse
+SONOS,SONOS
+pattern recognition,pattern recognition
+applications,application
+high-temperature superconductivity,high temperature superconductivity
+human–computer interaction,human interaction
+intelligent devices,intelligent device
+"commercialization
+ Cognitive radio",commercialization Cognitive radio
+Extending Moore's law,Extending Moore law
+integrated circuits,integrated circuit
+HAMR,HAMR
+NRAM,NRAM
+SMR,SMR
+parallelizable algorithms,parallelizable algorithm
+various airports,airport
+energy,energy
+Exocortex Diffusion,Exocortex diffusion
+intelligent environment,intelligent environment
+visual surveillance,visual surveillance
+Programmable metallization cell,Programmable metallization cell
+standardization,standardization
+Racetrack memory,Racetrack memory
+Quantum cryptography Commercialization,Quantum cryptography commercialization
+army,army
+magnitude,magnitude
+working prototypes,working prototype
+Semantic Web Stack,Semantic Web stack
+antenna GNU Radio,antenna GNU radio
+[69] Biometrics,69 biometric
+hand-held mobile devices,hand held mobile device
+Civic technology Research,Civic technology
+diffusion,diffusion
+artificial intelligence,artificial intelligence
+archiving data,archiving datum
+new materials,material
+books creation,books creation
+some kinds,kind
+problems,problem
+federal security checkpoints,federal security checkpoint
+Corporate Semantic Web,Corporate Semantic Web
+data,datum
+automated guided vehicle,automated guided vehicle
+economic reasons,economic reason
+digital image processing,digital image processing
+AI,AI
+MAMR,MAMR
+interaction,interaction
+Magnetoresistive random-access memory,Magnetoresistive random access memory
+manufacturing,manufacturing
+open data,open datum
+superfluidity,superfluidity
+Machine vision Research,Machine vision
+Software,software
+List,list
+video,video
+Hypothetical,hypothetical
+limited use,limited
+real-time,real time
+software-defined radios,software defined radio
+primitive amplifications,primitive amplification
+Li-Fi Demos,Li Demos
+[82] [83] Smartstores,82 83 smartstore
+Skyrmion,skyrmion
+Semantic Web Services,Semantic Web service
+track,track
+FJG RAM,FJG RAM
+technological singularity,technological singularity
+CBRAM,CBRAM
+programmed properties,programmed property
+Ferroelectric RAM,Ferroelectric RAM
+Microsoft HoloLens,Microsoft HoloLens
+events,event
+film,film
+Order of magnitude,Order magnitude
+Windows Mixed Reality,Windows Mixed reality
+more substantial amplification,substantial amplification
+diverse industries,diverse industry
+processes,process
+Status,status
+[78] commercialization,78 commercialization
+3D XPoint,XPoint
+neurological disease,neurological disease
+smart carts,smart cart
+Mixed reality,Mixed reality
+Mesh networks,Mesh network
+RRAM,RRAM
+web,web
+government,government
+charge,charge
+Holographic data storage,Holographic data storage
+driverless car,driverless car
+corporate governance,corporate governance
+food packaging,food packaging
+capabilities of video,capabilities video
+memristor,memristor
+"TDMR , CPP/GMR",TDMR CPP GMR
+web machine,web machine
+some components,component
+smart shelves,smart shelf
+Millipede memory,Millipede memory
+"education
+ Oculus Rift",education Oculus Rift
+secure networks,secure network
+based self checkout,based checkout

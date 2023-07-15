@@ -1,0 +1,73 @@
+neuronalen Netze,Netz
+Kontrolle,Kontrolle
+Fähigkeit,Fähigkeit
+FAIR,FAIR
+Reihe,Reihe
+Ankündigungsbeitrag,Ankündigungsbeitrag
+Abstimmung,Abstimmung
+Evaluierung,Evaluierung
+Training,Training
+Vergleich,Vergleich
+Namen Blender,Namen Blender
+Entwickler,Entwickler
+sorgfältige Auswahl,Auswahl
+möglicher Generierungsstrategien,Generierungsstrategien
+Beam,Beam
+BST-Datensatzes,BST Datensatzes
+Effizienzverlust,Effizienzverlust
+dieser Entwicklung,Entwicklung
+Mindestlänge,Mindestlänge
+Verhaltensweisen,Verhaltensweise
+Größe,Größe
+Verfügung,Verfügung
+Such-Hyper-Parametern,Hyper Parametern
+extrahierte Konversationen,Konversation
+nächste Wort,Wort
+Schulung,Schulung
+individuelle Gesprächsverläufe,Gesprächsverläufe
+Skill Talk,Skill Talk
+Bereich Conversational AI,Bereich Conversational AI
+zahlreichen Themen,Thema
+Nähere Informationen,Nähere
+eigenen Angaben,Angabe
+Darstellung,Darstellung
+diese Weise,Weise
+Einfühlungsvermögen,Einfühlungsvermögen
+Entwicklerteam,Entwicklerteam
+Analyse,Analyse
+Forscher,Forscher
+bisherige Forschungsergebnisse,Forschungsergebnisse
+Unternehmen,Unternehmen
+Googles,Googles
+Evaluation,Evaluation
+menschlichere Züge,Zug
+Datensatz Blended,Datensatz Blended
+Open-Source-Projekt,Open Source Projekt
+großer Textsammlungen,Textsammlungen
+Forschung,Forschung
+Gesprächen,Gespräch
+eigenen Projektes,Projektes
+Erlernen,Erlernen
+Ergebnisse,Ergebnis
+einen guten Gesprächspartner,Gesprächspartner
+neuronaler Transformer-Netze,Transformer Netze
+Wissen,Wissen
+bisher entwickelten Chatbots,Chatbots
+verfügbare Gesprächsdaten,Gesprächsdaten
+BST,BST
+Blender,Blender
+Team,Team
+Personae,Personae
+PersonaChat,PersonaChat
+möglichen Antworten,Antwort
+Meena,Meena
+einer Persönlichkeit,Persönlichkeit
+andere Probleme,Problem
+Facebook,Facebook
+Facebooks KI-Abteilung,Facebooks KI Abteilung
+Immer einen Schritt,Schritt
+Mithilfe,Mithilfe
+spaltenweise Modellparallelität,Modellparallelität
+Vielfalt,Vielfalt
+Facebook-AI-Blog,Facebook AI Blog
+"1,5 Milliarden",Milliarde

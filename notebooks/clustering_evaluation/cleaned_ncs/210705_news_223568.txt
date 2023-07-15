@@ -1,0 +1,61 @@
+Manned,Manned
+Mittelständlern,Mittelständler
+Algorithmen,Algorithmen
+Frankreich,Frankreich
+Defense,Defense
+Projektphase,Projektphase
+Nutzlasten,Nutzlast
+Auftrag,Auftrag
+Deutschland,Deutschland
+Themis,Themis
+Konzepte,Konzept
+Gerhard Heiming,Gerhard Heiming
+Diehl Defence,Diehl Defence
+Belgien,Belgien
+Latvijas Mobilais Telefons,Latvijas Mobilais Telefon
+Projekt,Projekt
+Europäischen Kommission,Europäischen Kommission
+Krauss-Maffei Wegmann,Krauss Maffei Wegmann
+Militärübungen,Militärübungen
+Prototyp-System,Prototyp
+bestehendes unbemanntes Bodenfahrzeug,Bodenfahrzeug
+Sensoren,Sensor
+Länder,Land
+Luft- und Bodenplattformen,Luft Bodenplattformen
+Ergebnis,Ergebnis
+Rahmen,Rahmen
+Einsatzbedingungen,Einsatzbedingungen
+Estland,Estland
+Gesamtkosten,Gesamtkosten
+Robotik,Robotik
+Grundlage,Grundlage
+GT Cyber Technologies,GT Cyber Technologies
+spezifische Liste,Liste
+Lettland,Lettland
+Frankreich und Spanien,Frankreich Spanien
+Projektkoordinator Milrem Robotics,Projektkoordinator Milrem Robotics
+Finnland,Finnland
+europaweites Ökosystem,Ökosystem
+Milrem Robotics,Milrem Robotics
+Entwicklung,Entwicklung
+"32,6 Millionen Euro",Millionen Euro
+Insta DefSec,Insta DefSec
+Spanien,Spanien
+Ground System,Ground
+Kooperation,Kooperation
+Nutzlasten und Algorithmen,Nutzlasten Algorithmen
+kombinierten Einsatz,Einsatz
+Architektur,Architektur
+separaten Testgeländen,Testgeländen
+Leitung,Leitung
+Projektbudgets,Projektbudgets
+künstliche Intelligenz,Intelligenz
+Safran Electronics,Safran Electronics
+Hochtechnologie-Bereich,Hochtechnologie Bereich
+technischen Anforderungen,Anforderung
+Nexter Systems,Nexter
+EDIDP,EDIDP
+relevanten klimatischen Bedingungen,Bedingung
+teilnehmenden Mitgliedstaaten,Mitgliedstaaten
+Königliche Militärakademie,Königliche Militärakademie
+Konsortium,Konsortium

@@ -1,0 +1,346 @@
+appropriately low resolution,appropriately resolution
+average performance,average performance
+hypersonic threats,hypersonic threat
+adversary,adversary
+high-resolution aircraft models,high resolution aircraft model
+analytical value,analytical
+modeling and simulation,modeling simulation
+several attempts,attempt
+conference center,conference center
+Simulation software engagements,Simulation software engagement
+existing federation,existing federation
+development risk,development risk
+foundation,foundation
+subsequent changes,subsequent change
+result,result
+pattern recognition,pattern recognition
+forces,force
+individual soldiers,individual soldier
+U.S. national interests,national
+external hyperlinks,external hyperlink
+joint environment,joint environment
+department-wide simulation capability,department wide simulation capability
+feedback,feedback
+mission- and campaign,mission campaign
+entire battle formations,entire battle formation
+naval air,naval air
+conference,conference
+program’s success,program success
+collections,collection
+foxhole,foxhole
+Existing campaign-level models,Existing campaign level model
+joint operations,joint operation
+multiple combatant commands,multiple combatant command
+mission-level simulation capability,mission level simulation capability
+loop,loop
+Photo,photo
+China,China
+future military operations,future military operation
+extent,extent
+Cost Assessment,Cost assessment
+command-decision processes,command decision process
+potential collaboration,potential collaboration
+June Rodriguez,June Rodriguez
+array,array
+campaign-level questions,campaign level question
+kind,kind
+multi-domain operations,multi domain operation
+appropriate tools,tool
+modern management structures,modern management structure
+data,datum
+intricate details,intricate
+these simulation events,simulation event
+Several high-level simulations,high level simulation
+existing systems,existing
+joint conflict,joint conflict
+only practical way,practical
+another 1990s effort,1990s effort
+responsibility and authority,responsibility authority
+joint compliance,joint compliance
+participants,participant
+real time,real time
+improvements,improvement
+level and mission-,level mission
+several other management,management
+machine learning algorithms,machine learning algorithm
+aggregate performance parameters,aggregate performance parameter
+Department of Defense,Department defense
+size,size
+opinions,opinion
+kind of resource,kind resource
+analytical support,analytical support
+Defense Analyses,Defense analysis
+new joint concepts,joint concept
+Peer nations,Peer nation
+endorsement,endorsement
+human decision makers,human decision maker
+Strategy,strategy
+Individual service needs,Individual service
+competitors,competitor
+Output,output
+costly replacement,costly replacement
+program,program
+human commanders,human commander
+multiple levels,multiple level
+models of adversary,models adversary
+Risk,risk
+accurate analysis,accurate analysis
+security,security
+systems of system,systems
+different levels,level
+JMASS’s eventual demise,JMASS eventual demise
+highly detailed representation,highly detailed representation
+mission-,mission
+adversaries,adversarie
+United States,United
+army ground operations,army ground operation
+operational needs,operational
+Simulation Integration,Simulation integration
+Technology,technology
+Why Joint Simulations,Joint simulation
+proof,proof
+approximate models,approximate model
+budget,budget
+these questions,question
+These simulations,simulation
+Senior Executive Service,Senior Executive service
+right mix,mix
+key part,key
+ret,ret
+cyber models,cyber model
+major highways,major highway
+America’s adversaries,America adversarie
+responsibility,responsibility
+program’s standards,program standard
+Modeling,model
+findings,finding
+large-scale operations,large scale operation
+multiple organizations,multiple organization
+individual aircraft,individual aircraft
+his supervision,supervision
+these locations,location
+James N. Bexfield,James Bexfield
+second simulation analysis,simulation analysis
+role,role
+Program management,Program management
+statistics,statistic
+road maps,road map
+library,library
+same basic concepts,basic concept
+retired member,retired member
+U.S. weapons,weapon
+“callers,caller
+campaign,campaign
+future efforts,future effort
+software,software
+higher-resolution maps,higher resolution map
+U.S. Department,department
+combat,combat
+high levels,high level
+human,human
+Robert Richbourg,Robert Richbourg
+ocean-going vessels,ocean vessel
+defense planners,defense planner
+federation,federation
+entities,entity
+campaign-level models,campaign level model
+vast majority,vast majority
+level of forces,level force
+Georgia Institute,Georgia Institute
+monolithic system,monolithic
+technical challenge,technical challenge
+simulation resources,simulation resource
+access,access
+precise address,precise address
+naval forces,naval force
+unprecedented new-force concepts,unprecedented force concept
+Undersecretary,undersecretary
+months,month
+differing scale,differing scale
+Pentagon,Pentagon
+Beijing,Beijing
+advantages,advantage
+maps,map
+important success,success
+investment,investment
+numerous ways,numerous
+unmet program goals,unmet program goal
+either the Institute,Institute
+promising way,promising
+other service capabilities,service capability
+ambition,ambition
+end users,user
+Individuals,individual
+Moscow,Moscow
+Air Force Institute,Air Force Institute
+U.S. military operations,military operation
+"Highly-detailed, mission-level simulations",Highly detailed mission level simulation
+U.S. capabilities,capability
+confidence,confidence
+enduring capabilities,enduring capability
+“street view,street view
+frustrated users,frustrated user
+challenge,challenge
+Program Evaluation,Program evaluation
+Beijing and Moscow,Beijing Moscow
+fidelity,fidelity
+other potential users,potential user
+specific context,specific context
+risk-free venue,risk free venue
+library of lessons,library lesson
+program manager,program manager
+road trip planning,road trip plan
+U.S. Army simulations,Army simulation
+computer science,science
+China and Russia,China Russia
+these service-specific simulations,service specific simulation
+simulation programs,simulation program
+human decisions,human decision
+lessons,lesson
+Office,office
+U.S. Air Force,Air force
+approach,approach
+any editorial,editorial
+standard,standard
+secrecy,secrecy
+leverage,leverage
+prepared threat position,prepared threat position
+Russia,Russia
+analyses,analysis
+single part,single
+Military,military
+levels of fidelity,levels fidelity
+existing simulations,existing simulation
+position,position
+scenario,scenario
+adversary tactics,adversary tactic
+cost,cost
+adversary capabilities,adversary capability
+Both sets,set
+live operational plan,live operational plan
+pace,pace
+monolithic resource,monolithic resource
+single entities,single entity
+multiple simulations,multiple simulation
+viable alternative,viable alternative
+goals,goal
+case,case
+lead time,lead time
+cooperating combination,cooperating combination
+levels of abstraction,levels abstraction
+"credible, multi-domain threats",credible multi domain threat
+resource,resource
+simulation loop,simulation loop
+critical decisions,critical decision
+individual weapon systems,individual weapon
+right path,path
+interaction,interaction
+joint planning,joint plan
+armored vehicles,armored vehicle
+other assets,asset
+Defense,defense
+wide-area map,wide area map
+initial activities,initial activity
+appearance,appearance
+separate models,separate model
+1990s,1990
+flexibility,flexibility
+operations research/systems analyst,operations systems analyst
+security concerns,security concern
+step,step
+trading precision,trading precision
+much experience,experience
+"joint, mission-level model",joint mission level model
+different force levels,force level
+abstraction,abstraction
+revision,revision
+high-fidelity models,high fidelity model
+necessary scale,scale
+airframes,airframe
+analysts,analyst
+proof of concept,proof concept
+much-needed improvements,needed improvement
+defense professionals,defense professional
+high-level campaign models,high level campaign model
+joint integration,joint integration
+simulation capability,simulation capability
+difficult problems,difficult problem
+reasonable return,reasonable return
+more granular direction,granular direction
+other control,control
+rebuilds,rebuild
+Semi-Automated Forces,Semi Automated force
+"high-fidelity, service-specific, simulations",high fidelity service specific simulation
+concept,concept
+Undersecretary of Defense,Undersecretary defense
+service components,service component
+artillery systems,artillery
+speed,speed
+mechanisms,mechanism
+Invitees,invitee
+plan,plan
+American military supremacy,American military supremacy
+Defense and service,Defense service
+Joint Warfare System,Joint Warfare
+views,view
+official position,official position
+complete joint environment,complete joint environment
+artifacts,artifact
+MITRE Corp.,MITRE Corp
+focus,focus
+acquisition professionals,acquisition professional
+paper,paper
+U.S. Navy,Navy
+linked websites,linked website
+multi-service operations,multi service operation
+video teleconference,video teleconference
+models and support,models support
+actual intelligence,actual intelligence
+resources and models,resources model
+research staff member,staff member
+hindsight,hindsight
+Defense Department,Defense department
+Army,army
+mistakes,mistake
+products,product
+Spc,Spc
+Blindness,blindness
+simulation owners,simulation owner
+intelligence community,intelligence community
+levels of resolution,levels resolution
+other government programs,government program
+1990s simulation-development efforts,1990s simulation development effort
+journey,journey
+logistics and combat,logistics combat
+America’s best approach,America approach
+support,support
+Campaign models,Campaign model
+existing aircraft,existing aircraft
+complementary mission-level simulations,complementary mission level simulation
+various services,service
+authoritative models,authoritative model
+precedence,precedence
+simulation and result,simulation result
+several intelligence centers,intelligence center
+Existing defense simulations,Existing defense simulation
+schedule,schedule
+Jonathan Wallace,Jonathan wallace
+other registrants,registrant
+buy-in,buy
+appropriate resolution,resolution
+processes,process
+much benefit,benefit
+port,port
+logistics,logistic
+yet further modifications,modification
+authority,authority
+rich base,rich base
+live exercise opportunities,live exercise opportunity
+existing multi-domain operations,existing multi domain operation
+multiple scenario variations,multiple scenario variation
+board game,board game
+right direction,direction
+Campaign-level simulations,Campaign level simulation
+"big-picture, low-resolution representations",big picture resolution representation
+near future,future
+Institute of Technology,Institute technology

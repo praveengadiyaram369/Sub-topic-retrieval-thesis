@@ -1,0 +1,39 @@
+parallele Datenverarbeitung,Datenverarbeitung
+Performance,Performance
+Referent Marwan Abu-Khalil,Referent Marwan Abu Khalil
+Senior Software Architekt,Senior Software Architekt
+Monitor Pattern,Monitor Pattern
+unterliegenden Betriebssystem,Betriebssystem
+Synchronisation,Synchronisation
+Forschungsbereich,Forschungsbereich
+Java,Java
+Funktion,Funktion
+Java Parallel Streams,Java Parallel Streams
+16. Oktober,Oktober
+verschiedene APIs,APIs
+moderner Multicore-Prozessoren,Multicore Prozessoren
+zehn Prozent,Prozent
+Tricks und Schwierigkeiten,Tricks Schwierigkeit
+einen tiefen Einblick,Einblick
+iX-Workshop Parallele Programmierung,Workshop Parallele Programmierung
+diesem Workshop,Workshop
+Hannover,Hannover
+Frühbucherrabatt,Frühbucherrabatt
+Threads und Synchronisation,Threads Synchronisation
+Java VM,Java VM
+Fork-Join Tasks,Fork Join Tasks
+effiziente Parallelprogrammierung,Parallelprogrammierung
+Heise Medien,Heise Medium
+Threads,Threads
+Mutexe,Mutexe
+Koordination,Koordination
+Zusammenspiel,Zusammenspiel
+Siemens,Siemens
+Begrenzung,Begrenzung
+Parallelität,Parallelität
+13. November,November
+Buchung,Buchung
+Schwierigkeiten,Schwierigkeit
+Hygienekonzept,Hygienekonzept
+zahlreichen praktischen Übungen,Übung
+Tricks,Trick

@@ -1,0 +1,214 @@
+other words,word
+compatibility,compatibility
+those boxes,box
+cameras,camera
+expo,expo
+users' real-life environs,users real life environ
+HTC's belief,HTC belief
+base headset,base headset
+result,result
+Cosmos Elite version,Cosmos Elite
+Tracking boxes,Tracking box
+Ars Technica,Ars Technica
+people's foreheads,people forehead
+5G modem,5G modem
+double-down,double
+option,option
+VR controller,VR controller
+many people,people
+real piece,real piece
+6DOF,6DOF
+users' real-life surroundings,users real life surrounding
+launch date,launch
+tether,tether
+dust,dust
+freedom,freedom
+mystique,mystique
+multiple times,multiple time
+similar sales pitch,sales pitch
+break,break
+cancellation,cancellation
+specific type,specific type
+too much weight,weight
+HTC Vive representative,HTC Vive representative
+joysticks,joystick
+virtual reality,virtual reality
+your room,room
+transparent glass,transparent glass
+above gallery,gallery
+fly,fly
+case,case
+3D content,content
+impending Q2 launch,impending Q2 launch
+VR user's space,VR user space
+Valve's bundle,Valve bundle
+unproven hardware,unproven hardware
+kind,kind
+black body,black body
+that description,description
+expected price point,expected price point
+rest of HTC,rest HTC
+Proton,proton
+same form factor,form factor
+consumer concerns,consumer concern
+viability,viability
+battery,battery
+fact,fact
+original Cosmos,original cosmos
+Hololens,Hololens
+rest,rest
+additional pair,additional pair
+six degrees,degree
+our customers,customer
+5G antennas,5G antenna
+camera footage,camera footage
+"""pass-through"" camera",pass camera
+existing Cosmos system,existing Cosmos
+Vive Cosmos controllers,Vive Cosmos controller
+Mobile World Congress,Mobile Congress
+object,object
+"""developer kit",developer kit
+visor,visor
+"immersive"" headset experiences",immersive headset experience
+worst part,worst
+size,size
+rendering,render
+"""fast-switching"" LCD panel",switching LCD panel
+Cosmos XR,Cosmos XR
+Vive Cosmos XR,Vive Cosmos XR
+default,default
+"inside-out"" tracking",tracking
+foreseeable future,foreseeable future
+Q1,Q1
+virtual images,virtual image
+closer look,closer
+other hand,hand
+picture,picture
+company,company
+virtual space,virtual space
+phone interview,phone interview
+device,device
+"vague, forward-looking device",vague device
+prototype device,prototype device
+consumer model,consumer model
+Oculus Touch archetype,Oculus Touch archetype
+Vive Cosmos Play,Vive Cosmos play
+partners,partner
+clear view,clear view
+cord,cord
+Cosmos siblings,Cosmos sibling
+HTC's Vive division,HTC Vive division
+your real-life environs,real life environ
+truly working prototype,working prototype
+"simpler ""relative"" positioning",simpler relative positioning
+Cosmos XR bundle,Cosmos XR bundle
+Oculus Touch standard,Oculus Touch standard
+"""passthrough"" capacity",passthrough capacity
+SteamVR,SteamVR
+"processing ""puck",processing puck
+actual working prototype,actual working prototype
+Cosmos Play bundle,Cosmos Play bundle
+certain level,level
+Cosmos,cosmos
+Oculus,oculus
+90Hz refresh rate,90Hz refresh rate
+some sort,sort
+reference,reference
+concept,concept
+la Magic Leap,Magic leap
+buttons,button
+spin,spin
+SteamVR tracking boxes,SteamVR tracking box
+user's head,user head
+6DOF controllers,6DOF controller
+plans,plan
+tech companies,tech company
+memory,memory
+two popular headsets,popular headset
+Vive Cosmos ecosystem,Vive Cosmos ecosystem
+5G connectivity,5G connectivity
+belt,belt
+email,email
+HTC,HTC
+blend,blend
+Apple's rumored plans,Apple rumored plan
+our suggestion,suggestion
+change of heart,change heart
+front faceplate,faceplate
+own Proton-like device,Proton device
+O'Brien's comments,Brien comment
+pictured Proton headset,pictured Proton headset
+$250 range,250 range
+headsets,headset
+email update,email update
+triggers,trigger
+image,image
+lower-price option,price option
+O'Brien,Brien
+dangling cord,dangling cord
+system's processors,processor
+HTC's credit,HTC credit
+tethered 5G experience,tethered 5G experience
+hardware,hardware
+"""lightweight component",lightweight component
+three new models,model
+inside-out tracking cameras,tracking camera
+Vive Cosmos Elite,Vive Cosmos elite
+shot,shoot
+shape,shape
+"HTC 
+ HTC",HTC HTC
+users' hands,users hand
+product,product
+lower price point,price point
+Face,face
+hip,hip
+battery-powered device,battery powered device
+production,production
+another Proton design,Proton design
+change of he,change
+other models' variants,models variant
+our conversation,conversation
+closed-doors,closed doors
+tone,tone
+sense,sense
+announcement,announcement
+credence,credence
+Behold,Behold
+additional consideration,additional consideration
+lower price,price
+model's faceplate,model faceplate
+supercharged version,supercharged
+"""room-scale"" tracking boxes",room scale tracking box
+Valve,valve
+target render,target render
+Cosmos Elite bundle,Cosmos Elite bundle
+moon,moon
+separate controllers,separate controller
+Oculus Go's apps,Oculus app
+untethered target render,untethered target render
+heart,heart
+Cosmos Play,Cosmos play
+$899 bundle,899 bundle
+$199 faceplate,199 faceplate
+reaction,reaction
+your head,head
+"""mixed reality"" experiences",mixed reality experience
+VR enthusiasts,VR enthusiast
+head movement,head movement
+current Proton,current proton
+2880x1700 resolution,2880x1700 resolution
+time,time
+embedded speakers,embedded speaker
+company's representatives,company representative
+no further specs,spec
+standard Cosmos headset,standard Cosmos headset
+processing,processing
+standard Cosmos,standard cosmos
+compatible software,compatible software
+Valve Knuckles,Valve knuckle
+some fashion,fashion
+future,future
+exception,exception
+user's he,user
+array,array

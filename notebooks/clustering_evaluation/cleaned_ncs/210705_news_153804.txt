@@ -1,0 +1,604 @@
+Remembering Eulerian,Remembering eulerian
+mathematical hieararchies,mathematical hieararchie
+KMP,KMP
+domain,domain
+commutator subgroup Simplicity,commutator subgroup simplicity
+investigation,investigation
+big picture Normaliztion,big picture normaliztion
+determinant Homology,determinant homology
+choice,choice
+2's complement,2 complement
+path lifts,path lift
+Chess Big list,Chess Big list
+Four fundamental subspaces,fundamental subspace
+Old school,school
+Suicide,suicide
+spectrum,spectrum
+sheafy Von neumann,sheafy neumann
+access fact,access fact
+physical intuition,physical intuition
+C declarations,declaration
+Number of vertices,Number vertex
+solutions,solution
+magnetic monopoles,magnetic monopole
+chinese remainder,chinese remainder
+min(x,min
+specification,specification
+Demoscene tools,Demoscene tool
+absolute differences,absolute difference
+hyperbolic space Product,hyperbolic space product
+Stalks,stalk
+Your arm,arm
+Etymology,etymology
+Munkres Proof,Munkres proof
+Politicization of science,Politicization science
+problems,problem
+equal value modulo,equal modulo
+Associativity,associativity
+Heather subculture,Heather subculture
+intersection,intersection
+maximal ideal,maximal ideal
+Taylor's theorem,Taylor theorem
+Linear optimisation,Linear optimisation
+filter,filter
+tree Center,tree center
+Continued fractions,Continued fraction
+algebraic varieties,algebraic variety
+Gurobi osqp,Gurobi osqp
+sign,sign
+Erik Demaine's lectures,Erik Demaine lecture
+Munkres,munkre
+weak people,weak people
+Em-Bm,Bm
+Debugging,debug
+field,field
+hammurabi,hammurabi
+uniformly sample,uniformly sample
+products and unitarity,products unitarity
+Chain rule,Chain rule
+PID,PID
+Grobner basis,Grobner basis
+cat,cat
+permutation,permutation
+derivative,derivative
+compact iff,compact iff
+sphere,sphere
+proof of Cauchy,proof cauchy
+compactness,compactness
+computation,computation
+most difference,difference
+limit,limit
+Specht modules,Specht module
+sheaf,sheaf
+programs,program
+hand strategy,hand strategy
+Induction,induction
+symmetric group,symmetric group
+America Encoding,America encode
+LLVM code generator,LLVM code generator
+Flows,flow
+place,place
+stack,stack
+CMake Energy,CMake energy
+permutations Djikstra's us,permutations Djikstra
+Sorting,sort
+small machines,small machine
+Hawaiian earring,Hawaiian earring
+Yoneda Germs,Yoneda germ
+holism,holism
+unitarity,unitarity
+Sam harris,Sam harris
+prime ideals,prime ideal
+principal ideals,principal ideal
+motivation,motivation
+Non commuting observables,commuting observable
+Choice and Zorn,Choice zorn
+Proof Thoughts,Proof thought
+semidirect product,semidirect product
+Spectral norm,Spectral norm
+Vandermonde,vandermonde
+Dupin indicatrix,Dupin indicatrix
+syzygy,syzygy
+tensor product,tensor product
+letters,letter
+Jensen,Jensen
+bars,bar
+what base cases,base case
+honor Topological proof,honor Topological proof
+Schur's lemma Daughters,Schur lemma daughter
+image,image
+lines of haskell,lines haskell
+Every continuous function,continuous function
+Accuracy,accuracy
+Diameter,diameter
+Median and Jensen,Median Jensen
+compress/decompress,compress decompress
+Construction of tensor,Construction tensor
+\dots,dots
+simple games,simple game
+number of integers,number integer
+Thoughts,thought
+hacker's guide,hacker guide
+dinosaure,dinosaure
+Alok,alok
+collapse,collapse
+Conversations,conversation
+precision,precision
+Arthur Whitney,Arthur Whitney
+unique elements,unique element
+array GCD,array GCD
+integer relations,integer relation
+Submersions and i,Submersions
+GPUs,GPUs
+Generating k bitsets,Generating bitset
+groups,group
+Derivative of step,Derivative step
+conditioning,conditioning
+modules,module
+normal subgroups,normal subgroup
+fiber products,fiber product
+maximal wrt,maximal wrt
+special relativity,special relativity
+Prim Legendre,Prim legendre
+Fast string concatenation,string concatenation
+destiny Stuff,destiny stuff
+time,time
+incorrect derivation,incorrect derivation
+reals Geometric characterization,reals Geometric characterization
+numerical analysis,numerical analysis
+explicit basis,explicit basis
+molecular dynamics,molecular dynamic
+pairwise,pairwise
+derivative of int,derivative int
+immersions,immersion
+Efficient tree transformations,Efficient tree transformation
+handshaking lemma Git,handshaking lemma Git
+linear language,linear language
+indexed functions Functors,indexed functions functor
+TODO) Torsion,TODO torsion
+FFT,FFT
+Vis editor,Vis editor
+Nets,net
+essential medicines,essential medicine
+TODO) Correctness,TODO correctness
+Gauss Bonnet,Gauss bonnet
+number of int,number int
+state space,space
+splitting,splitting
+vector space,vector space
+Continuum TTRPG Words,Continuum TTRPG word
+unitarity of representations,unitarity representation
+theorem Sum,theorem Sum
+high level view,high level view
+DCPO,DCPO
+hilarious commentary,hilarious commentary
+your cursor,cursor
+Quotes,quote
+LEAN,LEAN
+doubles,double
+algebraic structure,algebraic structure
+number,number
+representations,representation
+infinitude,infinitude
+My preferred version,preferred
+tyranny of light,tyranny light
+file path rank,file path rank
+analysis,analysis
+Networks,network
+segtree Markov,segtree Markov
+double frequency,double frequency
+Penrose cohomology,Penrose cohomology
+set,set
+invertibility Nullstellensatz,invertibility Nullstellensatz
+Simplicial approxmation,Simplicial approxmation
+nilpotents,nilpotent
+binary search readlink,binary search readlink
+STOKE,STOKE
+same singular homology,singular homology
+continuity Intuition,continuity intuition
+algorithm,algorithm
+terms of projections,terms projection
+number of pairs,number pair
+labellings,labelling
+direct bijection DFS,direct bijection DFS
+duktape Kebab,duktape Kebab
+blitz chess,blitz chess
+prime number,prime number
+naturals Example,naturals
+Weingarten map,Weingarten map
+artificial Numbering nodes,artificial Numbering node
+reverse mode AD,reverse mode
+Homotopic maps,Homotopic map
+indicators,indicator
+his EM wave,wave
+QR decomposition,QR decomposition
+quadratic equation,quadratic equation
+other axioms Ordinals,axioms ordinal
+step,step
+gradient covariant,gradient covariant
+arg function,arg function
+p-adic analysis Line,adic analysis
+Whalesong hyperbolic space,Whalesong hyperbolic space
+half-open intervals,open interval
+dense code,dense code
+Adjunctions,adjunction
+spinor,spinor
+PDFs,PDFs
+Greedy Coin change,Greedy Coin change
+Writing Cuneiform,Writing cuneiform
+dynamics,dynamic
+Number of paths,Number path
+proof of infinitude,proof infinitude
+Proof of tree,Proof tree
+Ehrsmann connection Quotes,Ehrsmann connection quote
+Ise Grand shrine,Ise Grand shrine
+Linguistic fun fact,Linguistic fun fact
+problems and solutions,problems solution
+Intuition Singular homology,Intuition Singular homology
+code Bias,code bias
+functorially Lagrange multipliers,functorially Lagrange multiplier
+elementary example,elementary
+JavaScript Offline Documentation,JavaScript Offline documentation
+finite endo-functions Number,finite endo functions number
+fusion bomb,fusion bomb
+Integer partitions,Integer partition
+target language DP,target language
+program analysis,program analysis
+sequence,sequence
+Good reference,Good reference
+compact Hyperbolic groups,compact Hyperbolic group
+Orthogonal Simplicial approximation,Orthogonal Simplicial approximation
+mental models,mental model
+Exact sequences,Exact sequence
+linearization,linearization
+tensor,tensor
+anarchism,anarchism
+sheaf of functions,sheaf function
+tree Number,tree number
+algebra,algebra
+length,length
+Modular inverse calculation,Modular inverse calculation
+janus programming language,janus programming language
+reduced rings,reduced ring
+hamiltonian path Distance,hamiltonian path distance
+fundamental group,fundamental group
+GHC,GHC
+string,string
+ring of MO_Add2,ring MO_Add2
+Pratt,Pratt
+products,product
+21st century,21st century
+Legal Systems,Legal
+"ideal, proof",ideal proof
+rightmost index,rightmost
+union,union
+prime Radical ideals,prime Radical ideal
+explanation,explanation
+past Word problems,Word problem
+type theory,type theory
+book,book
+linear feasibility,linear feasibility
+Localization,localization
+it and Sumerian,sumerian
+graphs Combinations notation,graphs Combinations notation
+advice Reversible computation,advice Reversible computation
+Geomean,geomean
+Cauchy,cauchy
+independent Thoughts,independent thought
+Shrinking wedge,Shrinking wedge
+rooted tree,rooted tree
+Burnside lemma,Burnside lemma
+CPS,CPS
+prefixes Operations,prefixes operation
+theory,theory
+Zorn,zorn
+function calls,function
+theoretic results,theoretic result
+maximum Invisible cities,maximum Invisible city
+Lagrange,lagrange
+Tensor Hom,Tensor Hom
+Strongly Connected Components,Connected component
+* intrinsics Bug,intrinsics Bug
+Disjoint,disjoint
+representation theory,representation theory
+mnemonics,mnemonic
+TODO,TODO
+monodromy,monodromy
+measure theoretic lens,measure theoretic lens
+best compiler,compiler
+PSL(2,PSL 2
+word,word
+python3 Split,python3 split
+two cubes Coq-club,cubes Coq club
+Covering,cover
+closed interval,closed interval
+invitation,invitation
+Animating rotations,Animating rotation
+circles,circle
+Linear algebraic proof,Linear algebraic proof
+squares,square
+foundations,foundation
+terminal object,terminal object
+Bondi k-calculus Topology,Bondi calculus topology
+GCD,GCD
+Hermitian operators,Hermitian operator
+Snake lemma Kernel,Snake lemma Kernel
+quicksort Geometric proof,quicksort Geometric proof
+code of hammurabi,code hammurabi
+projective space Childhood,projective space childhood
+1D,1D
+Mean value theorem,theorem
+cohomology,cohomology
+lower_bound,lower_bound
+APL,APL
+context-free language,context free language
+Label,label
+subarrays,subarray
+natural transformations,natural transformation
+Representable Functors,Representable functor
+adjuntions Madoka Magica,adjuntions Madoka Magica
+vector clocks,vector clock
+preorders,preorder
+useful math Cokernel,math Cokernel
+OCaml git,OCaml git
+Vancouver,Vancouver
+compact spaces,compact space
+Mutorch Computing,Mutorch compute
+painful detail,painful
+Hermitian matrix,Hermitian matrix
+tree,tree
+convex optimizer,convex optimizer
+Weekend paper replication,Weekend paper replication
+cardinals Musing,cardinals musing
+homology and cohomology,homology cohomology
+Handy characterization,Handy characterization
+classical mechanics Theorems,classical mechanics theorem
+addition,addition
+Edward Kmett's list,Edward Kmett list
+derivative of integrals,derivative integral
+Politicization,politicization
+SMAWK,SMAWK
+object,object
+Simply connected spaces,Simply connected space
+text editors,text editor
+adjunction Bounding chains,adjunction Bounding chain
+complex numbers,complex number
+recurrence,recurrence
+DAG Set,DAG Set
+distinct numbers,distinct number
+similarity,similarity
+ꙮ / Eye,ꙮ Eye
+Sanskrit and Sumerian,Sanskrit sumerian
+vertices,vertex
+hell,hell
+induced homomorphism,induced homomorphism
+greedy algorithms,greedy algorithm
+your hands,hand
+Excluded middle,Excluded middle
+Clean way,Clean
+loss of i,loss
+Self attention,attention
+macdonald Recovering topology,macdonald Recovering topology
+Shelly Kegan,Shelly Kegan
+Rete pattern,Rete pattern
+Greg,Greg
+geometry of Lagrange,geometry lagrange
+C programmers,programmer
+partition,partition
+Barycentric subdivision,Barycentric subdivision
+element,element
+haskell,haskell
+any subset,subset
+leapfrog integrators,leapfrog integrator
+Recurrence Stars,Recurrence star
+Heuristics,heuristic
+geometry,geometry
+Alexandrov topology,Alexandrov topology
+Proof,proof
+Hopf Algebras,Hopf algebra
+power series,power series
+tree Image,tree image
+civilization Violent deaths,civilization Violent death
+Specht module actions,Specht module action
+Submersions and immersions,Submersions immersion
+Periodic tables,Periodic table
+combinatorial closed forms,combinatorial closed form
+y f(x,fx
+: Varargs,Varargs
+backend,backend
+shortest path,shortest path
+Fermat's little theorem,Fermat theorem
+Neovim,Neovim
+intuition,intuition
+APL SpaceChem,APL spacechem
+Strict programs,Strict program
+space leaks,space leak
+Limit point compactness,Limit point compactness
+Grokking Zariski,Grokking Zariski
+exponentiation,exponentiation
+passes,pass
+bee colonies,bee colony
+entanglement Books,entanglement book
+O(xlogx) DP,Oxlogx
+Cardistry Poems,Cardistry poem
+int,int
+ancient societies,ancient society
+Hacker news,Hacker news
+Nice way,Nice
+spell,spell
+finite sets,finite set
+Knuth,knuth
+zero-locus,locus
+epsilons,epsilon
+Symplectic version,Symplectic
+edge length,edge length
+differentiable functions,differentiable function
+Prefix/Border function,Prefix Border function
+Dirichlet inversion Incunabulum,Dirichlet inversion Incunabulum
+Nilradical,nilradical
+torsion,torsion
+minutes,minute
+low hanging fruit,hanging fruit
+unit,unit
+jordan peterson,jordan peterson
+terms of i,terms
+unreachable Concurrency,unreachable concurrency
+Octaves,octave
+Bouncing light clock,Bouncing light clock
+products and unit,products unit
+projective duality,projective duality
+maps,map
+lanterns,lantern
+Christoffel symbols,Christoffel symbol
+structure,structure
+TODO) Best practices,TODO practice
+Stalking syzigies,Stalking syzigie
+groupoid interpretation,groupoid interpretation
+bit,bit
+Lovecraftisms Hairy ball,Lovecraftisms Hairy ball
+Shortest walk,Shortest walk
+data structures,data structure
+upper_bound API Books,upper_bound API book
+pure mathematicians,pure mathematician
+Abel's theorem,Abel theorem
+complex analysis,complex analysis
+reverse Dynamic Programming,reverse Dynamic program
+modular fractions,modular fraction
+Laziness,laziness
+solvable word problem,solvable word problem
+projections,projection
+John Conway,John conway
+science,science
+death,death
+Sanskrit,sanskrit
+@coro,coro
+p-adics,adics
+Construction,construction
+Russia,Russia
+schemes,scheme
+Zig,Zig
+Slavoj Zizek,Slavoj Zizek
+Counting necklackes,Counting necklacke
+japanese Tensor,japanese tensor
+Proof Transfinite induction,Proof Transfinite induction
+path independence,path independence
+generating functions,generating function
+upto sqrt(n,upto sqrtn
+Heine Borel,Heine borel
+arrows,arrow
+cubicaltt,cubicaltt
+base ring,base ring
+case,case
+NaN,NaN
+monotone matrix,monotone matrix
+integers,integer
+sheet Mean,sheet
+paths,path
+combinatorics Butcher group,combinatorics Butcher group
+J interpreter compile,interpreter compile
+whose successive terms,successive term
+sum,sum
+MO_Add2,MO_Add2
+type theory Mnemonics,type theory mnemonic
+cycles,cycle
+geometry and dynamics,geometry dynamic
+5) A5,5 A5
+symmetries of thing,symmetries
+unique partitions,unique partition
+plot thoughts,plot thought
+pointed sets,pointed set
+Cofactor,cofactor
+Haskell Handy list,Haskell Handy list
+cokernel,cokernel
+L1 norm,L1 norm
+leaks Presburger arithmetic,leaks Presburger arithmetic
+dihedral group,dihedral group
+Vivado toolchain,Vivado toolchain
+scale,scale
+group theory,group theory
+Lebesgue number lemma,Lebesgue number lemma
+Topology,topology
+quaternion curves,quaternion curve
+multiplicative subset,multiplicative subset
+maxwell,maxwell
+rings,ring
+local Quotient,local Quotient
+Perspectives,perspective
+A5,A5
+Mobius inversion,Mobius inversion
+MLIR,MLIR
+primes Burnside Theorem,primes Burnside Theorem
+languages,language
+Krylov subspace method,Krylov subspace method
+order,order
+Complex orthogonality,Complex orthogonality
+Conditional probability,Conditional probability
+Associativity of addition,Associativity addition
+way speed,speed
+Suicide and rationality,Suicide rationality
+light,light
+Quantum computation,Quantum computation
+Extended euclidian algorithm,Extended euclidian algorithm
+Easy times,Easy time
+Cohomology Stuff,Cohomology stuff
+symmetries,symmetry
+GDB,GDB
+Intro,Intro
+Christoffel,christoffel
+tyranny,tyranny
+bijective combinatorics Arguments,bijective combinatorics argument
+lower_bound binary search,lower_bound binary search
+word2vec,word2vec
+Kruskal,Kruskal
+Frobenius Kernel Galois,Frobenius Kernel Galois
+minkowski convex body,minkowski convex body
+RVs,RVs
+GHC GHC,GHC GHC
+code,code
+Rodrigues curvature formula,Rodrigues curvature formula
+Universe,universe
+Connectedness,connectedness
+Binaural Beat,Binaural beat
+Flat functions,Flat function
+divisors,divisor
+Levi Cevita,Levi Cevita
+pairs,pair
+pokemon gold,pokemon gold
+integrals,integral
+Median,median
+tree Catalan numbers,tree Catalan number
+LCM Centroid,LCM Centroid
+Cartan's spiral staircase,Cartan spiral staircase
+Andrej,Andrej
+Yoneda,Yoneda
+Violence Poverty,Violence poverty
+smith normal form,smith normal form
+popular candidate votes,popular candidate vote
+TODO) Bias,TODO bias
+contest math,contest math
+groups and languages,groups language
+Multiplicative weights,Multiplicative weight
+Self modifying code,modifying code
+rationality,rationality
+autograd,autograd
+wood carver,wood carver
+Bijection,bijection
+Siddharth Bhat Inconvergent,Siddharth Bhat inconvergent
+labellings and representations,labellings representation
+right adjoint,adjoint
+illegal states,illegal
+Collatz Conjecture,Collatz conjecture
+evaluation,evaluation
+Vandermonde and FFT,Vandermonde FFT
+Amortized analysis,Amortized analysis
+polynomial rings,polynomial ring
+Notes,note
+natural numbers,natural number
+linear orders,linear order
+monotone map,monotone map
+great detail,great
+linear algebra,linear algebra
+Maximum matchings,Maximum matching
+implicit heaps,implicit heap
+Ideals,ideal
+arrays,array

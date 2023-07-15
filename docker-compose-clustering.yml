@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  clustering_analysis:
+    build: 
+      context: ./
+      dockerfile: Dockerfile.clustering
+    image: sub_topic_clustering:v1
+    container_name: clustering_analysis
+    volumes: 
+      - /mnt/data/xxx-osint/rss_backup/210705_news:/usr/src/app/data
+    networks:
+      - public_frontend
+
+networks:
+  public_frontend:
+    driver: bridge
+    external: true

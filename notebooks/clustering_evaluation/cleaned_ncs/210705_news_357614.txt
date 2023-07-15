@@ -1,0 +1,420 @@
+instructor,instructor
+broader defense documentation,broader defense documentation
+development,development
+adversary,adversary
+newer synthetic environments,newer synthetic environment
+models and engines,models engine
+absence,absence
+broader truism,broader truism
+analytic power,analytic power
+modeling and simulation,modeling simulation
+midst,midst
+key mission tasks,key mission task
+entirety,entirety
+attempt,attempt
+future of military,future military
+the-shelf,shelf
+differing facets,differing facet
+interoperable synthetic worlds,interoperable synthetic
+these environments,environment
+troop screens,troop screen
+visualization layers,visualization layer
+result,result
+warfighter,warfighter
+readiness outputs,readiness output
+clunky piece,clunky piece
+rich information,rich
+full spectrum,spectrum
+force,force
+machines,machine
+more immersive worlds,immersive
+materiel,materiel
+Improbable LLC,Improbable LLC
+training tasks,training task
+tank simulators,tank simulator
+stand-alone systems,stand
+solution,solution
+80s,80
+various pieces,piece
+readiness ecosystem,readiness ecosystem
+confusion,confusion
+another checked box,checked box
+support technologies,support technology
+fratricide,fratricide
+learning,learn
+pilot instrumentation training,pilot instrumentation training
+true data exploitation,true data exploitation
+fierce melee,fierce melee
+tailor-made feedback,tailor feedback
+individual pilot training,individual pilot training
+learning needs,learning
+harmony,harmony
+larger synthetic world,larger synthetic
+key findings,key finding
+connection,connection
+Soviet doctrine,Soviet doctrine
+failings,failing
+that problem,problem
+commanders,commander
+mission rehearsal,mission rehearsal
+chaos,chaos
+simulated battlespace,simulated battlespace
+testing,testing
+data,datum
+silos,silo
+immersive video games,immersive video game
+new analytic insights,analytic insight
+hands-free recollection aid,hands free recollection aid
+future training events,future training event
+today,today
+mission planning,mission plan
+start,start
+range,range
+soldier,soldier
+wargame community,wargame community
+real-time,real time
+many facets,facet
+revolution,revolution
+aspects,aspect
+respective platforms,respective platform
+personnel,personnel
+wargame adjudicator,wargame adjudicator
+Department of Defense,Department defense
+size,size
+virtual world,virtual
+readiness reporting system,readiness reporting
+growing influence,growing influence
+future platforms,future platform
+some notable exceptions,notable exception
+emerging technologies,emerging technology
+platform-specific training needs,platform specific training
+acquisitions,acquisition
+many military requests,military request
+deliberate desire,deliberate desire
+today’s technologies,today technology
+training event,training event
+80s and ’,80s
+80s and ’90s,80s 90
+No canonical view,canonical view
+decisions,decision
+hands,hand
+First Company,company
+vision,vision
+Instrumentation Command,Instrumentation command
+premises,premise
+armed forces,armed force
+website,website
+modularity,modularity
+simulated world,simulated
+precursor,precursor
+simulation industry,simulation industry
+seamless coordination,seamless coordination
+monolithic engine’s offering,monolithic engine offering
+sort,sort
+only lip service,lip service
+Training,train
+Ethernet cables,Ethernet cable
+mission,mission
+United States,United
+instance,instance
+live training,live training
+technology,technology
+business,business
+extensive simulator network,extensive simulator network
+training provider,training provider
+capabilities of future,capabilities future
+key lessons,key lesson
+acquisition decisions,acquisition decision
+various engines’ models,engines model
+Analytic Limitations,Analytic limitation
+simulation,simulation
+defense studies,defense study
+Models of military,Models military
+proposals,proposal
+Image,image
+track readiness outputs,track readiness output
+adjudicator,adjudicator
+Training and Instrumentation,Training instrumentation
+key,key
+ecosystem of learning,ecosystem learn
+simulation plane,simulation plane
+simulators,simulator
+synthetic environment requirements,synthetic environment requirement
+Simulation Training,Simulation train
+warfighting edge,warfighting edge
+Wearable devices,Wearable device
+successful technological gamble,successful technological gamble
+Models,model
+urgent need,urgent
+differing,differ
+findings,finding
+ability of military,ability military
+sands of machines,sands machine
+action reports,action report
+location,location
+integrative potential,integrative potential
+Augmented reality applications,Augmented reality application
+modular approach,modular approach
+broader ecosystem,broader ecosystem
+interoperable components,interoperable component
+communication technologies,communication technology
+disparate locations,disparate location
+well-documented interfaces,documented interface
+use of AI,AI
+crucible,crucible
+composable puzzle pieces,composable puzzle piece
+“ common plumbing,common plumbing
+partnership,partnership
+Recent advances,advance
+training simulations,training simulation
+more complex environment,complex environment
+Groundhog Day-style,Groundhog Day style
+data sets,data set
+Department,department
+initiatives,initiative
+combat,combat
+commanders and decision-makers,commanders decision makers
+follow-on training,follow training
+“ federation,federation
+situation,situation
+demands,demand
+flexible architecture,flexible architecture
+utilization of equipment,utilization equipment
+impetus,impetus
+president,president
+various medical procedures,medical procedure
+adaptable architecture,adaptable architecture
+necessary combat skills,combat skill
+demonstrated readiness level,demonstrated readiness level
+unit,unit
+Synthetic environments,Synthetic environment
+mistakes and failings,mistakes failing
+assessment,assessment
+“ structural readiness,structural readiness
+technical challenge,technical challenge
+range of training,range training
+High Level Architecture,High Level architecture
+access,access
+future battlespace,future battlespace
+training,training
+SIMNET of military,SIMNET military
+command’s mantra,command mantra
+future fight,future fight
+utilization,utilization
+future force structure,future force structure
+time,time
+opportunities,opportunity
+cusp of what,cusp
+that same possibility,possibility
+military forces,military force
+maneuver,maneuver
+certain training findings,training finding
+computer processing,processing
+munition,munition
+circumstances,circumstance
+extraordinary amount,extraordinary
+technological history,technological history
+general manager,general manager
+monolithic frameworks,monolithic framework
+AI algorithms,AI algorithm
+near-limitless scale,limitless scale
+onset,onset
+actions,action
+simulator networking,simulator network
+decision-makers,decision makers
+equipment,equipment
+fidelity,fidelity
+achievements,achievement
+progress,progress
+extent multiple engines,extent multiple engine
+peacetime,peacetime
+lightning bolt,lightning bolt
+technical standards,technical standard
+games,game
+maintenance,maintenance
+analytics,analytic
+totality,totality
+overall military effectiveness,military effectiveness
+crucible of combat,crucible combat
+training demands,training demand
+SIMNET,SIMNET
+change and vision,change vision
+Distributed Interactive Simulation,Distributed Interactive simulation
+collective training environment,collective training environment
+lessons,lesson
+deployment,deployment
+similar approach,approach
+training and mission,training mission
+action analysis,action analysis
+engines,engine
+broader “ cycle,broader cycle
+creations,creation
+playing field,playing field
+analysis,analysis
+diverse range,diverse range
+single system,single
+military,military
+product strategist,product strategist
+scenario,scenario
+key aid,key aid
+rate player performance,rate player performance
+today’s simulators,today simulator
+changing character,changing character
+serious gaming capabilities,gaming capability
+important goal,goal
+virtual battlespace,virtual battlespace
+data storage,data storage
+target,target
+instrumentation,instrumentation
+Jennifer McArdle,Jennifer McArdle
+requirements,requirement
+Learning Limitations,Learning limitation
+significant resources,resource
+marketplace,marketplace
+mass extinction,mass extinction
+Simulated wargames,Simulated wargame
+discovery and assessment,discovery assessment
+majority,majority
+current synthetic environments,current synthetic environment
+large-scale collective coordination,large scale collective coordination
+armored vehicles,armored vehicle
+limitation,limitation
+futuristic space-style suit,futuristic space style suit
+Defense,defense
+private cloud,private cloud
+military user,military user
+ecosystem,ecosystem
+flying hours,flying hour
+organizational change,organizational change
+trainees,trainee
+substitute,substitute
+requests,request
+best intentions,intention
+outcomes,outcome
+point of need,point
+shared standards,shared standard
+Jack Thorpe,Jack Thorpe
+wargames,wargame
+decision-support and concept,decision support concept
+congested coastal environment,congested coastal environment
+defense contractors,defense contractor
+leadership and change,leadership change
+spinning logo,spinning logo
+fellow,fellow
+common standards,common standard
+learning and analysis,learning analysis
+evolve,evolve
+some organizational reform,organizational reform
+optimal solution,optimal solution
+Hybrid clouds,Hybrid cloud
+features,feature
+Caitlin Dohrman,Caitlin Dohrman
+leadership,leadership
+1980s,1980s
+battle,battle
+dense urban battlespace,dense urban battlespace
+technology problem,technology problem
+resource inputs,resource input
+day’s training exercise,day training exercise
+SIMNET’s distributed architecture,SIMNET distributed architecture
+first demonstration,demonstration
+educational content,educational content
+logo,logo
+discrete training need,discrete training
+player biases,player bias
+control,control
+military’s approach,military approach
+’90s,90
+Synthetic Training Environment,Synthetic Training environment
+failures,failure
+DARPA,DARPA
+rim,rim
+development and deployment,development deployment
+Mojave Desert,Mojave Desert
+concept,concept
+sensors,sensor
+multiple simulation engines,multiple simulation engine
+end-users’ learning outcomes,users learning outcome
+battlefield effectiveness,battlefield effectiveness
+"e.g., microprocessors",microprocessor
+military readiness,military readiness
+synthetic world,synthetic
+military simulation,military simulation
+assigned missions,assigned mission
+Soviet adversary,Soviet adversary
+individuals’ physiological responses,individuals physiological response
+mechanics,mechanic
+design,design
+some wargame designers,wargame designer
+planning,plan
+Soviet computer-generated tanks,Soviet generated tank
+blocks,block
+reporting,report
+puzzle,puzzle
+multiple engines,multiple engine
+public cloud,public cloud
+discovery,discovery
+simulated training events,simulated training event
+technological “ revolution,technological revolution
+immense utility,immense utility
+era,era
+Tetris,tetris
+undergird education delivery,undergird education delivery
+force structure,force structure
+Army,army
+modernization decisions,modernization decision
+scalability,scalability
+Thorpe,Thorpe
+full analytic potential,analytic potential
+mistakes,mistake
+deeper analytic value,deeper analytic
+“ institutional readiness,institutional readiness
+that wicked question,wicked question
+defense establishment,defense establishment
+Program Executive Office,Program Executive office
+no real follow-up,real follow
+change,change
+cloud computing,cloud compute
+education,education
+computer image generators,image generator
+ability,ability
+American troops,American troop
+fundamental transformation,fundamental transformation
+alternative options,alternative option
+similar inflection point,inflection point
+minimal human effort,minimal human effort
+other training scenarios,training scenario
+U.S. troops,troop
+collective team training,collective team training
+single engine,single engine
+physics,physics
+maintenance and utilization,maintenance utilization
+decision-support,decision support
+clear institutional processes,clear institutional process
+service,service
+end-users,users
+academia,academia
+aspects of readiness,aspects readiness
+crucial mission areas,crucial mission area
+distinct purposes,distinct purpose
+sort of modularity,sort modularity
+readiness,readiness
+design and testing,design testing
+simulation’s scale,simulation scale
+day,day
+totality of actions,totality action
+benefits,benefit
+organizational issue,organizational issue
+status quo,status quo
+modernization,modernization
+platform,platform
+more limited solutions,limited solution
+laser gun,laser gun
+player moves,player
+stated readiness needs,stated readiness
+separate data repositories,separate data repository
+disparate simulators,disparate simulator
+real-time planning support,real time planning support
+virtual desert,virtual desert
+future systems,future
+complexity,complexity

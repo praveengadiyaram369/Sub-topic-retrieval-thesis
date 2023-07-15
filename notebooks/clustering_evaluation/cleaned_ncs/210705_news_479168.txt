@@ -1,0 +1,33 @@
+initial character configuration,initial character configuration
+contrast,contrast
+realistic human motions,realistic human motion
+actions,action
+prior work,prior work
+Pose Variational Autoencoder,Pose Variational autoencoder
+framework,framework
+optimization,optimization
+second stage,stage
+unique strategies,unique strategy
+athletic jumping motions,athletic jumping motion
+engineering,engineer
+control policies,control policy
+suitable starting point,suitable starting point
+discovery,discovery
+Our method,method
+task objective,task objective
+simulation,simulation
+high jumps,high jump
+subspace,subspace
+novel policies,policy
+natural poses,natural pose
+obstacle,obstacle
+BDS) algorithm,BDS algorithm
+no motion examples,motion
+novel strategies,strategy
+P-VAE,VAE
+physics-based characters,physics based character
+DRL,DRL
+rich variety,rich variety
+combination,combination
+initial character states,initial character
+athletic skills,athletic skill

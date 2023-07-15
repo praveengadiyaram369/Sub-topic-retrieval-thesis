@@ -1,0 +1,47 @@
+Datenverarbeitung,Datenverarbeitung
+neuronaler Netze,Netz
+Schulterschluss,Schulterschluss
+Datenverwaltung,Datenverwaltung
+Toolset Ludwig,Toolset Ludwig
+große Datenmengen,Datenmengen
+Integration,Integration
+Zukunft,Zukunft
+Zusammenschluss,Zusammenschluss
+Analytik,Analytik
+Machine-Learning-Techniken,Machine Learning Techniken
+Linux,Linux
+Zusammenführung,Zusammenführung
+Unterorganisationen,Unterorganisationen
+Standards,Standard
+Analyse,Analyse
+einen gemeinsamen Schirm,Schirm
+Tools,Tools
+Motivation,Motivation
+Organisation,Organisation
+Projekten,Projekt
+Nähe,Nähe
+Datenverarbeitung und Analytik,Datenverarbeitung Analytik
+AI Foundation,AI Foundation
+Training,Training
+Ergebnis,Ergebnis
+Linux Foundation,Linux Foundation
+Austausch,Austausch
+engere Zusammenarbeit,Zusammenarbeit
+ML-Methoden,Methoden
+Daten und ML,Daten
+Endanwender,Endanwender
+Konsolidierung,Konsolidierung
+probabilistische Programmiersprache Pyro,Programmiersprache Pyro
+neuronaler Netze ONNX,Netze ONNX
+Integration und Interoperabilität,Integration Interoperabilität
+Interoperabilität,Interoperabilität
+Data Scientists,Data Scientists
+Neural Network,Neural Network
+KI und Daten,KI Datum
+Dach,Dach
+ODPi,ODPi
+einheitliche Richtlinien,Richtlinie
+KI,KI
+Daten,Datum
+Open Data Platform,Open Data Platform
+offiziellen Ankündigung,Ankündigung

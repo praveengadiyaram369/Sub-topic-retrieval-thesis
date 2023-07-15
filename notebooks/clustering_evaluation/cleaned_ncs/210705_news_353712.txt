@@ -1,0 +1,209 @@
+Brain,brain
+MI-BCI,MI BCI
+then statements,statement
+LBP,LBP
+hypervectors,hypervector
+confidences,confidence
+Hyperdimensional Computing Projects,Hyperdimensional Computing project
+RTL,RTL
+HD computing,HD compute
+absence,absence
+noise,noise
+LSTM,LSTM
+ictal states,ictal
+Ouput,Ouput
+knowledge-representation architecture,knowledge representation architecture
+Choice,choice
+70.1%,70 1
+SVM and MLP,SVM MLP
+undetected seizures,undetected seizure
+higher robustness,higher robustness
+execution time,execution time
+embedding,embed
+Lower number,number
+approaches,approach
+density,density
+subsumption hierarchies,subsumption hierarchy
+representations,representation
+convolutional neural network,convolutional neural network
+preprocessing,preprocesse
+smart prosthetic application,smart prosthetic application
+vector machine,vector machine
+Online learning capability,learning capability
+higher accuracy,higher accuracy
+Python Remarks,Python remark
+fast learning,learn
+electroencephalography (EEG) signals,electroencephalography EEG signal
+distance metrics,distance metric
+binary hypervectors,binary hypervector
+real-valued features,real valued feature
+Matlab,Matlab
+Multimodality Emotion Recognition,Multimodality Emotion recognition
+memory failures,memory failure
+Binary classification,Binary classification
+our algorithm,algorithm
+testing,testing
+only 25%,25
+data,datum
+learning curve,learning curve
+ECG,ECG
+Hand Gesture Recognition,Hand Gesture recognition
+addition,addition
+projects,project
+Remarks,remark
+other rule-like behaviors,rule behavior
+multiplication,multiplication
+both valence,valence
+Efficent execution,Efficent execution
+arousal,arousal
+any point,point
+correct class,correct class
+higher classification accuracy,higher classification accuracy
+comprehensive collection,comprehensive collection
+Matlab and SystemVerilog,Matlab SystemVerilog
+iEEG electrodes Output,iEEG electrodes output
+GaussianNB,GaussianNB
+negative valence,negative valence
+pattern recognition tasks,pattern recognition task
+similarity,similarity
+memory accesses,memory access
+intracranial electroencephalography,intracranial electroencephalography
+permutation,permutation
+Computer Interfaces,interface
+patient-specific postprocessing,patient specific postprocesse
+electrode selection Link,electrode selection link
+GPU Implementation,GPU implementation
+embarrassingly parallel operations,embarrassingly parallel operation
+strategies,strategy
+SystemVerilog,SystemVerilog
+actuators Implementation,actuators implementation
+iEEG,iEEG
+80.1%,80 1
+Python and OpenMP,Python OpenMP
+Features,feature
+Output,output
+oracle model,oracle model
+SVM,SVM
+EMG,EMG
+most failure mechanisms,failure mechanism
+local binary patterns,local binary pattern
+Multicalss classification,Multicalss classification
+synthesizable VHDL library,synthesizable VHDL library
+error class,error class
+seizures,seizure
+-located implementation,located implementation
+physiological signals,physiological signal
+bit packing,bit pack
+sensors,sensor
+robot,robot
+Multiclass learning,Multiclass learn
+same memory footprint,memory footprint
+implementation peculiarities,implementation peculiarity
+ground truth labels,ground truth label
+optimization,optimization
+inference,inference
+Particular design choices,design choice
+extreme computational simplicity,extreme computational simplicity
+classification of EEG,classification EEG
+letter,letter
+hyperdimensional (HD) vectors,hyperdimensional HD vector
+different modalities,modality
+hyperdimensional (HD) computing,hyperdimensional HD compute
+MLP,MLP
+silicon prototype,silicon prototype
+paper,paper
+faster training time,faster training time
+regression tasks,regression task
+Regression,regression
+Matlab Remarks,Matlab remark
+differential,differential
+library modules,library module
+backpropagation,backpropagation
+energy-efficient algorithm,energy efficient algorithm
+accuracy,accuracy
+estimates and confidences,estimates confidence
+stream of EMG,stream EMG
+OpenMP,OpenMP
+Energy-Efficient Seizure Detection,Energy Efficient Seizure detection
+binary HD representations,binary HD representation
+model,model
+Python,Python
+various coding,code
+iEEG) Project specification,iEEG Project specification
+One-/few-shot learning,shot learn
+optimized 9-layer perceptron,optimized 9 layer perceptron
+interesting tasks,interesting task
+original representation,original representation
+efficient algorithm,efficient algorithm
+computing,compute
+83.2%,83 2
+~50% energy saving,50 energy save
+another Link,link
+well-defined set,defined set
+SVM Link,SVM link
+Streams of characters,Streams character
+close match,close match
+cicular buffers,cicular buffer
+European languages,European language
+main idea,main idea
+single-core execution Link,single core execution link
+noninvasive brain,noninvasive brain
+Sparse Hyperdimensional Computing,Sparse Hyperdimensional compute
+PULPv3 4-core chip,PULPv3 4 core chip
+these architectures,architecture
+Demo link,Demo link
+multi-core processors,multi core processor
+remaining 75%,remaining 75
+characters,character
+representations and strategies,representations strategy
+Introduction,introduction
+GPUs,GPUs
+Matlab and Python,Matlab Python
+arithmetic operations,arithmetic operation
+fuses,fuse
+Design space exploration,Design space exploration
+density of representations,density representation
+68.4%,68 4
+service,service
+EEG error-related potentials,EEG error potential
+other methods,method
+hamming distance LUT,hamming distance LUT
+events,event
+8-core accelerator,8 core accelerator
+System Demo,demo
+EMG sensors,EMG sensor
+Streams,stream
+estimates,estimate
+simultaneous 2.39× area,simultaneous 2 39 area
+long-term iEEG monitoring,long term iEEG monitor
+parameters,parameter
+GSR,GSR
+holographic representation,holographic representation
+model of computing,model compute
+Hardware techniques,Hardware technique
+initial model,initial model
+HD computing's acceleration,HD computing acceleration
+human epileptic seizures,human epileptic seizure
+Input,input
+time,time
+986× throughput improvements,986 throughput improvement
+false alarms,false alarm
+sparse 8160-bit vector,sparse 8160 bit vector
+tradeoffs,tradeoff
+brain works,brain work
+TX2 embedded device,TX2 embedded device
+operations,operation
+data and preprocessing,data preprocesse
+large number,large number
+electrodes,electrode
+velocities,velocity
+random nonlinear function,random nonlinear function
+energy consumption,energy consumption
+CNN,CNN
+and y-direction,direction
+European language recognition,European language recognition
+embedded system,embedded
+CPU,CPU
+Accelerator,accelerator
+emotion recognition,emotion recognition
+comparable accuracy,comparable accuracy

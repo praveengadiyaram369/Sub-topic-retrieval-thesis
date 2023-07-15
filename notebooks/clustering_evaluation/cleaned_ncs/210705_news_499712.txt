@@ -1,0 +1,142 @@
+pure mathematics,pure mathematic
+properties,property
+LSTMs,LSTMs
+our popular newsletter,popular newsletter
+metric structures,metric structure
+transformations,transformation
+universal blueprint,universal blueprint
+any news,news
+DL domain,domain
+constructive procedure,constructive procedure
+recommender systems,recommender
+CNNs,CNNs
+progress,progress
+beauty,beauty
+coarsening operator,coarsening operator
+lens of invariances,lens invariance
+Loading,load
+definition,definition
+underlying group,underlying group
+new applications,application
+organizing principle,organizing principle
+group-equivariant CNNs,group equivariant CNNs
+omissions,omission
+different DL approaches,approach
+DeepMind,DeepMind
+nature,nature
+Bavarian university,Bavarian university
+validity,validity
+5Gs,5Gs
+Transformer,transformer
+convolutional neural networks,convolutional neural network
+perspective of symmetry,perspective symmetry
+study,study
+invariances and symmetries,invariances symmetry
+Imperial College Professor,Imperial College professor
+Sophus Lie,Sophus Lie
+interested parties,interested party
+object recognition,object recognition
+social networks,social network
+continuation,continuation
+overview,overview
+definition of symmetry,definition symmetry
+lens,lens
+different kinds,kind
+problem,problem
+These building blocks,building block
+comments,comment
+geometric principles,geometric principle
+neural networks,neural network
+RNNs,RNNs
+nineteenth century,nineteenth century
+local reference frames,local reference frame
+systematization,systematization
+New York University,York university
+Modern geometry,Modern geometry
+gauges,gauge
+projective geometry,projective geometry
+scale separation,scale separation
+hierarchy,hierarchy
+ambitious work references,ambitious work reference
+branding,brand
+perfection,perfection
+mathematicians and philosophers,mathematicians philosopher
+influential works,influential work
+few unifying principles,unifying principle
+graphs,graph
+group theory,group theory
+different inductive biases,inductive bias
+geometric domains,geometric domain
+modern mathematics,modern mathematic
+future architectures,future architecture
+hand,hand
+invariants,invariant
+LSTM and Transformer,LSTM transformer
+Geometric Deep Learning,Geometric Deep learn
+relationships,relationship
+hierarchy of geometries,hierarchy geometry
+Graphs,Graphs
+geodesics,geodesic
+researchers,researcher
+specific realisations,specific realisation
+perspective,perspective
+weekly AI updates,weekly AI update
+Subscribe,subscribe
+datasets,dataset
+traffic forecasting,traffic forecast
+global symmetry transformations,global symmetry transformation
+intrinsic mesh CNNs,intrinsic mesh CNNs
+revolutionary approach,revolutionary approach
+input domain,input domain
+mathematicians,mathematician
+order,order
+current state,current
+some class,class
+same concepts,concept
+tangent bundles,tangent bundle
+these geometries,geometry
+philosophers,philosopher
+protein biology,protein biology
+network architectures,network architecture
+team,team
+symmetries,symmetry
+19th-century research,19th century
+new paper,paper
+recurrent neural networks,recurrent neural network
+special cases,special case
+“one true geometry,true geometry
+many tasks,task
+Grids,grid
+variety of DL,variety
+equivariant message-passing networks,equivariant message passing network
+Qualcomm AI Research,Qualcomm AI
+“Erlangen Programme,Erlangen programme
+symmetry and invariance,symmetry invariance
+invariances,invariance
+game playing,game play
+homogeneous space,homogeneous space
+ages,age
+any errors,error
+DL architectures,architecture
+work,work
+drug repositioning,drug reposition
+deep neural networks,deep neural network
+groups,group
+continuous symmetries,continuous symmetry
+relations,relation
+profound impact,profound impact
+theory,theory
+geometric stability,geometric stability
+DL community,community
+principled way,principled
+manifolds,manifold
+Erlangen Programme mindset,Erlangen Programme mindset
+arXiv,arXiv
+common mathematical framework,common mathematical framework
+often-confusing reinvention,confusing reinvention
+global invariant map,global invariant map
+pervasive Category theory,pervasive Category theory
+“one idea,idea
+GNNs,GNNs
+study of invariants,study invariant
+research breakthroughs,breakthrough

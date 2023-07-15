@@ -1,0 +1,99 @@
+acceleration,acceleration
+Markus Greiner,Markus Greiner
+Mikhail Lukin,Mikhail lukin
+winners,winner
+box,box
+these capabilities,capability
+QuEra Computing QuEra,QuEra Computing QuEra
+DARPA,DARPA
+Boston,Boston
+excess of 100x,excess 100x
+modeling and simulation,modeling simulation
+speed,speed
+Ditto) effort,Ditto effort
+unique advantage,unique advantage
+optimization,optimization
+technology,technology
+choice,choice
+pioneering research,pioneering
+these designs,design
+creators of Julia,creators Julia
+Numerical Software,Numerical software
+artificial intelligence techniques,artificial intelligence technique
+significant boost,boost
+Harvard,Harvard
+microelectronic system design,microelectronic design
+quantum computing,quantum compute
+Julia Computing,Julia compute
+parallel computing capabilities,parallel computing capability
+simulation performance,simulation performance
+engineers,engineer
+microelectronic system simulation,microelectronic simulation
+pharmaceutical simulation,pharmaceutical simulation
+DARPA’s Intelligent Auto-Generation,DARPA Intelligent Auto Generation
+scientists and engineers,scientists engineer
+materials-science,materials science
+simulation,simulation
+control electronics,control electronic
+art machine learning,art machine learn
+Keno Fischer,Keno fischer
+scientists,scientist
+Ditto,ditto
+creation,creation
+1000x,1000x
+Julia Computing CTO,Julia Computing CTO
+these techniques,technique
+accuracy,accuracy
+Composition,composition
+electronics simulation space,electronics simulation space
+modeling,model
+use of Python,Python
+world-class team,class team
+data science,data science
+near future,future
+Pumas framework,Pumas framework
+Surrogate Models,Surrogate model
+artificial intelligence,artificial intelligence
+lens,lens
+US semiconductor industry,semiconductor industry
+Harvard University,Harvard university
+reality,reality
+boundaries,boundary
+novel tools,tool
+pharmaceuticals,pharmaceutical
+QuEra’s mission,QuEra mission
+two language problem,language problem
+project PI,project
+effort,effort
+funding,funding
+"over 1,500 universities",1 500 university
+excess,excess
+creators,creator
+QuEra,QuEra
+JuliaHub platform,JuliaHub platform
+larger industry,larger industry
+Funding,fund
+Cambridge,Cambridge
+ease of use,ease
+“Julia’s performance,Julia performance
+heart,heart
+Julia and Julia,Julia Julia
+world-renowned scientists,renowned scientist
+promise,promise
+acceptable levels,acceptable level
+Vladan Vuletic,Vladan vuletic
+traditional simulation tooling,traditional simulation tool
+recent focus area,focus area
+US competitiveness,competitiveness
+Julia Computing Julia,Julia Computing Julia
+Companies,company
+heart of Boston,heart Boston
+sub-system components,component
+Julia,Julia
+differentiable programming capabilities,differentiable programming capability
+high-performance language,high performance language
+suite,suite
+QuEra’s sophisticated designs,QuEra sophisticated design
+automated software framework,automated software framework
+multi-physics simulations,multi physics simulation
+commercially relevant applications,commercially relevant application
